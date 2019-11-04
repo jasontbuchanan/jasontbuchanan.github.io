@@ -1,6 +1,6 @@
 ---
 layout: concert
-categories: performance
+categories: switch
 date: 2018-03-02
 time: "8:00 pm"
 location:

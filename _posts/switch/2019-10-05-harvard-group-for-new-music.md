@@ -1,6 +1,6 @@
 ---
 layout: concert
-categories: performance
+categories: switch
 date: 2019-10-05
 time: 8:00pm
 location:

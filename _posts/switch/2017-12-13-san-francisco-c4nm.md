@@ -1,6 +1,6 @@
 ---
 layout: concert
-categories: performance
+categories: switch
 date: 2017-12-13
 time: "8:00 pm"
 location:
