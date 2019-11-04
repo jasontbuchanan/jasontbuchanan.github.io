@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio
+# title: Bio
 headerImage: jtb_mixer_1200x800.jpg
 ---
 
