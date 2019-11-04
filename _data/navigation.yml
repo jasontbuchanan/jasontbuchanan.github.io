@@ -3,11 +3,8 @@
 
 - title: About
   url: /about/
-  sublinks:
-    - page: Bio
       url: /about/index.html#bio
-    - page: Works
-      url: /about/works/
+
 
 - title: Concerts
   url: /concerts/
