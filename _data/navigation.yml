@@ -12,10 +12,10 @@
 - title: Concerts
   url: /concerts/
 
-- title: Scores
+- title: Works
   sublinks:
-    - page: Scores
-      url: /projects/scores/
+    - page: Works
+      url: /projects/works/
     # - page: Events
       # url: /projects/events/
 
