@@ -1,6 +1,6 @@
 ---
 layout: concert
-categories: performance
+categories: switch
 date: 2014-04-13
 event: Eastman Computer Music Center Concert
 location:

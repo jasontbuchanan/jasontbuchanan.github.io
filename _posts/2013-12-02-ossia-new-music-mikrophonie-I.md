@@ -1,6 +1,6 @@
 ---
 layout: concert
-categories: performance
+categories: switch
 date: 2013-12-02
 event: Ossia New Music Concert
 location:

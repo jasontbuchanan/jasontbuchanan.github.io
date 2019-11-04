@@ -1,6 +1,6 @@
 ---
 layout: concert
-categories: performance
+categories: switch
 date: 2013-11-20
 event: Eastman Computer Music Center Concert
 location:
