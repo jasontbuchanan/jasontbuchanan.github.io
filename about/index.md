@@ -1,6 +1,6 @@
 ---
 layout: page
-categories: bio
+categories: blog
 image: jtb_mixer_1200x800.jpg
 headerImage: jtb_mixer_1200x800.jpg
 date: 2019-11-5
