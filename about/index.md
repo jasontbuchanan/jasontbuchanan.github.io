@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-headerImage: header-switch-copper.jpg
+headerImage: jtb_mixer_1200x800.jpg
 ---
 
 ## Bio
