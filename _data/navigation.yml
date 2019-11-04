@@ -12,10 +12,10 @@
 - title: Concerts
   url: /concerts/
 
-- title: Projects
+- title: Scores
   sublinks:
-    - page: Call for Scores
-      url: /projects/call-for-scores/
+    - page: Scores
+      url: /projects/scores/
     # - page: Events
       # url: /projects/events/
 
@@ -29,8 +29,8 @@
     # - page: Resources
     #   url: /media/resources.html
 
-- title: Support
-  url: /support/
+# - title: Support
+  # url: /support/
 
 - title: Blog
   url: /blog/

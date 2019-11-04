@@ -6,6 +6,5 @@ headerImage: header-switch-copper.jpg
 
 ## Bio
 
-placeholder for JTB Bio
-
+here is where the long bio will be 
 {%- include ensemble-listing.html -%}
