@@ -67,9 +67,6 @@ Perhaps something deeply restorative is at play in Sivan's music. Perhaps her mu
 
 
 
----
-
-## Bio
 
 ⋅⋅⋅Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works that explore fragmentation, multiplicity, oscillation between intelligibility and unintelligibility, and the integration of live performance with technology. He is currently Artistic Director of the [Switch~ Ensemble] and Department Chair/Lecturer in Composition, Music Theory, and Electronic Music Composition at the College of Music, Mahidol University in Thailand. His works have been described as “an unearthly collage of sounds”, “sharply-edged”, and “free jazz gone wrong—in a good way.”
 
