@@ -13,4 +13,4 @@ Due to the overwhelming number of composers who we felt were deserving of recogn
 
 Thank you all for your submissions, and we look forward to hearing more of your incredible work in the future!
 
-{% include prize-announcement.html %}
+<!-- {% include prize-announcement.html %}
