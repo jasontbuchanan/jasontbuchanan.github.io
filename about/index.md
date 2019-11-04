@@ -9,9 +9,9 @@ postDescription: Short Bio
 tags:
 ---
 
+# Short Bio
 
-
-Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works that explore fragmentation, multiplicity, oscillation between intelligibility and unintelligibility, and the integration of live performance with technology. He is currently Artistic Director of the [Switch~ Ensemble] and Department Chair/Lecturer in Composition, Music Theory, and Electronic Music Composition at the College of Music, Mahidol University in Thailand. His works have been described as “an unearthly collage of sounds”, “sharply-edged”, and “free jazz gone wrong—in a good way.”
+<img class="float-sm-left col-sm-6 col-lg-5 p4-0 pb-3" src="{{ site.images }}/jtb-photos/royaumont.jpg">Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works that explore fragmentation, multiplicity, oscillation between intelligibility and unintelligibility, and the integration of live performance with technology. He is currently Artistic Director of the [Switch~ Ensemble] and Department Chair/Lecturer in Composition, Music Theory, and Electronic Music Composition at the College of Music, Mahidol University in Thailand. His works have been described as “an unearthly collage of sounds”, “sharply-edged”, and “free jazz gone wrong—in a good way.”
 
 Jason is the recipient of a 2010-11 Fulbright Fellowship at the Hochschule für Musik und Theater in Hamburg (DE) as a visiting scholar, a fellowship and commissions from Royaumont for *soliloquios del viento* (2016) for the Talea Ensemble+EXAUDI Vocal Ensemble and *ACTOR-NETWORK THEORY* (2017) for the Académie Voix Nouvelles Ensemble, a 2015 American-Scandinavian Foundation Grant, a 2014 commission from the International Horn Society and 2015 ASCAP Morton Gould Award for Double Concerto (2014) written for the Eastman Musica Nova Ensemble, soloists Jeff Nelsen, Michael Walker, and conductor Brad Lubman, a 2014 ASCAP Morton Gould Award & Howard Hanson Orchestral Prize (2014) for Asymptotic Flux: Second Study in Entropy (2013) commissioned by the Mizzou International Composers Festival for Alarm Will Sound, a commission from the Blue Water Chamber Orchestra as winner of Iron Composer (2014), commissions from Ensemble Nikel (2014) and Iktus Percussion (2013), the German/American Fulbright Commission (2011) and winner of newEar Composer’s Competition (2013).
 
@@ -19,7 +19,7 @@ In 2015, as Artist-in-Residence at USF Verftet/City Council of Bergen, Norway an
 
 *PANIC ARCHITECTURE* (2017), commissioned by the Earle Brown Music Foundation for the Talea Ensemble and TIME SPANS Festival in NYC, evokes a participatory framework demanding compulsive interaction and attention. The relentless influx of email, messages, and notifications compel our constant engagement and response, functioning as both our tether to society and primary mode of interpersonal contact. Intermittent reinforcement entices users to obsessively check for new content. Digital panic occurs when multiple, simultaneous systems demand a user’s attention concurrently.
 
-Scenes from his multimedia opera Hunger have received performances at Darmstadt (2014) with Ensemble Interface (DE), The Industry’s FIRST TAKE in L.A. (2015) with wild Up, and the MATA Interval Series in New York City (2015) with the [Switch~ Ensemble]. “Hunger is a kind of training session in mental disintegration… An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” – L.A. Times
+Scenes from his multimedia opera *Hunger* have received performances at Darmstadt (2014) with Ensemble Interface (DE), The Industry’s FIRST TAKE in L.A. (2015) with wild Up, and the MATA Interval Series in New York City (2015) with the [Switch~ Ensemble]. “Hunger is a kind of training session in mental disintegration… An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” – L.A. Times
 
 *all-forgetting-is-retrieval* (2019) for ensemble and augmented conductor was commissioned by the Thailand New Music and Arts Symposium, exploring the formation of human memory, retrieval, failure, and the emotional space of “lost” experiences—the inability to be truly present in a moment, or further commit to memory experiences that are simultaneously both formative and fleeting. The rapid loss of their fidelity is staggering, and this work attempt to confront that impermanence and decay.
 
@@ -29,7 +29,7 @@ He is widely sought internationally as a guest composer and lecturer at institut
 
 
 
-<img class="float-sm-right col-sm-6 col-lg-5 p4-0 pb-3" src="{{ site.images }}/sivan-post/DSC_2705.jpg">
+
 
 
 
