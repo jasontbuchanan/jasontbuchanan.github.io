@@ -5,7 +5,7 @@ sidebarName: call-for-scores-sidebar.html
 headerImage: header-blurry-vipa.jpg
 ---
 
-The [Switch~ Ensemble] is happy to announce its 2016-2017 commissioning prize. The winning composer will be commissioned to write a new work for the [Switch~ Ensemble] for our 2017-2018 season. Additionally, pending the instrumentation of submitted works, we hope to choose several existing works to include in our repertoire for upcoming seasons.
+The [Switch~ Ensemble] is happy to announce its 2016-2017 commissioning prize. The winning composer will be commissioned to write a new work for the [Switch~ Ensemble] for our 2017-2018 season. Additionally, pending the instrumentation of submitted works, we hope to choose several existing works to include in our works for upcoming seasons.
 
 ### Deadline
 
@@ -48,7 +48,7 @@ The newly commissioned work is due no later than December 30, 2017. Duration of 
 
 As mentioned above, the newly-commissioned work should incorporate multimedia, electronics, or technology in a significant way. The winning composer and the ensemble will negotiate a contract for the new work before the official announcement of the prize. The [Switch~ Ensemble] reserves the right not to award a grand prize commission.
 
-Any submitted works that match our instrumentation or a subset of it are eligible for consideration for our future programming and repertoire. Beyond awarding a grand prize, we hope to discover new works that we’ll be excited to perform on our future seasons.
+Any submitted works that match our instrumentation or a subset of it are eligible for consideration for our future programming and works. Beyond awarding a grand prize, we hope to discover new works that we’ll be excited to perform on our future seasons.
 
 ### Application form
 

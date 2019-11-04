@@ -6,8 +6,8 @@
   sublinks:
     - page: Musicians
       url: /about/index.html#musicians
-    - page: Repertoire
-      url: /about/repertoire/
+    - page: works
+      url: /about/works/
 
 - title: Concerts
   url: /concerts/

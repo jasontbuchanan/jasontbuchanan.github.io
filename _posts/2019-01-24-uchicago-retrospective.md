@@ -7,13 +7,13 @@ image: uchicago-images/ensemble.jpeg
 headerImage: uchicago-images/ensemble.jpeg
 date: 2019-01-24
 manualDate: Fall 2017
-postDescription: In May 2017, the [Switch~ Ensemble] embarked on its first academic residency at the University of Chicago. Over the course of a week involving several days of rehearsals, an open rehearsal, and two concerts, [Switch~] gave premieres of six new works as well as performances of solo and ensemble pieces from our repertoire.
+postDescription: In May 2017, the [Switch~ Ensemble] embarked on its first academic residency at the University of Chicago. Over the course of a week involving several days of rehearsals, an open rehearsal, and two concerts, [Switch~] gave premieres of six new works as well as performances of solo and ensemble pieces from our works.
 tags:
 ---
 
 <img class="float-sm-right col-sm-4 col-lg-3 p4-0" src="{{ site.images }}/uchicago-images/switch_flier_tim_4_21_take2-800x1035.jpg">
 
-In May 2017, the [Switch~ Ensemble] embarked on its first academic residency at the University of Chicago. Over the course of a week involving several days of rehearsals, an open rehearsal, and two concerts, [Switch~] gave premieres of six new works as well as performances of solo and ensemble pieces from our repertoire. Co-sponsored by the Chicago Center for Contemporary Composition and CHIME Studios(Chicago Integrated Media Experimental Studio), the University of Chicago presented [Switch~] at two off-campus venues: Mana Contemporary and Elastic Arts.
+In May 2017, the [Switch~ Ensemble] embarked on its first academic residency at the University of Chicago. Over the course of a week involving several days of rehearsals, an open rehearsal, and two concerts, [Switch~] gave premieres of six new works as well as performances of solo and ensemble pieces from our works. Co-sponsored by the Chicago Center for Contemporary Composition and CHIME Studios(Chicago Integrated Media Experimental Studio), the University of Chicago presented [Switch~] at two off-campus venues: Mana Contemporary and Elastic Arts.
 
 The ensemble's visit in mid-May was the culmination of a year-long collaboration between members of [Switch~] and UChicago graduate student composers. Switch's artistic director, Jason Thorpe Buchanan, visited Chicago ahead of the residency to give seminars on various approaches toward the implementation of electroacoustic sounds and visual multimedia. During individual meetings with the participating composers, [Switch~] personnel helped clarify technological needs and artistic goals as the pieces were being written.
 

@@ -50,7 +50,7 @@ We encourage you to share the works that best represent your abilities and inter
 
 The [Switch~ Ensemble] is principally interested in supporting emerging composers, but we understand that "emerging" means something different to everyone—and that emerging composers come at a wide range of ages. Generally, we think of emerging composers as either (1) still enrolled in post-secondary or graduate study, (2) still seeking or only recently-appointed to full-time musical employment, or (3) still on a trajectory of development and self-renewal in musical thinking.
 
-We particularly encourage composers without current institutional opportunities to work with professional ensembles to apply for this workshop, and all ages are welcome. Any submitted works that match our instrumentation or a subset of it are eligible for consideration for our future programming and repertoire. We hope to discover new works that we’ll be excited to perform on our future seasons, and make new contacts with composers for future collaboration.
+We particularly encourage composers without current institutional opportunities to work with professional ensembles to apply for this workshop, and all ages are welcome. Any submitted works that match our instrumentation or a subset of it are eligible for consideration for our future programming and works. We hope to discover new works that we’ll be excited to perform on our future seasons, and make new contacts with composers for future collaboration.
 
 Please submit scores and recordings (audio or video) with a link via Dropbox or streaming service on our online application form.
 

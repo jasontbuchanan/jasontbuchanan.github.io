@@ -1,7 +1,7 @@
 ---
 layout: page
 moduleSize: small
-title: Repertoire
+title: works
 ---
 
 <!-- create empty string to append tags -->
@@ -9,7 +9,7 @@ title: Repertoire
 <!-- capture the process of appending tags in a list -->
 <!-- append current tag to tagString, strip all whitespace, but retain space between words -->
 {% capture listOfTags %}
-  {%- for work in site.repertoire -%}
+  {%- for work in site.works -%}
     {%- if work.tags -%}
       {%- for tag in work.tags -%}
         {{ tagString | append: tag | append: ' ' }}
@@ -20,8 +20,8 @@ title: Repertoire
 
 <!-- split the list of tags, remove duplicates, and sort by alpha -->
 {%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
-<!-- sort repertoire by alpha -->
-{%- assign sortedRepYear = site.repertoire | sort: 'yearComposed' | reverse -%}
+<!-- sort works by alpha -->
+{%- assign sortedRepYear = site.works | sort: 'yearComposed' | reverse -%}
 
 <!-- Portfolio-->
 <div class="row row-portfolio-filter">
@@ -52,12 +52,12 @@ title: Repertoire
 <div class="row row-portfolio" data-columns="3">
 	<div class="grid-sizer"></div>
   {%- for work in sortedRepYear -%}
-		<div class="portfolio-item repertoire-item p-2 {% for item in work.tags %}{{-item }} {% endfor %}{{ work.size -}}">
+		<div class="portfolio-item works-item p-2 {% for item in work.tags %}{{-item }} {% endfor %}{{ work.size -}}">
 			<div class="portfolio-wrapper">
         {%- if work.thumbnailImage -%}
           <img src="{{ site.images }}/{{ work.thumbnailImage }}" alt="">
         {% else %}
-          <img src="{{ site.images }}/repertoire-images/thumbnails/switch_misc_400x200.jpg" alt="">
+          <img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="">
         {%- endif -%}
 				<div class="portfolio-overlay"></div>
         <div class="portfolio-caption">

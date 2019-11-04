@@ -1,7 +1,7 @@
 ---
 layout: page
 moduleSize: small
-title: Repertoire
+title: works
 ---
 
 <!-- create empty string to append tags -->
@@ -9,7 +9,7 @@ title: Repertoire
 <!-- capture the process of appending tags in a list -->
 <!-- append current tag to tagString, strip all whitespace, but retain space between words -->
 {% capture listOfTags %}
-  {%- for work in site.repertoire -%}
+  {%- for work in site.works -%}
     {%- if work.tags -%}
       {%- for tag in work.tags -%}
         {{ tagString | append: tag | append: ' ' }}
@@ -20,9 +20,9 @@ title: Repertoire
 
 <!-- split the list of tags, remove duplicates, and sort by alpha -->
 {%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
-<!-- sort repertoire by alpha -->
-{%- assign sortedRepYear = site.repertoire | sort: 'yearComposed' | reverse -%}
-{%- assign sortedRepLast = site.repertoire | sort: 'last' -%}
+<!-- sort works by alpha -->
+{%- assign sortedRepYear = site.works | sort: 'yearComposed' | reverse -%}
+{%- assign sortedRepLast = site.works | sort: 'last' -%}
 
 <!-- Portfolio-->
 <div class="row">

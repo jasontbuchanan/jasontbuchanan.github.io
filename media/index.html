@@ -6,7 +6,7 @@ moduleSize: small
 
 {%- include media-navigation.html -%}
 
-{%- assign sortedRep = site.repertoire | sort: 'yearComposed' | reverse -%}
+{%- assign sortedRep = site.works | sort: 'yearComposed' | reverse -%}
 
 {%- for piece in sortedRep -%}
 
@@ -27,7 +27,7 @@ moduleSize: small
               <div>{% include soundcloud_player.html type="tracks" trackID=item.ID %}</div>
             {%- endif -%}
           {%- else -%}
-            <a href="#"><img src="{{site.images}}/repertoire-images/switch_misc_1000x500px.jpg" alt=""></a>
+            <a href="#"><img src="{{site.images}}/works-images/switch_misc_1000x500px.jpg" alt=""></a>
           {%- endif -%}
         </div>
         <div class="col-md-4 py-3">

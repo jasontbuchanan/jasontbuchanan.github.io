@@ -47,6 +47,6 @@ Ensemble mission, curation, recent projects and collaborations, presentation of 
 
 Part 2 (Thursday 3/28, 1:35-3:25pm):
 
-Workshop rehearsals and discussion of repertoire for 9pm concert, technical aspects of performing electroacoustic and intermedia compositions, Q&A.
+Workshop rehearsals and discussion of works for 9pm concert, technical aspects of performing electroacoustic and intermedia compositions, Q&A.
 
 <a href="https://www.facebook.com/events/421575935078723/" target="blank">More information available here.</a>
