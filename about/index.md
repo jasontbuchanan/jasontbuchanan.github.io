@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 categories: bio
 image: jtb_mixer_1200x800.jpg
 headerImage: jtb_mixer_1200x800.jpg
