@@ -4,9 +4,9 @@
 - title: About
   url: /about/
   sublinks:
-    - page: Musicians
-      url: /about/index.html#musicians
-    - page: works
+    - page: Bio
+      url: /about/index.html#bio
+    - page: Works
       url: /about/works/
 
 - title: Concerts
