@@ -1,4 +1,4 @@
-<div class="latest-performance">
+<div class="latest-switch">
 	{% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'switch'" %}
 	<ul>
 		{%- for post in performancePosts limit:5 -%}
