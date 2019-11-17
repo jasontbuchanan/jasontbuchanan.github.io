@@ -19,12 +19,12 @@ html {
 }
 
 body {
-    background-color: #222;
+    background-color: #fff;
     font-family: "Roboto", Arial, serif;
     line-height: 1.85;
     font-weight: 400;
     font-size: 15px;
-    color: #ddd;
+    color: #999;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
 }
@@ -44,17 +44,17 @@ iframe {
 
 ::-moz-selection {
     background: #4a90e2;
-    color: #222 !important;
+    color: #fff !important;
 }
 
 ::-webkit-selection {
     background: #4a90e2;
-    color: #222 !important;
+    color: #fff !important;
 }
 
 ::selection {
     background: #4a90e2;
-    color: #222 !important;
+    color: #fff !important;
 }
 
 .wrapper {
@@ -70,12 +70,12 @@ body .layout {
 
 .layout {
     opacity: 0;
-    -webkit-transition: 1.2s opacity ease;
-            transition: 1.2s opacity ease;
+    -webkit-transition: 1.7s opacity ease;
+            transition: 1.7s opacity ease;
 }
 
 .layout.fade-in {
-    opacity: 1.;
+    opacity: 1;
 }
 
 .scroll-top {
@@ -5156,8 +5156,8 @@ a[rel~="gallery"]:hover {
 
 .footer {
     position: relative;
-    background: #111111;
-    color: #cccccc;
+    background: #1b1d1f;
+    color: #bfbfbf;
 }
 
 .footer a {
