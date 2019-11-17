@@ -38,7 +38,35 @@ layout: page
 		{%- endfor -%}
 	</div>
 	<!-- Media end-->
+<!-- program notes -->
+<div class="row">
+	{%- if page.notes -%}
+	<!-- Media-->
+	<div class="col-12 mb-5">
+		{% assign printHeader = true %}
+		{%- for item in page.notes -%}
+					<h2 class="text-left">Program Notes</h2>
+					{% assign printHeader = nil %}
+				{%- endif -%}
+			{%- else -%}
+			{% comment %}
+				<div class="col-12 mb-3">
+
+
+				</div>
+			{% endcomment %}
+			{%- endif -%}
+		{%- endfor -%}
+	</div>
+	<!-- Media end-->
 	{%- endif -%}
+
+
+
+	{%- endif -%}
+
+
+
 	<div class="col-lg-8 order-2 order-md-1">
     <h2 class="single-portfolio-title">Performances of {{ page.title }}</h2>
     <div class="concert-program mb-3">
