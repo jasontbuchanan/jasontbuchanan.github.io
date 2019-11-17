@@ -12,7 +12,7 @@
 .header .inner-nav > ul > li > a,
 .header.header-light.header-small .extra-nav > ul > li > a,
 .header.header-light.header-small .inner-nav > ul > li > a {
-  color: #333;
+  color: #ddd;
 }
 @media (max-width: 991px) {
   .header {
@@ -29,7 +29,8 @@
    BODY
 */
 body {
-  bg-color: #11111;
+  background-color: #11111;
+    background: #11111;
   font-family: "Garamond", Times, serif;
     line-height: 1.75;
     font-size: 20px;
@@ -152,7 +153,7 @@ footer aside .fa {
 }
 
 .page-loader {
-    background: #111;
+    background: #000;
     position: fixed;
     top: 0;
     bottom: 0;
