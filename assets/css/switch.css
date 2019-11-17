@@ -142,3 +142,21 @@ footer aside .fa {
 .widget ol li, .widget ul li {
     border-bottom: 0px solid rgba(238, 238, 238, .9);
 }
+
+/*!------------------------------------------------------------------
+[Preloader]
+*/
+
+.pace .pace-progress {
+    background: #4a90e2;
+}
+
+.page-loader {
+    background: #111;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 9998;
+}
