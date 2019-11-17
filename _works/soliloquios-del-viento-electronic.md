@@ -4,7 +4,7 @@ composer:
   last: Thorpe Buchanan
 title: "soliloquios del viento (sextet version)"
 duration: 14 minutes
-yearComposed: 2016; rev 2017
+yearComposed: 2017
 commissionedOrWrittenFor: Royaumont
 size: sextet or septet
 instrumentation:
