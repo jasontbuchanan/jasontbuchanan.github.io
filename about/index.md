@@ -28,6 +28,51 @@ Primary mentors have included Ricardo Zohn-Muldoon, Steven Takasugi, Pierluigi B
 He is widely sought internationally as a guest composer and lecturer at institutions including the University of Virginia, San Jose State University, UNLV, Queens New Music Festival, MATA, UT Austin, Tzlil Meudcan Festival (Tel Aviv), Hamilton College, Chamber Music Campania (Italy), Portland State University, TRANSIT Festival Belgium, University of Richmond, UNCG, Michigan State University, University of Northern Colorado, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University. He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory. Current projects include the multimedia opera *Hunger*, and a large work for the Hong Kong New Music Ensemble commissioned by the MATA Festival in NYC (2020). www.jasonthorpebuchanan.com
 
 
+________________
+
+# Accordion test
+
+<div class="accordion" id="myaccordion">
+
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          Collapse Title
+        </button>
+      </h5>
+    </div>
+    <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
+      <div class="card-body">
+        Collapsible content
+      </div>
+    </div>
+  </div>
+
+  <!--
+    ...
+  -->
+
+  <div class="card">
+    <div class="card-header" id="headingN">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseN" aria-expanded="false" aria-controls="collapseN">
+          Another Collapse Title
+        </button>
+      </h5>
+    </div>
+    <div id="collapseN" class="collapse" aria-labelledby="headingN" data-parent="#myaccordion">
+      <div class="card-body">
+        More collapsible content
+      </div>
+    </div>
+  </div>
+
+</div>
+
+________________
+
+
 
 
 
