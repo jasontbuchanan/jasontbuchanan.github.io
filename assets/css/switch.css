@@ -36,6 +36,22 @@ body {
     color: #bbbbbb;
 }
 
+body .layout {
+    height: 100%;
+    min-height: 100%;
+    width: 100%;
+}
+
+.layout {
+    opacity: 0;
+    -webkit-transition: 1.2s opacity ease;
+            transition: 1.2s opacity ease;
+}
+
+.layout.fade-in {
+    opacity: 0.7;
+}
+
 /*
    TYPOGRAPHY
 */
