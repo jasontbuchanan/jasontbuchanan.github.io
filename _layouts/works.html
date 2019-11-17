@@ -39,26 +39,10 @@ layout: page
 	</div>
 	<!-- Media end-->
 <!-- program notes -->
-<div class="row">
-	{%- if page.notes -%}
-	<!-- Media-->
-	<div class="col-12 mb-5">
-		{%- for item in page.notes -%}
-					<h2 class="text-left">Program Notes</h2>
-					{% assign printHeader = nil %}
-				{%- endif -%}
-			{%- else -%}
-			{% comment %}
-				<div class="col-12 mb-3">
 
 
-				</div>
-			{% endcomment %}
-			{%- endif -%}
-		{%- endfor -%}
-	</div>
-	<!-- Media end-->
-	{%- endif -%}
+	{{ content }}
+
 
 
 
