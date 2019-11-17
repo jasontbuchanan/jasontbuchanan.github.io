@@ -10,9 +10,7 @@
   url: /concerts/
 
 - title: Works
-  sublinks:
-    - page: Works
-      url: /works/
+  url: /works/
     # - page: Events
       # url: /projects/events/
 
