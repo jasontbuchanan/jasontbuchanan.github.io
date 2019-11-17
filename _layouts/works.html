@@ -3,7 +3,7 @@ layout: page
 ---
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
-{% comment %}{% assign currentPiecePerfs = site.works | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
+{% comment %}{% assign currentPiecePerfs = site.repertoire | where_exp:"item", "item.title contains 'page.title'" %}{% endcomment %}
 
 <!-- Composition-->
 <div class="row">
@@ -38,8 +38,6 @@ layout: page
 		{%- endfor -%}
 	</div>
 	<!-- Media end-->
-<!-- program notes -->
-
 	{%- endif -%}
 	<div class="col-lg-8 order-2 order-md-1">
     <h2 class="single-portfolio-title">Performances of {{ page.title }}</h2>
@@ -51,7 +49,7 @@ layout: page
 						<div class="row">
 							{%- if performance.thumbnail -%}
 							<div class="col-sm-4">
-				        <a href="{{ performance.url }}"><img class="img-fluid mb-3 mb-md-0" src="{{ site.images }}/works-images/{{ performance.thumbnail }}" alt=""></a>
+				        <a href="{{ performance.url }}"><img class="img-fluid mb-3 mb-md-0" src="{{ site.images }}/repertoire-images/{{ performance.thumbnail }}" alt=""></a>
 							</div>
 				      {%- endif -%}
 							<div class="col-sm-8 mb-3 location-details">
