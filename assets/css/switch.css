@@ -29,10 +29,10 @@
    BODY
 */
 body {
-  background-color: #11111;
+  bg-color: #11111;
   font-family: "Garamond", Times, serif;
     line-height: 1.75;
-    font-size: 18px;
+    font-size: 20px;
     color: #bbbbbb;
 }
 
