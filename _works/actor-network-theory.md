@@ -28,6 +28,4 @@ media:
     url: https://vimeo.com/306331445
 headerImage: works-images/
 thumbnailImage: works-images/thumbnails/actor-network-theory-royaumont-350x145.jpg
-
-score: http://www.jasonthorpebuchanan.com/img/ACTOR-NETWORK_THEORY_score/ACTOR-NETWORK_THEORY_(2017)_ThorpeBuchanan_p1_thumb.jpg
 ---

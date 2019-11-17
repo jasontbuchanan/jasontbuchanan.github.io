@@ -33,6 +33,4 @@ media:
     url: https://vimeo.com/245320082
 headerImage: works-images/
 thumbnailImage: works-images/thumbnails/panicarchitecture-talea-350x163.jpg
-
-score: http://www.jasonthorpebuchanan.com/img/panicarchitecture_score/panic_architecture_p1_thumb.jpg
 ---
