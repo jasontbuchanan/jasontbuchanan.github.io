@@ -32,15 +32,14 @@ title: works
     </ul>
     <ul class="filters h5" id="filters">
 			<li><a class="current" href="#" data-filter="*">All</a></li>
+      <li><a href="#" data-filter=".voices">Ensemble with voices</a></li>
+      <li><a href="#" data-filter=".orchestra">Orchestra/Large Ensemble</a></li>
+      <li><a href="#" data-filter=".chamber">Chamber (3-8 players)</a></li>
+      <li><a href="#" data-filter=".perc">Percussion (2-4 players)</a></li>
       <li><a href="#" data-filter=".solo">Solo</a></li>
-      <li><a href="#" data-filter=".duo">Duo</a></li>
-      <li><a href="#" data-filter=".trio">Trio</a></li>
-      <li><a href="#" data-filter=".quartet">Quartet</a></li>
-      <li><a href="#" data-filter=".quintet">Quintet</a></li>
-      <li><a href="#" data-filter=".sextet">Sextet</a></li>
-      <li><a href="#" data-filter=".septet">Septet</a></li>
-      <li><a href="#" data-filter=".octet">Octet</a></li>
-      <li><a href="#" data-filter=".nonet">Nonet</a></li>
+        <li><a href="#" data-filter=".acoustic">Acoustic</a></li>
+          <li><a href="#" data-filter=".electroacoustics">Electroacoustic</a></li>
+            <li><a href="#" data-filter=".video">Video</a></li>
       {% comment %}
       {%- for tag in tagArray -%}
         <li><a href="#" data-filter=".{{ tag }}">{{ tag | capitalize }}</a></li>
@@ -62,7 +61,7 @@ title: works
 				<div class="portfolio-overlay"></div>
         <div class="portfolio-caption">
           <h5 class="portfolio-title">{{ work.title }} {% if work.yearComposed == nil %}{% else %}({{ work.yearComposed }}){% endif %}</h5>
-          <div class="portfolio-subtitle font-serif font-weight-normal">{{ work.composer.first }} {{ work.composer.last }}</div>
+        <!--  <div class="portfolio-subtitle font-serif font-weight-normal">{{ work.composer.first }} {{ work.composer.last }}</div> -->
           <div class="portfolio-subtitle font-serif">
             {{ work.size }} {% for tag in work.tags %}{% if tag == 'electronics' %}and electronics{% endif %}{% endfor %}
             {% comment %}
