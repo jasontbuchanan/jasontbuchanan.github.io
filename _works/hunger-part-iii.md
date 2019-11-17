@@ -6,7 +6,7 @@ composer:
 title: "HUNGER (Part III)"
 duration:
 yearComposed: 2015
-commissionedOrWrittenFor:
+commissionedOrWrittenFor: Darmstadt Contemporary Opera Workshop & The Industry, L.A.
 size: octet, three singers,
 instrumentation:
   - baritone
@@ -25,6 +25,7 @@ tags:
   - electronics
   - video
   - conducted
+  - voices
 media:
   - title: HUNGER (Part III, Scene 2)
     url: https://soundcloud.com/jasontbuchanan/sets/hunger-part-iii-scene-2
