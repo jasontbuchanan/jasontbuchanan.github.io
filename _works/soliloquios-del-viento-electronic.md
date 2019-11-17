@@ -22,7 +22,7 @@ tags:
   - electroacoustic
 media:
   - title: "soliloquios del viento (2017) by Jason Thorpe Buchanan"
-    url:
+    url: https://vimeo.com/268371130
 headerImage: works-images/
 thumbnailImage: works-images/thumbnails/soliloquios_score_350.jpg.jpg
 ---
