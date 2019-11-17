@@ -19,12 +19,12 @@ html {
 }
 
 body {
-    background-color: #fff;
+    background-color: #bbb;
     font-family: "Roboto", Arial, serif;
     line-height: 1.85;
     font-weight: 400;
     font-size: 15px;
-    color: #999;
+    color: #555;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
 }
@@ -70,8 +70,8 @@ body .layout {
 
 .layout {
     opacity: 0;
-    -webkit-transition: 1.7s opacity ease;
-            transition: 1.7s opacity ease;
+    -webkit-transition: 1.3s opacity ease;
+            transition: 1.3s opacity ease;
 }
 
 .layout.fade-in {
