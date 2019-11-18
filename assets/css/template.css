@@ -3144,7 +3144,7 @@ body.off-canvas-sidebar-open .layout {
 .module-page-title {
     background-color: #313131 !important; */ I think this is the header which was white */
     border-bottom: 1px solid #f2f2f2;
-    padding: 111px 0 30px;
+    padding: 70px 0 30px;
 }
 
 .module-page-title .h5 {
