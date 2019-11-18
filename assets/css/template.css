@@ -999,6 +999,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-color: #eaeaea;
     border-radius: 0;
     border-bottom: 0;
+      background-color: #1b1d1f;
 }
 
 .accordion .card:last-child {
@@ -1014,6 +1015,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 .accordion .card .card-body {
     border-bottom: 1px solid #eaeaea;
     color: #bfbfbf;
+      background-color: #1b1d1f;
 
 }
 
@@ -1021,7 +1023,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: bold;
-    font-size: 12px;
+    font-size: 16px;
     background-color: #1b1d1f;
     border-color: #eaeaea;
     padding: 12px 18px;
