@@ -19,12 +19,12 @@ html {
 }
 
 body {
-    background-color: #fff;
+    background-color: #313131;
     font-family: "Roboto", Arial, serif;
     line-height: 1.85;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 15px;
-    color: #999;
+    color: #eee;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
 }
@@ -70,8 +70,9 @@ body .layout {
 
 .layout {
     opacity: 0;
-    -webkit-transition: 1.7s opacity ease;
-            transition: 1.7s opacity ease;
+    -webkit-transition: 1.2s opacity ease;
+            transition: 1.2s opacity ease;
+            /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .layout.fade-in {
@@ -119,6 +120,9 @@ body .layout {
         display: none;
     }
 }
+
+
+
 
 /*------------------------------------------------------------------
 [Typography]
@@ -300,7 +304,7 @@ pre {
     line-height: 1.8;
 }
 
-/*------------------------------------------------------------------
+/*--------------------------IGNORE ----------------------------------------
 [Alerts]
 */
 
@@ -313,7 +317,7 @@ pre {
     color: #fff;
 }
 
-/*------------------------------------------------------------------
+/*--------------------------IGNORE ----------------------------------------
 [Progress Bars]
 */
 
@@ -933,8 +937,9 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-bottom: 1px solid #eaeaea;
 }
 
+/* - - - - - - - - - - - CHECK ME - I AM CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .nav-tabs .nav-link {
-    background-color: #f7f7f7;
+    background-color: #Be90d4; /* - - - - PURPLE - - - - */
     border: 1px solid #eaeaea;
     border-right: 0;
     border-radius: 0;
@@ -951,10 +956,11 @@ select.form-control-sm:not([size]):not([multiple]) {
     margin-right: 5px;
 }
 
+/* - - - - - - - - - - - CHECK ME - I AM CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     border-color: #eaeaea;
-    background-color: #fff;
+    background-color: #E7903c; /* - - - - ORANGE - - - - */
 }
 
 .nav-tabs .nav-link.active,
@@ -1092,10 +1098,11 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-radius: 50%;
 }
 
+/* - - - - - - - - - - - CHECK ME - I AM NOT CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .page-item.active .page-link {
     background-color: #fff;
     border-color: transparent;
-    color: #4a90e2;
+    color: #4a90e2; /* --- BLUE --- */
 }
 
 .page-link:focus,
@@ -1201,6 +1208,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 [Pricing Tables]
 */
 
+/* - - - - - - - - - - - CHECK ME - I AM NOT CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .pricing-wrapper {
     background: #fff;
     border: 1px solid #f2f2f2;
@@ -1333,6 +1341,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     width: 100%;
 }
 
+/* - - - - - - - - - - - CHECK ME - I AM CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .image-slider.owl-carousel .owl-prev,
 .image-slider.owl-carousel .owl-next {
     background: transparent;
@@ -1345,7 +1354,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     line-height: 70px;
     font-size: 36px;
     display: block;
-    color: #fff;
+    color: #00f8f8;  /* - - CHECK ME - I AM CHANGED from WHITE to BLUE  - - - - - - - - - - - - - - ! ! ! ! */
+
 }
 
 .image-slider.owl-carousel .owl-prev span:before,
@@ -1444,7 +1454,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     text-align: center;
     font-size: 36px;
     display: block;
-    color: #fff;
+    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
     -webkit-transition: all .3s cubic-bezier(.3, .1, .58, 1);
             transition: all .3s cubic-bezier(.3, .1, .58, 1);
 }
@@ -1466,14 +1476,14 @@ select.form-control-sm:not([size]):not([multiple]) {
 .module-slides.dark-nav:hover a.prev:focus,
 .module-slides.dark-nav:hover a.next:focus,
 .module-slides.dark-nav .slides-navigation a {
-    color: #313131;
+    color: #fff; /* - - CHECK ME - I AM CHANGED from GRAY to WHITE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-slides:hover a.prev:hover,
 .module-slides:hover a.next:hover,
 .module-slides:hover a.prev:focus,
 .module-slides:hover a.next:focus {
-    color: #fff;
+    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLUE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-slides:hover a.prev:hover {
