@@ -38,6 +38,7 @@ title: works
   <div class="col-2 col-sm-1"><a href="{{ work.url }}">{{ work.yearComposed }}</a></div>
 <!--  <div class="col-10 ml-auto ml-sm-0 col-sm-3"><a href="{{ work.url }}">{{ work.composer.first }} {{ work.composer.last }}</a></div> -->
   <div class="col-10 ml-auto ml-sm-0 col-sm-5"><a href="{{ work.url }}"><em>{{ work.title }}</em></a></div>
+<div class="col-10 ml-auto ml-sm-0 col-sm-3"><a href="{{ work.url }}">{{ work.commissionedOrWrittenFor }}</a></div>
   <div class="col-10 ml-auto ml-sm-0 col-sm-3"><a href="{{ work.url }}">{{ work.size }} {% for tag in work.tags %}{% if tag == 'electronics' %}and electronics{% endif %}{% endfor %}</a></div>
 </div>
 <hr class="my-2">
