@@ -3619,13 +3619,14 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .filters > li {
+    color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 12px;
 }
 
 .filters > li a {
-    color: #eee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
     opacity: .4;
 }
 

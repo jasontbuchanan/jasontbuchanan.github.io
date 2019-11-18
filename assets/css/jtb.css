@@ -5,7 +5,7 @@
   border-bottom: 0px solid rgba(220, 220, 220, .2);
 }
 .header.header-small {
-  background: #313131; // #2a313a ; /* this is navigation background color */
+  background: #212121; // #2a313a ; /* this is navigation background color */
   border-bottom: 1px solid rgba(42,49,58,0.2)
 }
 .header .extra-nav > ul > li > a,
@@ -26,8 +26,8 @@
 }
 
 .module-sm {
-    background-color: #212121 !important; /* this is the background color */
-    padding: 100px 0;
+    background-color: #212121; /* this is the background color */
+    padding: 80px 0;
 }
 
 /*
@@ -69,7 +69,7 @@ body .layout {
 
 .scroll-top {
     background: #eeeeee;
-  color: #444;
+  color: #222;
 /*
    TYPOGRAPHY
 */
@@ -310,5 +310,5 @@ footer aside .fa {
 }
 
 .pager-active {
-  background-color: #222222;
+  background-color: #212121;
 }
