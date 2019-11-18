@@ -31,9 +31,9 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
   <div class="card">
     <div class="card-header" id="headingOne">
       <h5 class="mb-0">
-        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          Long Bio
-        </button>
+      <center>  <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        Long Bio
+        </button></center>
       </h5>
     </div>
     <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#myaccordion">
