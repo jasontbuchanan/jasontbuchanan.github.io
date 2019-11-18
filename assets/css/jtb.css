@@ -29,14 +29,13 @@
    BODY
 */
 body {
-  background-color: #111;
-  background: #111;
+  background: #777;
   background-image: "assets/images/crazystavesdarkblue3.jpg";
 
   font-family: "Roboto", Arial, sans-serif;
     line-height: 1.75;
-    font-size: 18px;
-    color: #333;
+    font-size: 17px;
+    color: #111;
 }
 /* THISS IS WORKING FOR TEXT COLOR BUT NOT BACKGROUND COLOR
 */
