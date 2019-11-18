@@ -10,7 +10,7 @@ layout: page
 	{%- if page.media -%}
 	<!-- Media-->
 	<div class="col-12 mb-5">
-		{% assign printHeader = true %}
+		{% assign printHeader = false %} <!-- removed header -->
 		{%- for item in page.media -%}
 			{%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
 				{%- if printHeader == true -%}
