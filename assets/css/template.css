@@ -147,7 +147,7 @@ h3 > a,
 h4 > a,
 h5 > a,
 h6 > a {
-    color: #313131;
+    color: #bfbfbf; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 h1 > a:hover,
@@ -194,7 +194,7 @@ h6,
     font-family: "Poppins", Arial, serif;
     line-height: 1.2;
     font-weight: 700;
-    color: #313131;
+    color: #bfbfbf; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 h1,
@@ -291,7 +291,7 @@ blockquote:hover {
 .lead {
     line-height: 1.8;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px; /* - - CHECK ME - I AM  CHANGED from 20 to 18  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 pre {
@@ -2705,7 +2705,7 @@ body.off-canvas-sidebar-open .layout {
 
 .header .inner-brand,
 .header.header-light.header-small .inner-brand {
-    color: #313131;
+    color: #Be90d4; /* - - CHECK ME - I AM  CHANGED from GREY to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header .brand-dark,
@@ -2722,7 +2722,7 @@ body.off-canvas-sidebar-open .layout {
 .header .extra-nav > ul > li > a,
 .header.header-light.header-small .inner-nav > ul > li > a,
 .header.header-light.header-small .extra-nav > ul > li > a {
-    color: #303133;
+    color: #F1f227; /* - - CHECK ME - I AM  CHANGED from GREY to YELLOW  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header .inner-nav > ul > li > a.active,
@@ -2790,7 +2790,7 @@ body.off-canvas-sidebar-open .layout {
 
 .header-sub-menu-dark .inner-nav .sub-menu,
 .header-sub-menu-dark .inner-nav .mega-menu {
-    background-color: #1b1d1f;
+    background-color: #4a90e2; /* - - CHECK ME - I AM  CHANGED from GREY to BLUE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header-sub-menu-dark .inner-nav .sub-menu li.mega-menu-col > a {
@@ -3627,7 +3627,7 @@ body.off-canvas-sidebar-open .layout {
 
 .filters > li a {
     color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
-    opacity: .4;
+    opacity: .3; /* - - CHECK ME - I AM  CHANGED from .4 to .3  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .filters > li a:hover,
@@ -5198,7 +5198,7 @@ a[rel~="gallery"]:hover {
 }
 
 .footer .widget {
-    margin: 60px 0 50px;
+    margin: 40px 0 50px; /* - - CHECK ME - I AM  CHANGED from 60 to 40  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .footer .copyright {
@@ -5211,5 +5211,5 @@ a[rel~="gallery"]:hover {
 
 .footer-copyright {
     border-top: 1px solid rgba(255, 255, 255, .05);
-    padding: 20px 0;
+    padding: 15px 0; /* - - CHECK ME - I AM  CHANGED from 20 to 15  - - - - - - - - - - - - - - ! ! ! ! */
 }
