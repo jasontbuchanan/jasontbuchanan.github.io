@@ -934,8 +934,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-bottom: 1px solid #eaeaea;
 }
 
+
+/*----------CHECK ME------------- */
 .nav-tabs .nav-link {
-    background-color: #111111;
+    background-color: #f7f7f7;
     border: 1px solid #eaeaea;
     border-right: 0;
     border-radius: 0;
@@ -952,10 +954,12 @@ select.form-control-sm:not([size]):not([multiple]) {
     margin-right: 5px;
 }
 
+/*----------CHECK ME------------- */
+
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     border-color: #eaeaea;
-    background-color: #111;
+    background-color: #fff;
 }
 
 .nav-tabs .nav-link.active,
@@ -975,7 +979,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .tab-content {
     border: 1px solid #eaeaea;
-    background-color: #cfc;
+    background-color: #fff;
     border-top: 0;
     padding: 20px 18px;
     color: #999;
@@ -1011,12 +1015,14 @@ select.form-control-sm:not([size]):not([multiple]) {
     color: #999;
 }
 
+/*----------CHECK ME------------- */
+
 .accordion .card-header {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: bold;
     font-size: 12px;
-    background-color: #111111;
+    background-color: #f7f7f7;
     border-color: #eaeaea;
     padding: 12px 18px;
 }
@@ -1093,8 +1099,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-radius: 50%;
 }
 
+/*----------CHECK ME------------- */
+
 .page-item.active .page-link {
-    background-color: #212121;
+    background-color: #fff;
     border-color: transparent;
     color: #4a90e2;
 }
@@ -1202,8 +1210,10 @@ select.form-control-sm:not([size]):not([multiple]) {
 [Pricing Tables]
 */
 
+/*----------CHECK ME------------- */
+
 .pricing-wrapper {
-    background: #111;
+    background: #fff;
     border: 1px solid #f2f2f2;
     text-align: center;
     margin: 0 0 30px;
@@ -1334,6 +1344,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     width: 100%;
 }
 
+/*----------CHECK ME------------- */
+
 .image-slider.owl-carousel .owl-prev,
 .image-slider.owl-carousel .owl-next {
     background: transparent;
@@ -1346,7 +1358,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     line-height: 70px;
     font-size: 36px;
     display: block;
-    color: #212121;
+    color: #fff;
 }
 
 .image-slider.owl-carousel .owl-prev span:before,
@@ -1462,19 +1474,23 @@ select.form-control-sm:not([size]):not([multiple]) {
     right: 40px;
 }
 
+/*----------CHECK ME------------- */
+
 .module-slides.dark-nav:hover a.prev:hover,
 .module-slides.dark-nav:hover a.next:hover,
 .module-slides.dark-nav:hover a.prev:focus,
 .module-slides.dark-nav:hover a.next:focus,
 .module-slides.dark-nav .slides-navigation a {
-    color: #313131;
+    color: #fff;
 }
+
+/*----------CHECK ME------------- */
 
 .module-slides:hover a.prev:hover,
 .module-slides:hover a.next:hover,
 .module-slides:hover a.prev:focus,
 .module-slides:hover a.next:focus {
-    color: #111;
+    color: #fff;
 }
 
 .module-slides:hover a.prev:hover {
@@ -1746,8 +1762,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     background: #4a90e2;
 }
 
+/*----------CHECK ME------------- */
+
 .page-loader {
-    background: #212121;
+    background: #fff;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -1803,8 +1821,10 @@ body.off-canvas-sidebar-open .layout {
             transform: translateX(-425px);
 }
 
+/*----------CHECK ME------------- */
+
 .off-canvas-sidebar {
-    background: #212121;
+    background: #fff;
     position: fixed;
     right: -425px;
     top: 0;
