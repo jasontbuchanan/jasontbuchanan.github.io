@@ -4,13 +4,11 @@ categories: blog
 image: jtb_mixer_1200x800.jpg
 headerImage: jtb_mixer_1200x800.jpg
 date: 2019-11-18
-manualDate: Nov. 5 2019
+manualDate: Nov. 18 2019
 postDescription: About
 tags:
 background: black
 ---
-
-# Short Bio
 
 <img class="float-sm-left col-sm-6 col-lg-5 p4-0 pb-3" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
 Jason Thorpe Buchanan is an American composer, Artistic Director of <a href="http://www.switchensemble.com" target="blank"> the [Switch~ Ensemble]</a>, Department Chair and Lecturer in Composition, Theory, and Electronic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand.
