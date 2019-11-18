@@ -19,12 +19,13 @@ html {
 }
 
 body {
-    background-color: #fff;
+    background-color: #313131;
+    background-color: #313131;
     font-family: "Roboto", Arial, serif;
     line-height: 1.85;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 15px;
-    color: #999;
+    color: #eee;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
 }
@@ -70,8 +71,8 @@ body .layout {
 
 .layout {
     opacity: 0;
-    -webkit-transition: 1.7s opacity ease;
-            transition: 1.7s opacity ease;
+    -webkit-transition: 1.2s opacity ease;
+            transition: 1.2s opacity ease;
 }
 
 .layout.fade-in {
@@ -933,8 +934,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-bottom: 1px solid #eaeaea;
 }
 
+
+/*----------CHECK ME------------- */
 .nav-tabs .nav-link {
-    background-color: #f7f7f7;
+    background-color: #Be90d4;
     border: 1px solid #eaeaea;
     border-right: 0;
     border-radius: 0;
@@ -951,10 +954,12 @@ select.form-control-sm:not([size]):not([multiple]) {
     margin-right: 5px;
 }
 
+/*----------CHECK ME------------- */
+
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     border-color: #eaeaea;
-    background-color: #fff;
+    background-color: #E7903c;
 }
 
 .nav-tabs .nav-link.active,
@@ -1010,12 +1015,14 @@ select.form-control-sm:not([size]):not([multiple]) {
     color: #999;
 }
 
+/*----------CHECK ME------------- */
+
 .accordion .card-header {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: bold;
     font-size: 12px;
-    background-color: #f7f7f7;
+    background-color: #F1f227;
     border-color: #eaeaea;
     padding: 12px 18px;
 }
@@ -1092,10 +1099,12 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-radius: 50%;
 }
 
+/*----------CHECK ME------------- */
+
 .page-item.active .page-link {
     background-color: #fff;
     border-color: transparent;
-    color: #4a90e2;
+    color: #4a90e2; /* --- blue --- */
 }
 
 .page-link:focus,
@@ -1200,6 +1209,8 @@ select.form-control-sm:not([size]):not([multiple]) {
 /*------------------------------------------------------------------
 [Pricing Tables]
 */
+
+/*----------CHECK ME------------- */
 
 .pricing-wrapper {
     background: #fff;
@@ -1333,6 +1344,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     width: 100%;
 }
 
+/*----------CHECK ME checked 233------------- */
+
 .image-slider.owl-carousel .owl-prev,
 .image-slider.owl-carousel .owl-next {
     background: transparent;
@@ -1345,7 +1358,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     line-height: 70px;
     font-size: 36px;
     display: block;
-    color: #fff;
+    color: #00f8f8;
 }
 
 .image-slider.owl-carousel .owl-prev span:before,
@@ -1444,7 +1457,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     text-align: center;
     font-size: 36px;
     display: block;
-    color: #fff;
+    color: #515151;
     -webkit-transition: all .3s cubic-bezier(.3, .1, .58, 1);
             transition: all .3s cubic-bezier(.3, .1, .58, 1);
 }
@@ -1461,13 +1474,17 @@ select.form-control-sm:not([size]):not([multiple]) {
     right: 40px;
 }
 
+/*----------CHECK ME------------- */
+
 .module-slides.dark-nav:hover a.prev:hover,
 .module-slides.dark-nav:hover a.next:hover,
 .module-slides.dark-nav:hover a.prev:focus,
 .module-slides.dark-nav:hover a.next:focus,
 .module-slides.dark-nav .slides-navigation a {
-    color: #313131;
+    color: #fff;
 }
+
+/*----------CHECK ME------------- */
 
 .module-slides:hover a.prev:hover,
 .module-slides:hover a.next:hover,
@@ -1745,8 +1762,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     background: #4a90e2;
 }
 
+/*----------CHECK ME changed 233------------- */
+
 .page-loader {
-    background: #fff;
+    background: #E7903c;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -1802,8 +1821,10 @@ body.off-canvas-sidebar-open .layout {
             transform: translateX(-425px);
 }
 
+/*----------CHECK ME------------- */
+
 .off-canvas-sidebar {
-    background: #1b1d1f;
+    background: #fff;
     position: fixed;
     right: -425px;
     top: 0;
@@ -1829,11 +1850,11 @@ body.off-canvas-sidebar-open .layout {
 .off-canvas-sidebar .h5,
 .off-canvas-sidebar h6,
 .off-canvas-sidebar .h6 {
-    color: #fff;
+    color: #111;
 }
 
 .off-canvas-sidebar a {
-    color: #fff;
+    color: #111;
 }
 
 .off-canvas-sidebar a:hover,
@@ -2345,9 +2366,10 @@ body.off-canvas-sidebar-open .layout {
     font-family: "Poppins", Arial, serif;
     border-bottom: 1px solid rgba(220, 220, 220, .2);
 }
+/*----------CHECK ME changed 238------------- */
 
 .header.header-small {
-    background: #fff;
+    background: #111;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2553,6 +2575,7 @@ body.off-canvas-sidebar-open .layout {
     -webkit-transform: translateY(0);
             transform: translateY(0);
 }
+/*----------CHECK ME------------- */
 
 .inner-nav .sub-menu,
 .inner-nav .mega-menu {
@@ -2779,7 +2802,7 @@ body.off-canvas-sidebar-open .layout {
 
 .header-sub-menu-dark .inner-nav .sub-menu,
 .header-sub-menu-dark .inner-nav .mega-menu {
-    background-color: #1b1d1f;
+    background-color: #212121;
 }
 
 .header-sub-menu-dark .inner-nav .sub-menu li.mega-menu-col > a {
@@ -2791,10 +2814,11 @@ body.off-canvas-sidebar-open .layout {
         display: table-cell !important;
     }
 }
+/*----------CHECK ME changed 238------------- */
 
 @media (max-width: 991px) {
     .header {
-        background-color: #fff;
+        background-color: #Be90d4;
         padding: 0;
     }
 
@@ -2835,6 +2859,7 @@ body.off-canvas-sidebar-open .layout {
         height: auto;
         margin: 0;
     }
+    /*----------CHECK ME------------- */
 
     .inner-nav ul > li a,
     .inner-nav .sub-menu li a {
@@ -2898,7 +2923,7 @@ body.off-canvas-sidebar-open .layout {
 
     .inner-navigation {
         position: absolute;
-        background-color: #1b1d1f;
+        background-color: #212121;
         max-height: 340px;
         width: 100%;
         left: 0;
@@ -3026,16 +3051,17 @@ body.off-canvas-sidebar-open .layout {
 /*------------------------------------------------------------------
 [Modules]
 */
+/*----------CHECK ME changed 238------------- */
 
 .module,
 .module-sm,
 .module-header {
-    background-color: #f7f7f7;
+    background-color: #00ff00;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 250px 0;
+    padding: 70px 0 !important; /* decreasesd module padding */
 }
 
 .module.module-divider-top,
@@ -3049,26 +3075,28 @@ body.off-canvas-sidebar-open .layout {
 .module-header.module-divider-bottom {
     border-bottom: 1px solid #f2f2f2;
 }
+/*----------CHECK ME changed 238------------- */
 
 .module,
 .module-sm {
-    background-color: #fff;
-    padding: 100px 0;
+    background-color: #212121 !important; /* this is the background color */
+    padding: 70px 0 !important; /* I think this is padding for background bio page and others */
 }
 
 .module-sm {
     padding: 30px 0;
 }
+/*----------CHECK ME changed 238------------- */
 
 .module-gray {
-    background-color: #f7f7f7;
+    background-color: #00ff00;
 }
 
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 100vh;
-    height: 100vh;
+    min-height: 70vh;
+    height: 70vh;
     padding: 0;
 }
 
@@ -3102,21 +3130,21 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header + .wrapper .module:first-child {
-    padding-top: 160px;
+    padding-top: 70px;
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 114px;
+    padding-top: 70px;
 }
 
 .header + .wrapper section.maps-container:first-child {
-    padding-top: 81px;
+    padding-top: 70px;
 }
 
 .module-page-title {
-    background-color: #f7f7f7;
+    background-color: #313131 !important; /* I think this is the header which was white */
     border-bottom: 1px solid #f2f2f2;
-    padding: 111px 0 30px;
+    padding: 70px 0 30px !important; /* I think first value is module height */
 }
 
 .module-page-title .h5 {
@@ -3393,7 +3421,7 @@ body.off-canvas-sidebar-open .layout {
 
 .bg-dark,
 .bg-gradient {
-    color: #fff;
+    color: #212121;
 }
 
 .bg-dark h1,
@@ -3711,7 +3739,7 @@ body.off-canvas-sidebar-open .layout {
     text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 1.8;
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
     margin: 0;
 }
@@ -3719,7 +3747,7 @@ body.off-canvas-sidebar-open .layout {
 .portfolio-subtitle {
     font-size: 14px;
     /*opacity: .7;*/
-    color: #fff;
+    color: #eee;
 }
 
 .portfolio-link {
@@ -4325,6 +4353,7 @@ a[rel~="gallery"]:hover {
     font-size: 28px;
     margin: 0 0 10px;
 }
+/*----------CHECK ME------------- */
 
 .post-background .post-header .post-title a {
     color: #fff;
@@ -5156,7 +5185,7 @@ a[rel~="gallery"]:hover {
 
 .footer {
     position: relative;
-    background: #1b1d1f;
+    background: #212121;
     color: #bfbfbf;
 }
 
