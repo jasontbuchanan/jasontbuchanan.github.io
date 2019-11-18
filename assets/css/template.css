@@ -3041,12 +3041,12 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm,
 .module-header {
-    background-color: #f7f7f7;
+    background-color: #00ff00; /* - - CHECK ME - I AM  CHANGED from WHITE to GREEN  - - - - - - - - - - - - - - ! ! ! ! */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 250px 0;
+    padding: 90px 0; /* - - CHECK ME - I AM  CHANGED from 250 to 90  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module.module-divider-top,
@@ -3063,8 +3063,8 @@ body.off-canvas-sidebar-open .layout {
 
 .module,
 .module-sm {
-    background-color: #fff;
-    padding: 100px 0;
+    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-sm {
@@ -3072,7 +3072,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .module-gray {
-    background-color: #f7f7f7;
+    background-color: #00ff00; /* - - CHECK ME - I AM  CHANGED from WHITE to GREEN  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .flexslider,
