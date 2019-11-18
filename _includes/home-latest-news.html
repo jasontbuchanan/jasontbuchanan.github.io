@@ -1,4 +1,4 @@
-<div class="latest-news">
+<div class="latest-news row">
 	{% assign newsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
 	<ul>
 		{%- for post in newsPosts limit:4 -%}
@@ -7,12 +7,11 @@
 			<li>
 				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 				<a href="{{ post.url }}">
-			<div class="row">
 					{%- if post.thumbnailImage -%}
-		<div class="col-sm-3">
+		<span class="col-sm-3">
 							<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150">
 					{% else %}
-						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="" width="150"></div><div class="col-sm-5">
+						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="" width="150"></span><span class="col-sm-5">
 					{%- endif -%}	<strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }}
 				</a>
 			</li>
