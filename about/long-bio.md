@@ -63,7 +63,7 @@ He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in
 
 Current projects include the multimedia opera Hunger, and a large work for the Hong Kong New Music Ensemble commissioned by the MATA Festival in NYC (2020).
 
-<center> <a href="/">short bio</a>
+<center> <a href="https://jasontbuchanan.github.io/about/">short bio</a>
 
 
 
