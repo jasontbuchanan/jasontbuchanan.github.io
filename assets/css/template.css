@@ -22,7 +22,7 @@ body {
     background-color: #111;
     font-family: "Roboto", Arial, serif;
     line-height: 1.85;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 15px;
     color: #eee;
     -ms-overflow-style: scrollbar;
@@ -70,8 +70,8 @@ body .layout {
 
 .layout {
     opacity: 0;
-    -webkit-transition: 1.7s opacity ease;
-            transition: 1.7s opacity ease;
+    -webkit-transition: 1.2s opacity ease;
+            transition: 1.2s opacity ease;
 }
 
 .layout.fade-in {
