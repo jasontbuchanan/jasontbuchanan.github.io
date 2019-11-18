@@ -5,7 +5,7 @@
   border-bottom: 0px solid rgba(220, 220, 220, .2);
 }
 .header.header-small {
-  background: #313131 !important; // #2a313a ; /* this is navigation background color */
+  background: #313131; // #2a313a ; /* this is navigation background color */
   border-bottom: 1px solid rgba(42,49,58,0.2)
 }
 .header .extra-nav > ul > li > a,
@@ -26,7 +26,7 @@
 }
 
 .module-sm {
-    background-color: #212121 !important; */ this is the background color */
+    background-color: #212121 !important; /* this is the background color */
     padding: 100px 0;
 }
 
