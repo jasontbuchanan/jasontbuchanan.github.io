@@ -1016,7 +1016,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .accordion .card .card-body {
     border-bottom: 1px solid #0b0d0f;
-    color: #dfdfdf;
+    color: #eee;
     text-align: justify;
       background-color: #1b1d1f;
 
