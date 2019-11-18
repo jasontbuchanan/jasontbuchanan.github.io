@@ -3061,7 +3061,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 100px 0 !important; /* decreasesd module padding */
+    padding: 70px 0 !important; /* decreasesd module padding */
 }
 
 .module.module-divider-top,
@@ -3080,7 +3080,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm {
     background-color: #212121 !important; /* this is the background color */
-    padding: 50px 0 !important; /* I think this is padding for background bio page and others /*
+    padding: 70px 0 !important; /* I think this is padding for background bio page and others /*
 }
 
 .module-sm {
@@ -3095,8 +3095,8 @@ body.off-canvas-sidebar-open .layout {
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 100vh;
-    height: 100vh;
+    min-height: 70vh;
+    height: 70vh;
     padding: 0;
 }
 
@@ -3130,15 +3130,15 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header + .wrapper .module:first-child {
-    padding-top: 160px;
+    padding-top: 70px;
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 114px;
+    padding-top: 70px;
 }
 
 .header + .wrapper section.maps-container:first-child {
-    padding-top: 81px;
+    padding-top: 70px;
 }
 
 .module-page-title {
