@@ -3115,7 +3115,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .module-page-title {
-    background-color: #111111;
+    background-color: #f7f7f7;
     border-bottom: 1px solid #f2f2f2;
     padding: 111px 0 30px;
 }
@@ -4328,7 +4328,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-background .post-header .post-title a {
-    color: #212121;
+    color: #fff;
 }
 
 .post-background:hover:before {
