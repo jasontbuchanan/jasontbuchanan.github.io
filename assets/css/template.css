@@ -1013,7 +1013,8 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .accordion .card .card-body {
     border-bottom: 1px solid #eaeaea;
-    color: #999;
+    color: #bfbfbf;
+
 }
 
 .accordion .card-header {
@@ -1021,7 +1022,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     letter-spacing: 1px;
     font-weight: bold;
     font-size: 12px;
-    background-color: #f7f7f7;
+    background-color: #1b1d1f;
     border-color: #eaeaea;
     padding: 12px 18px;
 }
@@ -1029,12 +1030,14 @@ select.form-control-sm:not([size]):not([multiple]) {
 .accordion .card-header a {
     position: relative;
     display: block;
-    color: #999;
+    color: #4a90e2;
+    -webkit-transition: all .3s ease-in-out;
+            transition: all .3s ease-in-out;
 }
 
 .accordion .card-header a:hover,
 .accordion .card-header a:focus {
-    color: #111;
+    color: #bfbfbf;
 }
 
 .accordion .card-header a:after {
@@ -1043,8 +1046,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     top: 50%;
     right: 0;
     margin-top: -7px;
-    font-family: "FontAwesome";
-    font-size: 14px;
+    font-family: "Roboto";
+    font-size: 17px;
     line-height: 1;
 }
 
@@ -1052,6 +1055,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 .accordion .card-header a > span {
     margin-right: 5px;
 }
+
 
 /*------------------------------------------------------------------
 [Pagination]
