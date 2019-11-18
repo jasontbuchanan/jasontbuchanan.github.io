@@ -29,8 +29,7 @@
    BODY
 */
 body {
-  background-color: #11111;
-    background: #11111;
+  background-color: #111111;
   font-family: "Garamond", Times, serif;
     line-height: 1.75;
     font-size: 20px;
@@ -52,6 +51,7 @@ body .layout {
 .layout.fade-in {
     opacity: 1;
 }
+
 
 /*
    TYPOGRAPHY
