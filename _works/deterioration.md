@@ -30,7 +30,7 @@ media:
   - title: "de/ter| |ior.ation (in/ |minate| ) for chamber orchestra (2015) by Jason Thorpe Buchanan"
     url: https://vimeo.com/148583261
 headerImage: works-images/deterioration_1_full.jpg
-thumbnailImage: works-images/thumbnails/deterioration_1_full.jpg
+thumbnailImage: works-images/deterioration_1_full.jpg
 ---
 
 <em>de/ter|       |ior.ation</em> was written in early March 2015 and is closely tied to my multimedia opera Hunger, exploring themes of psychological decay, irrationality, & self-destruction through fragmentation of musical objects, gestures, video, & obfuscation. [...] These themes are manifest in the character of the musical materials themselves, navigating a spectrum between saturation & fragility. I imagine this almost as an estranged overture to the opera - existing separately, but remaining inextricably entwined...
