@@ -3031,7 +3031,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm,
 .module-header {
-    background-color: #1b1d1f;
+    background-color: #212121;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3062,7 +3062,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .module-gray {
-    background-color: #1b1d1f;
+    background-color: #212121;
 }
 
 .flexslider,
@@ -3394,7 +3394,7 @@ body.off-canvas-sidebar-open .layout {
 
 .bg-dark,
 .bg-gradient {
-    color: #1b1d1f;
+    color: #212121;
 }
 
 .bg-dark h1,
@@ -4328,7 +4328,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-background .post-header .post-title a {
-    color: #1b1d1f;
+    color: #212121;
 }
 
 .post-background:hover:before {
