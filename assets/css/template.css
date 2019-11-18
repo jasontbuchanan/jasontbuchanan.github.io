@@ -3117,17 +3117,17 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 114px; /* - - CHECK ME - I AM  CHANGED from 114 to 70  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 70px; /* - - CHECK ME - I AM  CHANGED from 114 to 70  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper section.maps-container:first-child {
-    padding-top: 81px; /* - - CHECK ME - I AM  CHANGED from 81 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 60px; /* - - CHECK ME - I AM  CHANGED from 81 to 60  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-page-title {
-    background-color: #212121; /* - - I think this is the header which was white CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
-    border-bottom: 1px solid #f2f2f2;
-    padding: 70px 0 30px; /* - - I think first value is module hegiht  - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #1b1d1f; /* - - I think this is the header which was white CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    border-bottom: 1px solid #111111; /* - - line underneath page title - I AM  CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 0px 0 30px; /* - - I think first value is module hegiht  - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-page-title .h5 {
