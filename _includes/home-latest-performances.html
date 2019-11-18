@@ -12,18 +12,8 @@
 							<a href="{{ post.url }}">{%- if post.event -%}{{ post.event }}<br />{%- endif -%}{%- if post.location.venue -%}{{ post.location.venue }}<br />{%- endif -%}{{ post.location.city }}, {{ post.location.country }}</a>
 						{%- else -%}
 							<a href="{{ post.url }}">{%- if post.event -%}{{ post.event }}<br />{%- endif -%}{%- if post.location.venue -%}{{ post.location.venue }}<br />{%- endif -%}{{ post.location.city }}, {{ post.location.state }}</a>
-						{%- endif -%}</span>
+						{%- endif -%}
 				</li>
-	{%- endfor -%}
+		{% endfor %}
 	</ul>
 </div>
-
-
-<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-<a href="{{ post.url }}">
-	{%- if post.thumbnailImage -%}
-	<span>	<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150">
-	{% else %}
-		<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="" width="150"></span><span>
-	{%- endif -%}	<strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }}
-</a></span>
