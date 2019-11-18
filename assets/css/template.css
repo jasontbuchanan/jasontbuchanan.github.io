@@ -2366,10 +2366,10 @@ body.off-canvas-sidebar-open .layout {
     font-family: "Poppins", Arial, serif;
     border-bottom: 1px solid rgba(220, 220, 220, .2);
 }
-/*----------CHECK ME changed 233------------- */
+/*----------CHECK ME changed 238------------- */
 
 .header.header-small {
-    background: #aaa;
+    background: #111;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2814,11 +2814,11 @@ body.off-canvas-sidebar-open .layout {
         display: table-cell !important;
     }
 }
-/*----------CHECK ME changed 233------------- */
+/*----------CHECK ME changed 238------------- */
 
 @media (max-width: 991px) {
     .header {
-        background-color: #aaa;
+        background-color: #111;
         padding: 0;
     }
 
@@ -3051,12 +3051,12 @@ body.off-canvas-sidebar-open .layout {
 /*------------------------------------------------------------------
 [Modules]
 */
-/*----------CHECK ME changed 233------------- */
+/*----------CHECK ME changed 238------------- */
 
 .module,
 .module-sm,
 .module-header {
-    background-color: #aaaaaa;
+    background-color: #111;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3075,21 +3075,21 @@ body.off-canvas-sidebar-open .layout {
 .module-header.module-divider-bottom {
     border-bottom: 1px solid #f2f2f2;
 }
-/*----------CHECK ME changed 233------------- */
+/*----------CHECK ME changed 238------------- */
 
 .module,
 .module-sm {
-    background-color: #aaa;
+    background-color: #111;
     padding: 100px 0;
 }
 
 .module-sm {
     padding: 30px 0;
 }
-/*----------CHECK ME changed 233------------- */
+/*----------CHECK ME changed 238------------- */
 
 .module-gray {
-    background-color: #aaa;
+    background-color: #111;
 }
 
 .flexslider,
