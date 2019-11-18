@@ -3046,7 +3046,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 90px 0; /* - - CHECK ME - I AM  CHANGED from 250 to 90  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 0px 0; /* - - CHECK ME - I AM  CHANGED from 250 to 0  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module.module-divider-top,
