@@ -19,8 +19,8 @@ html {
 }
 
 body {
-    background-color: #11111;
-    background-color: #111;
+    background-color: #1b1d1f;
+    background-color: #1b1d1f;
     font-family: "Roboto", Arial, serif;
     line-height: 1.85;
     font-weight: 300;
@@ -975,7 +975,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .tab-content {
     border: 1px solid #eaeaea;
-    background-color: #111;
+    background-color: #1b1d1f;
     border-top: 0;
     padding: 20px 18px;
     color: #999;
@@ -1094,7 +1094,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .page-item.active .page-link {
-    background-color: #111;
+    background-color: #1b1d1f;
     border-color: transparent;
     color: #4a90e2;
 }
@@ -1346,7 +1346,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     line-height: 70px;
     font-size: 36px;
     display: block;
-    color: #111;
+    color: #1b1d1f;
 }
 
 .image-slider.owl-carousel .owl-prev span:before,
@@ -1445,7 +1445,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     text-align: center;
     font-size: 36px;
     display: block;
-    color: #111;
+    color: #1b1d1f;
     -webkit-transition: all .3s cubic-bezier(.3, .1, .58, 1);
             transition: all .3s cubic-bezier(.3, .1, .58, 1);
 }
@@ -1474,7 +1474,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 .module-slides:hover a.next:hover,
 .module-slides:hover a.prev:focus,
 .module-slides:hover a.next:focus {
-    color: #111;
+    color: #1b1d1f;
 }
 
 .module-slides:hover a.prev:hover {
@@ -1562,7 +1562,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 .flex-direction-nav a {
     text-shadow: none;
     line-height: 60px;
-    color: #111;
+    color: #fff;
     width: 30px;
     height: 60px;
     margin: -30px 0 0;
@@ -1747,7 +1747,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .page-loader {
-    background: #111;
+    background: #1b1d1f;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -1830,11 +1830,11 @@ body.off-canvas-sidebar-open .layout {
 .off-canvas-sidebar .h5,
 .off-canvas-sidebar h6,
 .off-canvas-sidebar .h6 {
-    color: #111;
+    color: #fff;
 }
 
 .off-canvas-sidebar a {
-    color: #111;
+    color: #fff;
 }
 
 .off-canvas-sidebar a:hover,
@@ -2348,7 +2348,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header.header-small {
-    background: #111;
+    background: #1b1d1f;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2557,7 +2557,7 @@ body.off-canvas-sidebar-open .layout {
 
 .inner-nav .sub-menu,
 .inner-nav .mega-menu {
-    background-color: #111;
+    background-color: #1b1d1f;
     position: absolute;
     min-width: 190px;
     left: -20px;
@@ -3031,7 +3031,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm,
 .module-header {
-    background-color: #111111;
+    background-color: #1b1d1f;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3062,7 +3062,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .module-gray {
-    background-color: #111111;
+    background-color: #1b1d1f;
 }
 
 .flexslider,
@@ -3394,7 +3394,7 @@ body.off-canvas-sidebar-open .layout {
 
 .bg-dark,
 .bg-gradient {
-    color: #111;
+    color: #1b1d1f;
 }
 
 .bg-dark h1,
@@ -4328,7 +4328,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-background .post-header .post-title a {
-    color: #111;
+    color: #1b1d1f;
 }
 
 .post-background:hover:before {
