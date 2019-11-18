@@ -1344,7 +1344,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     width: 100%;
 }
 
-/*----------CHECK ME------------- */
+/*----------CHECK ME checked 233------------- */
 
 .image-slider.owl-carousel .owl-prev,
 .image-slider.owl-carousel .owl-next {
@@ -1358,7 +1358,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     line-height: 70px;
     font-size: 36px;
     display: block;
-    color: #fff;
+    color: #aaa;
 }
 
 .image-slider.owl-carousel .owl-prev span:before,
@@ -1762,10 +1762,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     background: #4a90e2;
 }
 
-/*----------CHECK ME------------- */
+/*----------CHECK ME changed 233------------- */
 
 .page-loader {
-    background: #fff;
+    background: #aaa;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -2366,10 +2366,10 @@ body.off-canvas-sidebar-open .layout {
     font-family: "Poppins", Arial, serif;
     border-bottom: 1px solid rgba(220, 220, 220, .2);
 }
-/*----------CHECK ME------------- */
+/*----------CHECK ME changed 233------------- */
 
 .header.header-small {
-    background: #fff;
+    background: #aaa;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2814,11 +2814,11 @@ body.off-canvas-sidebar-open .layout {
         display: table-cell !important;
     }
 }
-/*----------CHECK ME------------- */
+/*----------CHECK ME changed 233------------- */
 
 @media (max-width: 991px) {
     .header {
-        background-color: #fff;
+        background-color: #aaa;
         padding: 0;
     }
 
@@ -3051,12 +3051,12 @@ body.off-canvas-sidebar-open .layout {
 /*------------------------------------------------------------------
 [Modules]
 */
-/*----------CHECK ME------------- */
+/*----------CHECK ME changed 233------------- */
 
 .module,
 .module-sm,
 .module-header {
-    background-color: #f7f7f7;
+    background-color: #aaaaaa;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3075,21 +3075,21 @@ body.off-canvas-sidebar-open .layout {
 .module-header.module-divider-bottom {
     border-bottom: 1px solid #f2f2f2;
 }
-/*----------CHECK ME------------- */
+/*----------CHECK ME changed 233------------- */
 
 .module,
 .module-sm {
-    background-color: #fff;
+    background-color: #aaa;
     padding: 100px 0;
 }
 
 .module-sm {
     padding: 30px 0;
 }
-/*----------CHECK ME------------- */
+/*----------CHECK ME changed 233------------- */
 
 .module-gray {
-    background-color: #fff;
+    background-color: #aaa;
 }
 
 .flexslider,
