@@ -937,7 +937,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 /*----------CHECK ME------------- */
 .nav-tabs .nav-link {
-    background-color: #f7f7f7;
+    background-color: #Be90d4;
     border: 1px solid #eaeaea;
     border-right: 0;
     border-radius: 0;
@@ -959,7 +959,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     border-color: #eaeaea;
-    background-color: #fff;
+    background-color: #E7903c;
 }
 
 .nav-tabs .nav-link.active,
