@@ -5,7 +5,7 @@
   border-bottom: 0px solid rgba(220, 220, 220, .2);
 }
 .header.header-small {
-  background: #212121; // #2a313a ; /* this is navigation background color */
+  background: #1b1d1f; // #2a313a ; /* this is navigation background color */
   border-bottom: 1px solid rgba(42,49,58,0.2)
 }
 .header .extra-nav > ul > li > a,
@@ -16,7 +16,7 @@
 }
 @media (max-width: 991px) {
   .header {
-    background-color: #515151;
+    background-color: #1b1d1f;
     border-bottom: 1px solid rgba(42, 49, 58, 0.2);
     padding: 0;
   }
