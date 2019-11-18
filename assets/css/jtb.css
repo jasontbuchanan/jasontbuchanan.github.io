@@ -192,7 +192,7 @@ footer aside .fa {
 }
 
 .page-loader {
-    background: #000;
+    background: #333;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -270,7 +270,7 @@ footer aside .fa {
 .module,
 .module-sm,
 .module-header {
-    background-color: #dddddd;
+    background-color: #313131;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -281,18 +281,18 @@ footer aside .fa {
 .module.module-divider-top,
 .module-sm.module-divider-top,
 .module-header.module-divider-top {
-    border-top: 1px solid #dddddd;
+    border-top: 1px solid #313131;
 }
 
 .module.module-divider-bottom,
 .module-sm.module-divider-bottom,
 .module-header.module-divider-bottom {
-    border-bottom: 1px solid #dddddd;
+    border-bottom: 1px solid #313131;
 }
 
 .module,
 .module-sm {
-    background-color: #ddd;
+    background-color: #333;
     padding: 100px 0;
 }
 
@@ -301,9 +301,9 @@ footer aside .fa {
 }
 
 .module-gray {
-    background-color: #bbbbbb;
+    background-color: #212121;
 }
 
 .pager-active {
-  background-color: #222222;
+  background-color: #212121;
 }
