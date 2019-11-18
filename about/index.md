@@ -31,10 +31,6 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
 
 
 
-
-________________
-<!--
-
 <div class="accordion" id="myaccordion">
 
   <div class="card">
@@ -70,17 +66,6 @@ ________________
   </div>
 
 </div>
-
-<details>
-  <summary>*all-forgetting-is-retrieval* (2019)</summary>
-for ensemble and augmented conductor was commissioned by the Thailand New Music and Arts Symposium, exploring the formation of human memory, retrieval, failure, and the emotional space of “lost” experiences—the inability to be truly present in a moment, or further commit to memory experiences that are simultaneously both formative and fleeting. The rapid loss of their fidelity is staggering, and this work attempt to confront that impermanence and decay.
-</details> -->
-
-
-
-________________
-
-
 
 
 
