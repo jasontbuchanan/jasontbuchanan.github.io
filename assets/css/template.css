@@ -2366,9 +2366,10 @@ body.off-canvas-sidebar-open .layout {
     font-family: "Poppins", Arial, serif;
     border-bottom: 1px solid rgba(220, 220, 220, .2);
 }
+/*----------CHECK ME------------- */
 
 .header.header-small {
-    background: #212121;
+    background: #fff;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2574,10 +2575,11 @@ body.off-canvas-sidebar-open .layout {
     -webkit-transform: translateY(0);
             transform: translateY(0);
 }
+/*----------CHECK ME------------- */
 
 .inner-nav .sub-menu,
 .inner-nav .mega-menu {
-    background-color: #212121;
+    background-color: #fff;
     position: absolute;
     min-width: 190px;
     left: -20px;
@@ -2812,10 +2814,11 @@ body.off-canvas-sidebar-open .layout {
         display: table-cell !important;
     }
 }
+/*----------CHECK ME------------- */
 
 @media (max-width: 991px) {
     .header {
-        background-color: #111;
+        background-color: #fff;
         padding: 0;
     }
 
@@ -2856,6 +2859,7 @@ body.off-canvas-sidebar-open .layout {
         height: auto;
         margin: 0;
     }
+    /*----------CHECK ME------------- */
 
     .inner-nav ul > li a,
     .inner-nav .sub-menu li a {
@@ -2866,7 +2870,7 @@ body.off-canvas-sidebar-open .layout {
         line-height: 24px;
         font-weight: 600;
         font-size: 12px;
-        color: #111;
+        color: #fff;
         padding: 8px 0;
     }
 
@@ -3047,11 +3051,12 @@ body.off-canvas-sidebar-open .layout {
 /*------------------------------------------------------------------
 [Modules]
 */
+/*----------CHECK ME------------- */
 
 .module,
 .module-sm,
 .module-header {
-    background-color: #212121;
+    background-color: #f7f7f7;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3070,19 +3075,21 @@ body.off-canvas-sidebar-open .layout {
 .module-header.module-divider-bottom {
     border-bottom: 1px solid #f2f2f2;
 }
+/*----------CHECK ME------------- */
 
 .module,
 .module-sm {
-    background-color: #111;
+    background-color: #fff;
     padding: 100px 0;
 }
 
 .module-sm {
     padding: 30px 0;
 }
+/*----------CHECK ME------------- */
 
 .module-gray {
-    background-color: #212121;
+    background-color: #fff;
 }
 
 .flexslider,
@@ -3738,9 +3745,9 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .portfolio-subtitle {
-    font-size: 13px;
+    font-size: 14px;
     /*opacity: .7;*/
-    color: #ddd;
+    color: #eee;
 }
 
 .portfolio-link {
@@ -4346,6 +4353,7 @@ a[rel~="gallery"]:hover {
     font-size: 28px;
     margin: 0 0 10px;
 }
+/*----------CHECK ME------------- */
 
 .post-background .post-header .post-title a {
     color: #fff;
