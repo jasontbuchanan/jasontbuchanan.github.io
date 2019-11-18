@@ -45,7 +45,7 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
       <div class="card-body">
       Jason Thorpe Buchanan is an American composer of opera, orchestral, chamber, electroacoustic, and intermedia works that explore fragmentation, multiplicity, intelligibility, and the integration of live performance with technology. He is currently Artistic Director of <a href="http://www.switchensemble.com" target="blank">the [Switch~ Ensemble]</a>, and Department Chair/Lecturer in Composition, Theory, and Electronic Music Composition at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand. His works have been described as "an uneathly collage of sounds", "sharply-edged", and "free jazz gone wrong--in a good way."
 
-
+<br><br>
       <!-- new sentence -->
 
       Jason is the recipient of a 2010-11 Fulbright Fellowship at the Hochschule für Musik und Theater in Hamburg (DE) as a visiting scholar,
@@ -57,22 +57,22 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
       a 2014 ASCAP Morton Gould Award & Howard Hanson Orchestral Prize (2014) for <em>Asymptotic Flux: Second Study in Entropy</em> (2013) commissioned by the Mizzou International Composers Festival for <a href="www.alarmwillsound.com" target="blank">Alarm Will Sound</a>,
       a commission from the Blue Water Chamber Orchestra as winner of Iron Composer (2014), commissions from <a href="http://www.ensemblenikel.com/" target="blank">Ensemble Nikel</a> (Israel, 2014) and <a href="http://www.iktuspercussion.com" target="blank">Iktus Percussion</a> (2013),
       the German/American Fulbright Commission (2011) and winner of newEar Composer’s Competition (2013).
-
+<br><br>
       In 2015, as Artist-in-Residence at USF Verftet/City Council of Bergen, Norway and nominee for the Gaudeamus Prize,
       three works were presented by Insomnio, New European Ensemble, and Slagwerk Den Haag at Gaudeamus Muziekweek (NL).
-
+<br><br>
       His works </em>walkside, lost</em> and <em>gimme shelter</em> (2015), commissioned by Gaudeamus Muziekweek and Eklekto Percussion Geneva,
       both explore the structural intersection of precise physical gestures, fragile sounds, and speech alongside live audio and video processing. Three speaking percussionists manipulate household objects, microphones, and speakers embedded in wooden boxes while cameras generate a reservoir of video files.
       These files are retrieved, re-organized, and composited against one another, creating temporal, aural, and visual dissonances between past and present actions.
 
-
+<br><br>
       As 2018 Artist-In-Residence at the Embassy of Foreign Artists in Geneva, Switzerland, he developed a new, interactive processing environment for <em>surface, tension</em> (2018),
       responding directly to the discrete physical gestures of performers and governing the behavior of both signal processing and soundfile triggering through wearable technology, sensors, and motion tracking.
 
-
+<br><br>
       <em>PANIC ARCHITECTURE</em> (2017), commissioned by the Earle Brown Music Foundation for the Talea Ensemble and TIME SPANS Festival in NYC, evokes a participatory framework demanding compulsive interaction and attention. The relentless influx of email, messages, and notifications compel our constant engagement and response, functioning as both our tether to society and primary mode of interpersonal contact. Intermittent reinforcement entices users to obsessively check for new content. Digital panic occurs when multiple, simultaneous systems demand a user’s attention concurrently.
 
-
+<br><br>
       <!-- new sentence -->
 
       Scenes from his multimedia opera <a href="http://www.hungeropera.com" target="blank"><em>Hunger</em></a> have received performances at Darmstadt (2014) with
@@ -82,42 +82,23 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
 
       An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” <em>– L.A. Times</em>
 
-
+<br><br>
       <!-- new sentence -->
       Primary mentors have included Ricardo Zohn-Muldoon, Steven Takasugi, Pierluigi Billone, Chaya Czernowin, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and Georges Aperghis.
 
-
+<br><br>
       Jason served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">Valencia International Performance Academy & Festival</a> (Spain), for two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, and as founding Director of the TICF Academy for Young Composers, as well as course instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at the Eastman School of Music.
 
-
+<br><br>
       He is widely sought internationally as a guest composer and lecturer at institutions including the University of Virginia, San Jose State University, UNLV, Queens New Music Festival, MATA, UT Austin, Tzlil Meudcan Festival (Tel Aviv), Hamilton College, Chamber Music Campania (Italy), Portland State University, TRANSIT Festival Belgium, University of Richmond, UNCG, Michigan State University, University of Northern Colorado, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.
       He holds a Ph.D. in Composition from the Eastman School of Music, and degrees in Composition and Music Technology from San José State University (BM & BA, 2008) and the University of Nevada, Las Vegas (MM, 2010), where he taught courses in composition and theory.
 
-
+<br><br>
       Current projects include the multimedia opera Hunger, and a large work for the Hong Kong New Music Ensemble commissioned by the MATA Festival in NYC (2020).
 
       </div>
     </div>
   </div>
-
-
-
-  <div class="card">
-    <div class="card-header" id="headingN">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseN" aria-expanded="false" aria-controls="collapseN">
-          Another Collapse Title
-        </button>
-      </h5>
-    </div>
-    <div id="collapseN" class="collapse" aria-labelledby="headingN" data-parent="#myaccordion">
-      <div class="card-body">
-        More collapsible content
-      </div>
-    </div>
-  </div>
-
-</div>
 
 
 

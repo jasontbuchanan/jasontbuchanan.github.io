@@ -996,7 +996,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 */
 
 .accordion .card {
-    border-color: #eaeaea;
+    border-color: #0b0d0f;
     border-radius: 0;
     border-bottom: 0;
       background-color: #1b1d1f;
@@ -1013,20 +1013,20 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .accordion .card .card-body {
-    border-bottom: 1px solid #eaeaea;
+    border-bottom: 1px solid #0b0d0f;
     color: #bfbfbf;
       background-color: #1b1d1f;
 
 }
 
 .accordion .card-header {
-    text-transform: uppercase;
-    letter-spacing: 1px;
+    text-transform: none;
+    letter-spacing: 2px;
     font-weight: bold;
-    font-size: 16px;
+    font-size: 20px;
     background-color: #1b1d1f;
-    border-color: #eaeaea;
-    padding: 12px 18px;
+    border-color: #0b0d0f;
+    padding: 4px 6px;
 }
 
 .accordion .card-header a {
@@ -1049,8 +1049,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     right: 0;
     margin-top: -7px;
     font-family: "Roboto";
-    font-size: 17px;
-    line-height: 1;
+    font-size: 20px;
+    line-height: 0.3;
 }
 
 .accordion .card-header a > i,
