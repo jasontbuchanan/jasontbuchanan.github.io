@@ -1000,6 +1000,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-radius: 0;
     border-bottom: 0;
       background-color: #1b1d1f;
+      text-align: justify;
+
 }
 
 .accordion .card:last-child {
@@ -1014,7 +1016,8 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .accordion .card .card-body {
     border-bottom: 1px solid #0b0d0f;
-    color: #bfbfbf;
+    color: #dfdfdf;
+    text-align: justify;
       background-color: #1b1d1f;
 
 }
@@ -1040,6 +1043,8 @@ select.form-control-sm:not([size]):not([multiple]) {
 .accordion .card-header a:hover,
 .accordion .card-header a:focus {
     color: #bfbfbf;
+    text-align: justify;
+
 }
 
 .accordion .card-header a:after {
@@ -1051,6 +1056,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     font-family: "Roboto";
     font-size: 20px;
     line-height: 0.3;
+    text-align: justify;
+
 }
 
 .accordion .card-header a > i,
