@@ -8,7 +8,7 @@
 				<a href="{{ post.url }}">
 					{%- if post.thumbnailImage -%}
 
-							<img class="float-sm-left col-sm-3 col-lg-5" src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150" >
+							<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150" >
 					{% else %}
 						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="" width="150">
 					{%- endif -%}	<strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }}
