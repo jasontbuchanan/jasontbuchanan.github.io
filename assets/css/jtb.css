@@ -5,7 +5,7 @@
   border-bottom: 0px solid rgba(220, 220, 220, .2);
 }
 .header.header-small {
-  background: #515151; // #2a313a;
+  background: #F1f227; // #2a313a; /* yellow */
   border-bottom: 1px solid rgba(42,49,58,0.2)
 }
 .header .extra-nav > ul > li > a,
