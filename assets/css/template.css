@@ -2784,7 +2784,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header-sub-menu-dark .inner-nav .sub-menu li.mega-menu-col > a {
-    color: #fff;
+    color: #212121;
 }
 
 @media (min-width: 992px) {
