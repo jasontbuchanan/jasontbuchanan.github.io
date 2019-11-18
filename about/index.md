@@ -21,7 +21,10 @@ In 2015, as Artist-in-Residence at USF Verftet/City Council of Bergen, Norway an
 
 Scenes from his multimedia opera *Hunger* have received performances at Darmstadt (2014) with Ensemble Interface (DE), The Industry’s FIRST TAKE in L.A. (2015) with wild Up, and the MATA Interval Series in New York City (2015) with the [Switch~ Ensemble]. “Hunger is a kind of training session in mental disintegration… An ungodly opera needs ugly music, singers who produce primal sounds, an electric guitar that sounds scraped raw, a wailing orchestra effects, cuts the ear like a knife. Buchanan delivers.” – L.A. Times
 
-*all-forgetting-is-retrieval* (2019) for ensemble and augmented conductor was commissioned by the Thailand New Music and Arts Symposium, exploring the formation of human memory, retrieval, failure, and the emotional space of “lost” experiences—the inability to be truly present in a moment, or further commit to memory experiences that are simultaneously both formative and fleeting. The rapid loss of their fidelity is staggering, and this work attempt to confront that impermanence and decay.
+<details>
+  <summary>*all-forgetting-is-retrieval* (2019)</summary>
+for ensemble and augmented conductor was commissioned by the Thailand New Music and Arts Symposium, exploring the formation of human memory, retrieval, failure, and the emotional space of “lost” experiences—the inability to be truly present in a moment, or further commit to memory experiences that are simultaneously both formative and fleeting. The rapid loss of their fidelity is staggering, and this work attempt to confront that impermanence and decay.
+</details>
 
 Primary mentors have included Ricardo Zohn-Muldoon, Steven Takasugi, Pierluigi Billone, Chaya Czernowin, Raphaël Cendo, David Liptak, Virko Baley, Peter Michael Hamel, Jorge Villavicencio Grossmann, Pablo Furman, and Georges Aperghis. Jason served for three years as Executive Director of the Valencia International Performance Academy & Festival (Spain), for two years as a Curator for the San Francisco Center for New Music, and as founding Director of the TICF Academy for Young Composers, as well as course instructor in electronic music and composition, board member of OSSIA, and assistant conductor for the Musica Nova Ensemble with conductor Brad Lubman at the Eastman School of Music.
 
@@ -71,16 +74,7 @@ ________________
 </div>
 
 
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
 
-## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
 
 ________________
 
