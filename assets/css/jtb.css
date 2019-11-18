@@ -30,7 +30,6 @@
 */
 body {
   background: #777;
-  background-color: #black;
   background-image: "assets/images/crazystavesdarkblue3.jpg";
   font-family: "Roboto", Arial, sans-serif;
     line-height: 1.75;
@@ -303,4 +302,8 @@ footer aside .fa {
 
 .module-gray {
     background-color: #bbbbbb;
+}
+
+.pager-active {
+  background-color: #222222;
 }
