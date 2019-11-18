@@ -2357,7 +2357,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header.header-small {
-    background: #1b1d1f; /* - - CHECK ME - I AM CHANGED from WHITE to BLACK  - - - THIS IS HEADER COLOR check also in JTB css- - - - - - - - - - - ! ! ! ! */
+    background: #0b0d0f; /* - - CHANGED THIS IS HEADER COLOR check also in JTB css- - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -3063,7 +3063,7 @@ body.off-canvas-sidebar-open .layout {
 
 .module,
 .module-sm {
-    background-color: #010101; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY this is for background color - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #1a1c1e; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
     padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -3125,7 +3125,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .module-page-title {
-    background-color: #1b1d1f; /* - - I think this is the header which was white CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #0b0d0f; /* - - THIS IS HEADER BACKGROUND (title) such as WORKS AUDIO AND VIDEO CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #111111; /* - - line underneath page title - I AM  CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
     padding: 0px 0 30px; /* - - I think first value is module hegiht  - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
@@ -5168,7 +5168,7 @@ a[rel~="gallery"]:hover {
 
 .footer {
     position: relative;
-    background: #1b1d1f;
+    background: #0b0d0f;
     color: #bfbfbf;
 }
 
