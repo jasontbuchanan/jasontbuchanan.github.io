@@ -95,7 +95,7 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
     </div>
   </div>
 
-  <center> <a href="long-bio">long bio</a>
+<!--  <center> <a href="long-bio">long bio</a> -->
 
 
 
