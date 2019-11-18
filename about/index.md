@@ -9,7 +9,6 @@ postDescription: Short Bio
 tags:
 ---
 
-<body style="background-color: #111111;">
 # Short Bio
 
 <img class="float-sm-left col-sm-6 col-lg-5 p4-0 pb-3" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">Jason Thorpe Buchanan is an American composer of operatic, orchestral, chamber, electroacoustic, and intermedia works that explore fragmentation, multiplicity, oscillation between intelligibility and unintelligibility, and the integration of live performance with technology. He is currently Artistic Director of the [Switch~ Ensemble] and Department Chair/Lecturer in Composition, Music Theory, and Electronic Music Composition at the College of Music, Mahidol University in Thailand. His works have been described as “an unearthly collage of sounds”, “sharply-edged”, and “free jazz gone wrong—in a good way.”
