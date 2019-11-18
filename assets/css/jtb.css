@@ -29,22 +29,29 @@
    BODY
 */
 body {
-  background-color: #111111;
-  background: #111111;
+  background-color: #111;
+  background: #111;
   background-image: "assets/images/crazystavesdarkblue3.jpg";
 
-  font-family: "optima", Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
     line-height: 1.75;
-    font-size: 20px;
+    font-size: 18px;
     color: #333;
 }
 /* THISS IS WORKING FOR TEXT COLOR BUT NOT BACKGROUND COLOR
 */
 
+
+iframe {
+  background-color: #111;
+    border: 0;
+}
+
 body .layout {
     height: 100%;
     min-height: 100%;
     width: 100%;
+    background-color: #111;
 }
 
 .layout {
@@ -57,7 +64,9 @@ body .layout {
     opacity: 1;
 }
 
-
+.scroll-top {
+    background: #eeeeee;
+  color: #444;
 /*
    TYPOGRAPHY
 */
@@ -66,10 +75,34 @@ h1, h2, h3, h4, h5, h6 {
 }
 .h4 {
     font-weight: 600;
+    font-size: 16px;
+
 }
 .h3 {
     font-weight: 700;
 }
+
+h5,
+.h5 {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0 0 10px;
+}
+
+h6,
+.h6 {
+    font-weight: 500;
+    font-size: 12px;
+    margin: 0 0 10px;
+}
+
+.font-serif {
+    font-family: "Lora", "Libre Baskerville", serif;
+    font-style: italic;
+}
+
+
+
 h2.single-portfolio-title {
     text-align: left;
 }
@@ -168,4 +201,107 @@ footer aside .fa {
     right: 0;
     left: 0;
     z-index: 9998;
+}
+
+/*------------------------------------------------------------------
+[Accordions]
+*/
+
+.accordion .card {
+    border-color: #eaeaea;
+    border-radius: 0;
+    border-bottom: 0;
+}
+
+.accordion .card:last-child {
+    border-bottom-left-radius: .25em;
+    border-bottom-right-radius: .25em;
+}
+
+.accordion .card:first-child {
+    border-top-left-radius: .25em;
+    border-top-right-radius: .25em;
+}
+
+.accordion .card .card-body {
+    border-bottom: 1px solid #eaeaea;
+    color: #999;
+}
+
+.accordion .card-header {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: #f7f7f7;
+    border-color: #eaeaea;
+    padding: 12px 18px;
+}
+
+.accordion .card-header a {
+    position: relative;
+    display: block;
+    color: #999;
+}
+
+.accordion .card-header a:hover,
+.accordion .card-header a:focus {
+    color: #111;
+}
+
+.accordion .card-header a:after {
+    position: absolute;
+    content: "\f107";
+    top: 50%;
+    right: 0;
+    margin-top: -7px;
+    font-family: "Arial";
+    font-size: 14px;
+    line-height: 1;
+}
+
+.accordion .card-header a > i,
+.accordion .card-header a > span {
+    margin-right: 5px;
+}
+
+/*------------------------------------------------------------------
+[Modules]
+*/
+
+.module,
+.module-sm,
+.module-header {
+    background-color: #dddddd;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    padding: 250px 0;
+}
+
+.module.module-divider-top,
+.module-sm.module-divider-top,
+.module-header.module-divider-top {
+    border-top: 1px solid #dddddd;
+}
+
+.module.module-divider-bottom,
+.module-sm.module-divider-bottom,
+.module-header.module-divider-bottom {
+    border-bottom: 1px solid #dddddd;
+}
+
+.module,
+.module-sm {
+    background-color: #ddd;
+    padding: 100px 0;
+}
+
+.module-sm {
+    padding: 30px 0;
+}
+
+.module-gray {
+    background-color: #bbbbbb;
 }
