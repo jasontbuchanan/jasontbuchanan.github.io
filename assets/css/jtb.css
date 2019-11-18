@@ -30,6 +30,9 @@
 */
 body {
   background-color: #111111;
+  background: #111111;
+  background-image: "assets/images/crazystavesdarkblue3.jpg";
+
   font-family: "Garamond", Times, serif;
     line-height: 1.75;
     font-size: 20px;
@@ -46,8 +49,8 @@ body .layout {
 
 .layout {
     opacity: 0;
-    -webkit-transition: 1.2s opacity ease;
-            transition: 1.2s opacity ease;
+    -webkit-transition: 1.0s opacity ease;
+            transition: 1.0s opacity ease;
 }
 
 .layout.fade-in {
@@ -63,6 +66,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .h4 {
     font-weight: 600;
+}
+.h3 {
+    font-weight: 700;
 }
 h2.single-portfolio-title {
     text-align: left;
