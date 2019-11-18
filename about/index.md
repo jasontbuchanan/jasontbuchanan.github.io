@@ -7,6 +7,7 @@ date: 2019-11-5
 manualDate: Nov. 5 2019
 postDescription: Short Bio
 tags:
+background: black
 ---
 
 # Short Bio
