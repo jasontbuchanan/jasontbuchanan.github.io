@@ -3063,8 +3063,8 @@ body.off-canvas-sidebar-open .layout {
 
 .module,
 .module-sm {
-    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
-    padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY this is for background color - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-sm {
@@ -3078,8 +3078,8 @@ body.off-canvas-sidebar-open .layout {
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 100vh;
-    height: 100vh;
+    min-height: 60vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    height: 80vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - - - - - - - - - - - ! ! ! ! */
     padding: 0;
 }
 
@@ -3113,27 +3113,27 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header + .wrapper .module:first-child {
-    padding-top: 160px;
+    padding-top: 80px; /* - - CHECK ME - I AM  CHANGED from 160 to 80  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 114px;
+    padding-top: 114px; /* - - CHECK ME - I AM  CHANGED from 114 to 70  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper section.maps-container:first-child {
-    padding-top: 81px;
+    padding-top: 81px; /* - - CHECK ME - I AM  CHANGED from 81 to 60  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-page-title {
-    background-color: #f7f7f7;
+    background-color: #313131; /* - - I think this is the header which was white CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #f2f2f2;
-    padding: 111px 0 30px;
+    padding: 70px 0 30px; /* - - I think first value is module hegiht  - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-page-title .h5 {
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    font-size: 15px;
+    font-size: 14px; /* - - CHECK ME - I AM  CHANGED from 15 to 14  - - - - - - - - - - - - - - ! ! ! ! */
     margin: 0;
 }
 
@@ -3207,7 +3207,7 @@ body.off-canvas-sidebar-open .layout {
 .module-slides h4,
 .module-slides h5,
 .module-slides h6 {
-    color: #313131;
+    color: #313131; /* - - CHECK ME - I AM NOT CHANGED but I think this is the grey something?  - - - - - - - - - - - - - - ! ! ! ! */
     margin: 0;
 }
 
@@ -3404,7 +3404,7 @@ body.off-canvas-sidebar-open .layout {
 
 .bg-dark,
 .bg-gradient {
-    color: #fff;
+    color: #313131; /* - - CHECK ME - I AM  CHANGED from WHITE to NEAR BLACK  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .bg-dark h1,
