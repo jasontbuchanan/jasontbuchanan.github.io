@@ -1756,7 +1756,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .page-loader {
-    background: #fff;
+    background: #E7903C; /* - - CHECK ME - I AM CHANGED from WHITE to ORANG  - - - - - - - - - - - - - - ! ! ! ! */
     position: fixed;
     top: 0;
     bottom: 0;
@@ -1839,11 +1839,11 @@ body.off-canvas-sidebar-open .layout {
 .off-canvas-sidebar .h5,
 .off-canvas-sidebar h6,
 .off-canvas-sidebar .h6 {
-    color: #fff;
+    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .off-canvas-sidebar a {
-    color: #fff;
+    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .off-canvas-sidebar a:hover,
@@ -1983,11 +1983,11 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .special-heading h5 {
-    font-size: 14px;
+    font-size: 13px;
 }
 
 .special-heading h6 {
-    font-size: 12px;
+    font-size: 11px;
 }
 
 /*------------------------------------------------------------------
@@ -2357,7 +2357,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header.header-small {
-    background: #fff;
+    background: #111; /* - - CHECK ME - I AM CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2564,9 +2564,10 @@ body.off-canvas-sidebar-open .layout {
             transform: translateY(0);
 }
 
+
 .inner-nav .sub-menu,
 .inner-nav .mega-menu {
-    background-color: #fff;
+    background-color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
     position: absolute;
     min-width: 190px;
     left: -20px;
@@ -2804,7 +2805,7 @@ body.off-canvas-sidebar-open .layout {
 
 @media (max-width: 991px) {
     .header {
-        background-color: #fff;
+        background-color: #Be90d4; /* - - CHECK ME - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
         padding: 0;
     }
 
@@ -2855,7 +2856,7 @@ body.off-canvas-sidebar-open .layout {
         line-height: 24px;
         font-weight: 600;
         font-size: 12px;
-        color: #fff;
+        color: #fff; /* - - CHECK ME - I AM  NOT CHANGED from WHITE  - - - - - - - - - - - - - - ! ! ! ! */
         padding: 8px 0;
     }
 
@@ -2908,7 +2909,7 @@ body.off-canvas-sidebar-open .layout {
 
     .inner-navigation {
         position: absolute;
-        background-color: #1b1d1f;
+        background-color: #1b1d1f; /* - - CHECK ME - I AM not CHANGED from BLACK  - - - - - - - - - - - - - - ! ! ! ! */
         max-height: 340px;
         width: 100%;
         left: 0;
