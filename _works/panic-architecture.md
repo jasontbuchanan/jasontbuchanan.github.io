@@ -31,6 +31,6 @@ tags:
 media:
   - title: "PANIC ARCHITECTURE (2017) by Jason Thorpe Buchanan (w/intro)"
     url: https://vimeo.com/245320082
-headerImage: works-images/
-thumbnailImage: works-images/thumbnails/panicarchitecture-talea-350x163.jpg
+headerImage: works-images/panicarchitecture-talea.jpg
+thumbnailImage: works-images/thumbnails/panicarchitecture-talea-450x209.jpg
 ---
