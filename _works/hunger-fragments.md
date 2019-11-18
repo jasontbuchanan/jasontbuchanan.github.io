@@ -6,9 +6,9 @@ title: "hunger fragments"
 duration: 10 minutes
 yearComposed: 2015
 commissionedOrWrittenFor: The New York Virtuoso singers
-size: sixteen solo voices
+size: sixteen voices
 instrumentation:
-  - sixteen solo voices
+  - sixteen voices
 tags:
   - acoustic
   - voices
