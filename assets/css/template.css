@@ -3066,6 +3066,7 @@ body.off-canvas-sidebar-open .layout {
     background-color: #1a1c1e; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
 background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
     background-blend-mode: overlay;
+    background-position: center;
     padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
