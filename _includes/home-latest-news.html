@@ -7,7 +7,7 @@
 			<li>
 				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 				<a href="{{ post.url }}">
-					{%- if work.thumbnailImage -%}
+					{%- if post.thumbnailImage -%}
 					<p width="100">	<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="">
 					{% else %}
 						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt=""></p>
