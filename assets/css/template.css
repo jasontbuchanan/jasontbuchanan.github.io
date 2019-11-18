@@ -975,7 +975,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .tab-content {
     border: 1px solid #eaeaea;
-    background-color: #212121;
+    background-color: #cfc;
     border-top: 0;
     padding: 20px 18px;
     color: #999;
@@ -1474,7 +1474,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 .module-slides:hover a.next:hover,
 .module-slides:hover a.prev:focus,
 .module-slides:hover a.next:focus {
-    color: #1b1d1f;
+    color: #111;
 }
 
 .module-slides:hover a.prev:hover {
@@ -1830,11 +1830,11 @@ body.off-canvas-sidebar-open .layout {
 .off-canvas-sidebar .h5,
 .off-canvas-sidebar h6,
 .off-canvas-sidebar .h6 {
-    color: #fff;
+    color: #111;
 }
 
 .off-canvas-sidebar a {
-    color: #fff;
+    color: #111;
 }
 
 .off-canvas-sidebar a:hover,
