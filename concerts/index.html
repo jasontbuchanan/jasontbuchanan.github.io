@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Concerts
-headerImage: header-vipa-ensemble.jpg
+headerImage: assets/images/works-images/gimmeshelter_3_full.png
 ---
 
 {% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 {% assign revPerfPosts = site.posts | reverse | where_exp:"item", "item.categories contains 'performance'" %}
 
-<h1 class="mb-5">Upcoming Concerts</h1>
+<h2 class="mb-5">Upcoming</h2>
 {%- for concert in revPerfPosts -%}
 
   {% capture current_date %}{{ 'now' | date: '%s' }}{% endcapture %}
@@ -21,7 +21,7 @@ headerImage: header-vipa-ensemble.jpg
 
 {%- endfor -%}
 
-<h1 class="mb-5">Recent Concerts</h1>
+<h2 class="mb-5">Recent</h2>
 {%- for concert in performancePosts -%}
 
   {% capture current_date %}{{ 'now' | date: '%s' }}{% endcapture %}
