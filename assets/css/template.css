@@ -3061,7 +3061,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 250px 0;
+    padding: 100px 0 !important; /* decreasesd module padding */
 }
 
 .module.module-divider-top,
@@ -3079,8 +3079,8 @@ body.off-canvas-sidebar-open .layout {
 
 .module,
 .module-sm {
-    background-color: #212121 !important; */ this is the background color */
-    padding: 100px 0;
+    background-color: #212121 !important; /* this is the background color */
+    padding: 50px 0 !important; /* I think this is padding for background bio page and others /*
 }
 
 .module-sm {
@@ -3142,9 +3142,9 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .module-page-title {
-    background-color: #313131 !important; */ I think this is the header which was white */
+    background-color: #313131 !important; /* I think this is the header which was white */
     border-bottom: 1px solid #f2f2f2;
-    padding: 70px 0 30px !important; */ I think first value is module height */
+    padding: 70px 0 30px !important; /* I think first value is module height */
 }
 
 .module-page-title .h5 {
