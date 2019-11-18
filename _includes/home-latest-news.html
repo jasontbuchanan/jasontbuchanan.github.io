@@ -8,9 +8,9 @@
 				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 				<a href="{{ post.url }}">
 					{%- if work.thumbnailImage -%}
-					<div class="media">	<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="">
+					<p width="100">	<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="">
 					{% else %}
-						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt=""></div>
+						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt=""></p>
 					{%- endif -%}	<strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }}
 				</a>
 			</li>
