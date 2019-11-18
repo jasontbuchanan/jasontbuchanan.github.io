@@ -975,7 +975,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .tab-content {
     border: 1px solid #eaeaea;
-    background-color: #212121;
+    background-color: #515151;
     border-top: 0;
     padding: 20px 18px;
     color: #999;
@@ -1094,7 +1094,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .page-item.active .page-link {
-    background-color: #212121;
+    background-color: #515151;
     border-color: transparent;
     color: #4a90e2;
 }
@@ -1346,7 +1346,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     line-height: 70px;
     font-size: 36px;
     display: block;
-    color: #212121;
+    color: #515151;
 }
 
 .image-slider.owl-carousel .owl-prev span:before,
@@ -1747,7 +1747,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .page-loader {
-    background: #212121;
+    background: #515151;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -1804,7 +1804,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .off-canvas-sidebar {
-    background: #212121;
+    background: #515151;
     position: fixed;
     right: -425px;
     top: 0;
@@ -2348,7 +2348,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header.header-small {
-    background: #212121;
+    background: #515151;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2557,7 +2557,7 @@ body.off-canvas-sidebar-open .layout {
 
 .inner-nav .sub-menu,
 .inner-nav .mega-menu {
-    background-color: #212121;
+    background-color: #515151;
     position: absolute;
     min-width: 190px;
     left: -20px;
@@ -2780,7 +2780,7 @@ body.off-canvas-sidebar-open .layout {
 
 .header-sub-menu-dark .inner-nav .sub-menu,
 .header-sub-menu-dark .inner-nav .mega-menu {
-    background-color: #212121;
+    background-color: #515151;
 }
 
 .header-sub-menu-dark .inner-nav .sub-menu li.mega-menu-col > a {
@@ -2899,7 +2899,7 @@ body.off-canvas-sidebar-open .layout {
 
     .inner-navigation {
         position: absolute;
-        background-color: #212121;
+        background-color: #515151;
         max-height: 340px;
         width: 100%;
         left: 0;
@@ -3115,7 +3115,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .module-page-title {
-    background-color: #f7f7f7;
+    background-color: #111111;
     border-bottom: 1px solid #f2f2f2;
     padding: 111px 0 30px;
 }
@@ -4328,7 +4328,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-background .post-header .post-title a {
-    color: #fff;
+    color: #212121;
 }
 
 .post-background:hover:before {
@@ -5157,7 +5157,7 @@ a[rel~="gallery"]:hover {
 
 .footer {
     position: relative;
-    background: #212121;
+    background: #515151;
     color: #bfbfbf;
 }
 
