@@ -3132,11 +3132,11 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .header + .wrapper .module:first-child {
-    padding-top: 0px; /* - - CHECK ME - I AM  CHANGED from 160 to 140  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 100px; /* - - CHECK ME - I AM  CHANGED from 160 to 140  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 114px; /* - - CHECK ME - I AM  CHANGED from 114 to 100  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 0px; /* - - CHECK ME - I AM  CHANGED from 114 to 100  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper section.maps-container:first-child {
