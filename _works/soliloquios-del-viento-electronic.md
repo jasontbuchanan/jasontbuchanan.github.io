@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-title: "soliloquios del viento (sextet version)"
+title: "soliloquios del viento"
 duration: 14 minutes
 yearComposed: 2017
 commissionedOrWrittenFor: Royaumont
