@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2016-09-25
-describe: <em>pulp</em> (2015), Matt Evans
+describe: <em>pulp</em> (2015), Matt Evans.
 event: Vanguard New Music Guest Artist Series
 location:
   institution: Kent State University

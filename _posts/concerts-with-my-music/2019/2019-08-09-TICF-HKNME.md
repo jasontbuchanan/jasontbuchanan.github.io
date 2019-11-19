@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: <em>Soliloquios del Viento</em> (2017), Hong Kong New Music Ensemble. TICF.
+describe: <em>soliloquios del Viento</em> (2017), Hong Kong New Music Ensemble. TICF.
 date: 2019-10-19
 time:
 location:

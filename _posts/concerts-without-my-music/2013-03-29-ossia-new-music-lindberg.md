@@ -4,7 +4,6 @@ categories: switch
 date: 2013-03-29
 event: Ossia New Music Concert
 describe: Conducting Magnus Lindberg's <em>UR</em>, Switch~ Ensemble.
-
 location:
   institution: Eastman School of Music
   venue: Kilbourn Hall
