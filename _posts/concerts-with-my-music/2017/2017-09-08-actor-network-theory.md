@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: <em>ACTOR-NETWORK THEORY</em> world premiere, Ensemble Voix Nouvelles. Royaumont, Paris Region. 
+describe: <em>ACTOR-NETWORK THEORY</em> world premiere, Ensemble Voix Nouvelles. Royaumont, Paris Region.
 date: 2017-08-08
 time:
 location:

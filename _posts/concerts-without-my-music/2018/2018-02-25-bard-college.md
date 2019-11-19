@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-compCondTech: Conductor
+describe: Conducting premiere of Matt Sargent's <em>Unwound Path</em> (2018), Switch~ Ensemble.
 date: 2018-02-25
 time: "7:30 pm"
 location:
@@ -12,7 +12,6 @@ location:
   city: Annandale-on-Hudson
   state: NY
   zip: 12504
-
 program:
   - composer: Matt Sargent
     title: Unwound Path (2018)
@@ -24,7 +23,7 @@ program:
     title: landscape with inscription (2017)
   - composer: Morton Feldman
     title: Intersection 4 (1952)
-thumbnail: ibarra_berkeley_1000x500.jpg
+thumbnail: updates/sargent-cornell-600px-1.png
 ---
 
 More information available here: <a href="https://www.facebook.com/events/159306914720574/" target="blank">https://www.facebook.com/events/159306914720574/ </a>
