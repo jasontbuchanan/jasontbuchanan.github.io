@@ -3087,7 +3087,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .module-sm {
-    padding: 30px 0;
+    padding: 0px 0;
 }
 
 .module-gray {
@@ -3115,7 +3115,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .full-height .container > .row {
     position: relative;
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
     height: 100%;
 }
 
@@ -3167,7 +3167,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .row-page-title .page-title-captions,
 .row-page-title .page-title-secondary {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
     width: 45%;
 }
 

@@ -3056,11 +3056,11 @@ body.off-canvas-sidebar-open .layout {
 .module-sm,
 .module-header {
     background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
-    background-position: 50%;
+    background-position: 100%;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 450px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
+    padding: 400px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
 }
 
 .module.module-divider-top,
@@ -3079,7 +3079,7 @@ body.off-canvas-sidebar-open .layout {
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
 background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/crazystavesdarkblue3.jpg);
-    background-blend-mode: overlay;
+    background-blend-mode: normal;
     background-position: center;
     background-repeat: repeat-y;
     background-size: 1200px;
@@ -3087,7 +3087,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .module-sm {
-    padding: 30px 0;
+    padding: 0px 0;
 }
 
 .module-gray {
@@ -3115,7 +3115,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .full-height .container > .row {
     position: relative;
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
     height: 100%;
 }
 
@@ -3132,11 +3132,11 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .header + .wrapper .module:first-child {
-    padding-top: 20px; /* - - CHECK ME - I AM  CHANGED from 160 to 140  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 80px; /* - - CHECK ME - I AM  CHANGED from 160 to 140  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 20px; /* - - CHECK ME - I AM  CHANGED from 114 to 100  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 80px; /* - - CHECK ME - I AM  CHANGED from 114 to 100  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper section.maps-container:first-child {
@@ -3146,7 +3146,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .module-page-title {
     background-color: #0b0d0f; /* - - THIS IS HEADER BACKGROUND (title) such as WORKS AUDIO AND VIDEO CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #111111; /* - - line underneath page title - I AM  CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-    padding: 0px 0 40px; /* - - this is space before filters on media and works pages  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 90px 0 90px; /* - - this is space before filters on media and works pages  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-page-title .h5 {
@@ -3167,7 +3167,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .row-page-title .page-title-captions,
 .row-page-title .page-title-secondary {
     display: table-cell;
-    vertical-align: middle;
+    vertical-align: top;
     width: 45%;
 }
 

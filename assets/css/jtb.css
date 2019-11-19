@@ -27,7 +27,7 @@
 
 .module-sm {
     background-color: #000000; /* this is the background color */
-    padding: 40px 0; /* height of the bio and image */
+    padding: 40px 0; /* height of the bio and image, as well as list and portfolio vie filters */
 }
 
 /*
@@ -144,7 +144,7 @@ footer aside .fa {
   position: relative;
  	content: "";
   width: 0;
-	height: 100px;
+	height: 0px;
   margin-top: -100px;
 }
 @media (max-width: 991px) {
@@ -153,7 +153,7 @@ footer aside .fa {
     position: relative;
    	content: "";
     width: 0;
-  	height: 100px;
+  	height: 0px;
     margin-top: -100px;
   }
 }
