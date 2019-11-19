@@ -2,6 +2,7 @@
 layout: concert
 categories: performance
 date: 2016-12-14
+describe: Tech for Chandler, Murray, Sargent. Switch~ Ensemble.
 location:
   venue: Center for New Music
   address: 55 Taylor St
@@ -24,4 +25,4 @@ program:
 thumbnail: updates/c4nm_280_opt.jpg
 ---
 
-Dec. 13, 2017: the [Switch~ Ensemble] San Francisco Center for New Music composer workshop with mentor composers Jason Thorpe Buchanan and Clay Mettens, concert at 8pm.
+Dec. 13, 2017: the [Switch~ Ensemble] San Francisco Center for New Music
