@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Composition Faculty Recital featuring <em>surface, tension</em> (2018) and <em>Second Study for Alto Saxophone, Electronics, and Video: pulp</em> (2015), Thailand
+describe: Composition Faculty Recital featuring <em>surface, tension</em> (2018) and <em>Second Study for Alto Saxophone, Electronics, and Video pulp</em> (2015), Thailand
 date: 2019-01-07
 time:
 location:
