@@ -22,4 +22,5 @@ thumbnail: updates/transit-289px.png
 Transit Festival. Ensemble Interface performs *Soliloquios del Viento* (2017) alongside works by Ashley Fure, Wieland Hoban, and Maya Verlaak with electric guitarist Nico Couck.
 
 https://www.festival2021.be/transit/agenda
+
 http://www.ensembleinterface.com/en/
