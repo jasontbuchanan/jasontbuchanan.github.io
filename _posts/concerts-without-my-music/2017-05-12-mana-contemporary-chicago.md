@@ -2,6 +2,7 @@
 layout: concert
 categories: performance
 date: 2017-05-12
+describe: Tech for Camci, Murray, Page, Rolock. Switch~ Ensemble. University of Chicago Residency, mentor composer.
 location:
   institution:
   building:

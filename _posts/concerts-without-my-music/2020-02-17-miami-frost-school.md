@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2020-02-17
-describe: Conducting six premieres by faculty composers.
+describe: Conducting six world premieres by faculty composers, Switch~ Ensemble.
 time:
 location:
   institution: Frost School of Music,  University of Miami

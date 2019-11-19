@@ -2,6 +2,7 @@
 layout: concert
 categories: performance
 date: 2017-12-12
+describe: Conducting Victor Ibarra's <em>Química del agua</em>, Switch~ Ensemble.
 time: "8:00 pm"
 location:
   institution:

@@ -2,6 +2,7 @@
 layout: concert
 categories: performance
 date: 2017-05-14
+describe: Conducting Joungbum Lee's <em>pa-an</em>, Tech for Garifzyanova, Young, Gradone, Myers. Switch~ Ensemble. University of Chicago Residency.
 location:
   institution:
   building:
