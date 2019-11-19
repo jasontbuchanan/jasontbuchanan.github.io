@@ -3730,7 +3730,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
     position: absolute;
     /*padding: 25px;*/
     width: 100%;
-    opacity: 0.; /* - - CHANGED not using caption - - - - - ! ! ! ! */
+  /*  opacity:0.; */ /* - - CHANGED not using caption - - - - - ! ! ! ! */
     z-index: 1;
     top: 40%;
     left: 0;
