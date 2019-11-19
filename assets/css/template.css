@@ -3707,7 +3707,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-wrapper img {
     -webkit-transition: all .3s cubic-bezier(.3, .1, .58, 1);
             transition: all .3s cubic-bezier(.3, .1, .58, 1);
-              opacity: 0.55; 
+        /*      opacity: 0.99;   */ /* - - CHANGED text and image- - - - - ! ! ! ! */
 }
 
 .portfolio-wrapper {
@@ -3721,7 +3721,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
     position: absolute;
     background: rgba(49, 49, 49, .95);
     opacity: 0.9; /* - - CHANGED 1 is grey overlay  - - - - - ! ! ! ! */
-    z-index: 1;
+    z-index: 0.5;
     left: 0;
     top: 0;
     height: 100%;
