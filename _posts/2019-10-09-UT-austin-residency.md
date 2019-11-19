@@ -6,7 +6,6 @@ categories: news
 author: "Jason Thorpe Buchanan"
 headerImage: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
-image: vipa-images/Avaloch-June-28-03631.jpg
 photosFolder: UT-austin-Oct-2019/
 ---
 
