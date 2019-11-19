@@ -275,12 +275,12 @@ footer aside .fa {
 .module,
 .module-sm,
 .module-header {
-    background-color: #dddddd;
+    background-color: #000000;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 250px 0
+    padding: 0px 0
 }
 
 .module.module-divider-top,
