@@ -6,12 +6,6 @@
 			<li>
 				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 				<a href="{{ post.url }}">
-
-					{%- if post.thumbnailImage -%}
-				{% comment %}	<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150" >
-										{% else %}
-							{% comment %}				<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="" width="150">
-
 					<strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 20 }}
 				</a>
 			</li>
