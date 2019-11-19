@@ -1766,11 +1766,11 @@ select.form-control-sm:not([size]):not([multiple]) {
 */
 
 .pace .pace-progress {
-    background: #4a90e2;
+    background: #000000; /* - - CHECK ME - I AM CHANGED from WHITE to black  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .page-loader {
-    background: #E7903C; /* - - CHECK ME - I AM CHANGED from WHITE to ORANG  - - - - - - - - - - - - - - ! ! ! ! */
+    background: #000000; /* - - CHECK ME - I AM CHANGED from WHITE to black  - - - - - - - - - - - - - - ! ! ! ! */
     position: fixed;
     top: 0;
     bottom: 0;
