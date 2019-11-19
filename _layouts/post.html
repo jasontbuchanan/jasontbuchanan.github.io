@@ -61,3 +61,20 @@ layout: default
   </div>
 </section>
 <!-- Module end-->
+
+{%- if page.photosFolder -%}
+<!-- Gallery-->
+<section class="module module-gray">
+  <div class="container">
+    <div class="row m-b-50">
+      <div class="col-md-12">
+      <!--  <h3 class="text-center m-b-50">
+          Photos from the Performance
+        </h3> -->
+        {% include photos-portfolio-masonry.html folderName=page.photosFolder %}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Gallery end-->
+{%- endif -%}
