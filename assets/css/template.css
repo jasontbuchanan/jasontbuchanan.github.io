@@ -3771,7 +3771,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    opacity: 1;  /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
+    opacity: 0.6;  /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
 }
 
 .portfolio-item:hover .portfolio-caption {
