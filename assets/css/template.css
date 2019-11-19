@@ -999,7 +999,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-color: #2b2d2f;
     border-radius: 0;
     border-bottom: 0;
-      background-color: #1b1d1f;
+      background-color: #070809;
       text-align: justify;
 
 }
@@ -1018,7 +1018,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-bottom: 1px solid #2b2d2f;
     color: #eee;
     text-align: justify;
-      background-color: #1b1d1f;
+      background-color: #070809;
 
 }
 
@@ -1027,7 +1027,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     letter-spacing: 2px;
     font-weight: bold;
     font-size: 20px;
-    background-color: #1b1d1f;
+    background-color: #070809;
     border-color: #2b2d2f;
     padding: 4px 6px;
 }
@@ -1116,14 +1116,14 @@ select.form-control-sm:not([size]):not([multiple]) {
 .page-item.active .page-link {
     background-color: #fff;
     border-color: transparent;
-    color: #4a90e2; /* --- BLUE --- */
+    color: #3a80d2; /* --- BLUE --- */
 }
 
 .page-link:focus,
 .page-link:hover {
     background-color: #fff;
     border-color: transparent;
-    color: #4a90e2;
+    color: #3a80d2;
 }
 
 .page-link {
@@ -2804,7 +2804,7 @@ body.off-canvas-sidebar-open .layout {
 
 .header-sub-menu-dark .inner-nav .sub-menu,
 .header-sub-menu-dark .inner-nav .mega-menu {
-    background-color: #4a90e2; /* - - CHECK ME - I AM  CHANGED from GREY to BLUE  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #222222; /* - -  CHANGED this is the sub menu background color- - - - - - - - ! ! ! ! */
 }
 
 .header-sub-menu-dark .inner-nav .sub-menu li.mega-menu-col > a {
@@ -3060,7 +3060,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 400px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
+    padding: 450px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
 }
 
 .module.module-divider-top,
@@ -3132,11 +3132,11 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .header + .wrapper .module:first-child {
-    padding-top: 100px; /* - - CHECK ME - I AM  CHANGED from 160 to 140  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 20px; /* - - CHECK ME - I AM  CHANGED from 160 to 140  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 114px; /* - - CHECK ME - I AM  CHANGED from 114 to 100  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 20px; /* - - CHECK ME - I AM  CHANGED from 114 to 100  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .header + .wrapper section.maps-container:first-child {
@@ -3146,7 +3146,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .module-page-title {
     background-color: #0b0d0f; /* - - THIS IS HEADER BACKGROUND (title) such as WORKS AUDIO AND VIDEO CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #111111; /* - - line underneath page title - I AM  CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-    padding: 0px 0 30px; /* - - I think first value is module hegiht  - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 0px 0 40px; /* - - this is space before filters on media and works pages  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-page-title .h5 {
@@ -3277,17 +3277,17 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 @media (max-width: 992px) {
     .wrapper {
-        padding-top: 81px;
+        padding-top: 0px;  /* - -  CHANGED was 81 - - - - - - - - - - - - - - ! ! ! ! */
     }
 
     .module-page-title {
-        padding: 30px 0;
+        padding: 0px 0;   /* - -  CHANGED was 30  - - - - - - - - - - - - - - ! ! ! ! */
     }
 
     .module-header {
         height: auto;
         min-height: auto;
-        padding: 40px 0;
+        padding: 10px 0;
     }
 
     .flexslider h1.h1,
@@ -3633,8 +3633,8 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .filters > li {
     display: inline-block;
-    margin: 15px 10px; /* - - CHECK ME - I AM  CHANGED from 20 to 15 and 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
-    line-height: 10px; /* - - CHECK ME - I AM  CHANGED from 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
+    margin: 35px 20px; /* - - CHECK ME - I AM  CHANGED this is the space before filters for work and media lists   - - - - - - - - - - - - - - ! ! ! ! */
+    line-height: 0px; /* - - CHECK ME - I AM  CHANGED from 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .filters > li {
@@ -3753,7 +3753,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-subtitle {
     font-size: 16px;
   /*  opacity: .7; */ /* - - CHANGED 0. renders inst and commission invisible, 1. visible  - - - - - ! ! ! ! */
-    color: #fdfdfd; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fff; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .portfolio-link {
