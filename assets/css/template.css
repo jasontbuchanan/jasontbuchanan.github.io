@@ -3079,7 +3079,7 @@ body.off-canvas-sidebar-open .layout {
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
 background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/crazystavesdarkblue3.jpg);
-    background-blend-mode: hard-light;
+    background-blend-mode: normal;
     background-position: center;
     background-size: 80%;
     backgr
