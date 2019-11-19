@@ -3743,9 +3743,9 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .portfolio-title {
     text-transform: none;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     line-height: 2.1;
-    font-size: 17px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
+    font-size: 18px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
     color: #fff;
     margin: 0;
 }
@@ -3753,7 +3753,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-subtitle {
     font-size: 16px;
   /*  opacity: .7; */ /* - - CHANGED 0. renders inst and commission invisible, 1. visible  - - - - - ! ! ! ! */
-    color: #eee; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fdfdfd; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .portfolio-link {
