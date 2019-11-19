@@ -1,7 +1,7 @@
 <div class="latest-performance">
 	{% assign performancePosts = site.posts | where_exp:"item", "item.categories contains 'performance'" %}
 	<ul>
-		{%- for post in performancePosts limit:5 -%}
+	<!--	{%- for post in performancePosts limit:5 -%}
 				<li>
 					<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 					{%- if post.thumbnailImage -%}
@@ -14,6 +14,6 @@
 							<a href="{{ post.url }}">{%- if post.event -%}{{ post.event }}<br />{%- endif -%}{%- if post.location.venue -%}{{ post.location.venue }}<br />{%- endif -%}{{ post.location.city }}, {{ post.location.state }}</a>
 						{%- endif -%}</span>
 				</li>
-		{% endfor %}
+		{% endfor %} -->
 	</ul>
 </div>
