@@ -3730,7 +3730,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
     position: absolute;
     /*padding: 25px;*/
     width: 100%;
-    /*opacity: 1;*/
+    opacity: 0.8; /* - - CHECK ME - I AM  CHANGED was 0 - - - - - */
     z-index: 1;
     top: 40%;
     left: 0;
@@ -3741,14 +3741,14 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
     text-transform: none;
     letter-spacing: 2px;
     line-height: 1.8;
-    font-size: 15px;
+    font-size: 15px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
     color: #fff;
     margin: 0;
 }
 
 .portfolio-subtitle {
     font-size: 14px;
-    opacity: .2;
+    opacity: .8;
     color: #ddd; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -3762,17 +3762,17 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-item:hover .portfolio-wrapper img {
-    -webkit-transform: scale(1.1);
+    -webkit-transform: scale(1.1); /* - - CHECK ME - I AM  CHANGED was 1.2 - - - - - */
             transform: scale(1.1);
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    opacity: 0.75;
+  /*  opacity: 0.75; */ /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
 }
 
 .portfolio-item:hover .portfolio-caption {
-    opacity: 1;
-    -webkit-transform: translateY(-30%);
+    opacity: 0.8;
+    -webkit-transform: translateY(-30%); /* - - CHECK ME - I AM  CHANGED this was all commented out- - - - - */
             transform: translateY(-30%);
 }
 
