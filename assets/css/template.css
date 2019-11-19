@@ -3716,7 +3716,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 .portfolio-overlay {
     position: absolute;
     background: rgba(49, 49, 49, .95);
-    opacity: 0.9;
+    opacity: 0.55;
     z-index: 1;
     left: 0;
     top: 0;
@@ -3730,7 +3730,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
     position: absolute;
     /*padding: 25px;*/
     width: 100%;
-    opacity: 1;
+    /*opacity: 1;*/
     z-index: 1;
     top: 40%;
     left: 0;
@@ -3767,7 +3767,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    opacity: 0.8;
+    opacity: 0.75;
 }
 
 .portfolio-item:hover .portfolio-caption {
