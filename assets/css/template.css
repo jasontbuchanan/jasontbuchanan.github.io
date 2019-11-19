@@ -3738,10 +3738,10 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-title {
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
     line-height: 1.8;
-    font-size: 12px;
+    font-size: 14px;
     color: #fff;
     margin: 0;
 }
@@ -3767,13 +3767,13 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    /*opacity: 0.75;*/
+    opacity: 0.75;
 }
 
 .portfolio-item:hover .portfolio-caption {
-    /*opacity: 1;*/
-    /*-webkit-transform: translateY(-50%);*/
-            /*transform: translateY(-50%);*/
+    opacity: 1;*/
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%);
 }
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-caption {

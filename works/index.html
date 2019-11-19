@@ -61,7 +61,7 @@ title: works
 				<div class="portfolio-overlay"></div>
         <div class="portfolio-caption">
           <h4 class="portfolio-title">{{ work.title }} {% if work.yearComposed == nil %}{% else %}({{ work.yearComposed }}){% endif %}</h4>
-        <!--  <div class="portfolio-subtitle font-serif font-weight-normal">{{ work.composer.first }} {{ work.composer.last }}</div> -->
+        <!--  <div class="portfolio-subtitle font-sans-serif font-weight-normal">{{ work.commissionedOrWrittenFor }} {{ work.commissionedOrWrittenFor }}</div> -->
           <div class="portfolio-subtitle font-serif">
             {{ work.size }} {% for tag in work.tags %}{% if tag == 'electronics' %}and electronics{% endif %}{% endfor %}
             {% comment %}
@@ -75,7 +75,7 @@ title: works
             {% endcomment %}
 
           </div>
-          <div class="portfolio-subtitle font-sans-serif">{{ commissionedOrWrittenFor }}</div>
+          <div class="portfolio-caption font-sans-serif">{{ work.commissionedOrWrittenFor }}</div>
         </div>
         <a class="portfolio-link" href="{{ work.url }}"></a>
 			</div>
