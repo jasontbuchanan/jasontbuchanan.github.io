@@ -22,5 +22,5 @@ media:
   - title: "Asymptotic Flux: First Study in Entropy (2012) by Jason Thorpe Buchanan"
     url: https://www.youtube.com/embed/UMel9NUt30s
 headerImage: works-images/thorpebuchanan_asymptoticflux_1000x500px.jpg
-thumbnailImage: works-images/thumbnails/thorpebuchanan_asymptoticflux_400x200.jpg
+thumbnailImage: works-images/thumbnails/thorpebuchanan_asymptoticflux_1000x500px.jpg
 ---
