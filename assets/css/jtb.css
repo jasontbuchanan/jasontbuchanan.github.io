@@ -88,14 +88,14 @@ h1, h2, h3, h4, h5, h6 {
 h5,
 .h5 {
     font-weight: 600;
-    font-size: 14px;
+    font-size: 13px;
     margin: 0 0 10px;
 }
 
 h6,
 .h6 {
     font-weight: 500;
-    font-size: 12px;
+    font-size: 10px;
     margin: 0 0 10px;
 }
 
@@ -123,8 +123,8 @@ h2.single-portfolio-title {
 }
 
 footer aside .fa {
-  font-size: 20px;
-  padding: 0rem 0.5rem;
+  font-size: 17px;
+  padding: 0rem 0.4rem;
 }
 
 /*
@@ -193,7 +193,7 @@ footer aside .fa {
 */
 
 .pace .pace-progress {
-    background: #4a90e2;
+    background: #000;
 }
 
 .page-loader {
