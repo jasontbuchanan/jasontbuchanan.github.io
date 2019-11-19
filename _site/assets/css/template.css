@@ -3091,13 +3091,13 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .module-gray {
-    background-color: #111111; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #212121; /*don't know what this is for I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 60vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    min-height: 0vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
     height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
     padding: 0;
 }
