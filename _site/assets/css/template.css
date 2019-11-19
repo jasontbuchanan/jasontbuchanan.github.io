@@ -3719,9 +3719,9 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .portfolio-overlay {
     position: absolute;
-    background: rgba(49, 49, 49, .5);
+    background: rgba(49, 49, 49, .95);
     opacity: 0.9; /* - - CHANGED 1 is grey overlay  - - - - - ! ! ! ! */
-    z-index: 0.5;
+    z-index: 1;
     left: 0;
     top: 0;
     height: 100%;
@@ -3734,7 +3734,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
     position: absolute;
     /*padding: 25px;*/
     width: 100%;
-  /*  opacity:0.; */ /* - - CHANGED not using caption - - - - - ! ! ! ! */
+    opacity:0;  /* - - CHANGED not using caption - - - - - ! ! ! ! */
     z-index: 1;
     top: 40%;
     left: 0;
