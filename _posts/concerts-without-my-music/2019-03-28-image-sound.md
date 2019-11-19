@@ -3,6 +3,7 @@ layout: concert
 categories: performance
 date: 2019-03-28
 time:
+describe: [Switch~ Ensemble] Eastman Audio Research Studio (EARS) residency.
 location:
   institution: Eastman School of Music
   building:
