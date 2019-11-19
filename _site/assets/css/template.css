@@ -69,7 +69,7 @@ body .layout {
 }
 
 .layout {
-    opacity: 0;
+    opacity: 1;
     -webkit-transition: 1.2s opacity ease;
             transition: 1.2s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
@@ -3782,7 +3782,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-caption {
     position: relative;
-    opacity: 0.1;
+    opacity: 1;
     top: 0;
 }
 
