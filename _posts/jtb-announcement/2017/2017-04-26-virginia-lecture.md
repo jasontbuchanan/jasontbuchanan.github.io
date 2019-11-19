@@ -2,7 +2,7 @@
 layout: post
 categories: news
 title: "University of Virginia Guest Lecture"
-date: 2017-04-2017
+date: 2017-04-26
 thumbnail: updates/jtb-portland-lecture_280-46.jpg
 ---
 
