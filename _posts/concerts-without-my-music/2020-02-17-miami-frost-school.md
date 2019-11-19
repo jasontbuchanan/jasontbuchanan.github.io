@@ -2,6 +2,7 @@
 layout: concert
 categories: performance
 date: 2020-02-17
+describe: Conducting six premieres by faculty composers.
 time:
 location:
   institution: Frost School of Music,  University of Miami
