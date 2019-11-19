@@ -69,14 +69,14 @@ body .layout {
 }
 
 .layout {
-    opacity: 1;
+    opacity: 0;
     -webkit-transition: 1.2s opacity ease;
             transition: 1.2s opacity ease;
             /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .layout.fade-in {
-    opacity: 1;
+    opacity: 0.5;
 }
 
 .scroll-top {
