@@ -4494,10 +4494,10 @@ a[rel~="gallery"]:hover {
     margin: 0 0 20px;
 }
 
-.widget .widget-title h6 {
+.widget .widget-title h5 {
     text-transform: uppercase;
-    letter-spacing: 1px;
-    font-size: 9px;
+    letter-spacing: 2px;
+    font-size: 10px;
     margin: 0;
 }
 
@@ -4506,6 +4506,7 @@ a[rel~="gallery"]:hover {
     list-style: none;
     padding: 0;
     margin: 0;
+    font-size: 11px;
 }
 
 .widget ul li,
@@ -4513,6 +4514,8 @@ a[rel~="gallery"]:hover {
     margin-bottom: 10px;
     border-bottom: 1px solid rgba(238, 238, 238, .9);
     padding-bottom: 10px;
+    font-size: 11px;
+
 }
 
 .widget ul li:last-child,
