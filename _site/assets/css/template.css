@@ -3776,8 +3776,8 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .portfolio-item:hover .portfolio-caption {
     opacity: 0.2;  /* - - CHANGED lower makes text transparent on hover  - - - - - ! ! ! ! */
-    -webkit-transform: translateY(30%); /* - - CHECK ME - I AM  CHANGED this was all commented out- - - - - */
-            transform: translateY(30%);
+    -webkit-transform: translateY(-30%); /* - -  CHANGED raises text when hover - - - - */
+            transform: translateY(-30%);
 }
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-caption {
