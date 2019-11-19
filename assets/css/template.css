@@ -4506,7 +4506,7 @@ a[rel~="gallery"]:hover {
     list-style: none;
     padding: 0;
     margin: 0;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .widget ul li,
@@ -4514,7 +4514,7 @@ a[rel~="gallery"]:hover {
     margin-bottom: 10px;
     border-bottom: 1px solid rgba(238, 238, 238, .9);
     padding-bottom: 10px;
-    font-size: 13px;
+    font-size: 14px;
 
 }
 
