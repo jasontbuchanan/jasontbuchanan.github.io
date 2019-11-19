@@ -3055,7 +3055,7 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm,
 .module-header {
-    background-color: #00ff00; /* - - CHECK ME - I AM  CHANGED from WHITE to GREEN  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3089,7 +3089,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .module-gray {
-    background-color: #00ff00; /* - - CHECK ME - I AM  CHANGED from WHITE to GREEN  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .flexslider,
