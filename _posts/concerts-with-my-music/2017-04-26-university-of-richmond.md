@@ -1,6 +1,7 @@
 ---
 layout: concert
 categories: performance
+describe: Matt Evans plays <em>pulp</em> (2015).
 date: 2017-04-26
 location:
   institution: University of Richmond
@@ -22,3 +23,5 @@ program:
   - composer: Eric Wubbels
     title: this is this is this is
 ---
+
+April 26, 2017: Second Study for Alto Saxophone, Electronics, and Video: pulp with Matt Evans and Chris Chandler at University of Richmond. Richmond, VA.
