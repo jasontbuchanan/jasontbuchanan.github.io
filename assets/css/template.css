@@ -3778,7 +3778,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-caption {
     position: relative;
-    opacity: 1;
+    opacity: 0;
     top: 0;
 }
 
