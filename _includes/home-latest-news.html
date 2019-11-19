@@ -7,7 +7,7 @@
 				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 				<a href="{{ post.url }}">
 		<div class="row">
-			<div class="col-sm-3"><img class="img-left" src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150"></div><div class="col-sm-7"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }} </div>
+			<div class="col-3"><img class="img-left" src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150"></div><div class="col-md-7"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }} </div>
 				</a>
 			</li>
 		{% endfor %}
