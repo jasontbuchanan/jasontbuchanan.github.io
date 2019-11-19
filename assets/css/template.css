@@ -3716,7 +3716,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 .portfolio-overlay {
     position: absolute;
     background: rgba(49, 49, 49, .95);
-    opacity: 0.1;
+    opacity: 0.9;
     z-index: 1;
     left: 0;
     top: 0;
