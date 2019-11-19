@@ -3771,7 +3771,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-item:hover .portfolio-caption {
-    opacity: 1;  /* - - CHANGED lower makes text transparent on hover  - - - - - ! ! ! ! */
+    opacity: 0.;  /* - - CHANGED lower makes text transparent on hover  - - - - - ! ! ! ! */
     -webkit-transform: translateY(-30%); /* - - CHECK ME - I AM  CHANGED this was all commented out- - - - - */
             transform: translateY(-30%);
 }
