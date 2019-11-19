@@ -3710,6 +3710,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-wrapper {
     position: relative;
     overflow: hidden;
+      opacity: 0.55.;
 }
 
 
