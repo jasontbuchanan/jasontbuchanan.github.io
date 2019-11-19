@@ -4,10 +4,8 @@
 		{%- for post in newsPosts limit:5 -%}
 		{% comment %} <span><strong>{{ post.title }}</strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
 			<li>
-				<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
-				<a href="{{ post.url }}">
-		<div class="row justify-content-start">
-			<div class="col-3"><img class="img-left" src="{{ site.images }}/{{ post.thumbnail }}" alt="ThumbnailImage"></div><div class="col-9"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }} </div></div>
+				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+			<span>	<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-3"><img class="img-left" src="{{ site.images }}/{{ post.thumbnail }}" alt=""></div><div class="col-9"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }} </div></div></span>
 				</a>
 			</li>
 		{% endfor %}
