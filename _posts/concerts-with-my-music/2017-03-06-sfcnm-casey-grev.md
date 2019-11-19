@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Casey Grev plays <em>pulp</em> (2015) at the San Francisco Center for New Music.
+describe: <em>pulp</em> (2015), Casey Grev.
 date: 2017-03-06
 location:
   institution: San Francisco Center for New Music

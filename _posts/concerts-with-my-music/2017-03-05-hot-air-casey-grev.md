@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Casey Grev plays <em>pulp</em> (2015) at the San Francisco Hot Air Festival.
+describe: <em>pulp</em> (2015), Casey Grev. San Francisco Hot Air Festival.
 date: 2017-03-05
 location:
   institution: Hot Air Festival
