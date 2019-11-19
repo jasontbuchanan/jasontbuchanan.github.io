@@ -24,7 +24,7 @@ program:
     title: Tarr
   - composer: Victor Ibarra
     title: Química del agua
-thumbnail: pateras_brokenthenfixed_1000x500px.jpg
+thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 ---
 
 More information and tickets available here: <a href="https://www.facebook.com/events/128894384477637/" target="blank">https://www.facebook.com/events/128894384477637/ </a>
