@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: HKNME~ premieres <em>The End of Forgetting</em> (2020) on the MATA Festival
+describe: HKNME premieres <em>The End of Forgetting</em> (2020) on the MATA Festival
 date: 2020-04-19
 time:
 location:

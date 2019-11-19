@@ -4485,19 +4485,19 @@ a[rel~="gallery"]:hover {
 */
 
 .widget {
-    margin: 0 0 50px;
+    margin: 0 0 40px;
 }
 
 .widget .widget-title {
     border-bottom: 1px solid rgba(238, 238, 238, .9);
-    padding: 0 0 20px;
-    margin: 0 0 25px;
+    padding: 0 0 15px;
+    margin: 0 0 20px;
 }
 
 .widget .widget-title h5 {
     text-transform: uppercase;
     letter-spacing: 1px;
-    font-size: 12px;
+    font-size: 10px;
     margin: 0;
 }
 
@@ -4539,7 +4539,7 @@ a[rel~="gallery"]:hover {
     font-family: "Poppins", Arial, serif;
     text-transform: uppercase;
     letter-spacing: .09375rem;
-    font-size: .625rem;
+    font-size: .61rem;
     padding: 1rem .9375rem;
 }
 
