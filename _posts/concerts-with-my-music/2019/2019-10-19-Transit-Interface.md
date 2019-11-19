@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Transit Festival. Ensemble Interface performs <em>Soliloquios del Viento</em> (2017)
+describe: <em>Soliloquios del Viento</em> (2017), Ensemble Interface. Transit Festival. 
 date: 2019-10-19
 time:
 location:

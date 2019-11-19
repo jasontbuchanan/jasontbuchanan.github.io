@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: TACETi premieres <em>all-forgetting-is-retrieval</em> (2018) for ensemble & augmented conductor
+describe: <em>all-forgetting-is-retrieval</em> (2018), world premiere, TACETi Ensemble & augmented conductor. TNMAS.
 date: 2019-07-07
 time:
 location:

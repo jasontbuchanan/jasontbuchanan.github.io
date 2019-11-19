@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Time Spans Festival, New York City. New work <em>PANIC ARCHITECTURE</em> for the Talea Ensemble. Commissioned by the Earle Brown Music Foundation.
+describe: <em>PANIC ARCHITECTURE</em> world premiere, Talea Ensemble. Time Spans Festival, NYC.
 date: 2017-08-02
 time: 8:00pm
 location:

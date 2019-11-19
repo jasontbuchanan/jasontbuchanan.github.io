@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Royaumont, Asnières-sur-Oise, Paris Region. World premiere, <em>ACTOR-NETWORK THEORY</em> for the Ensemble Voix Nouvelles. Commissioned by Royaumont Fondation.
+describe: <em>ACTOR-NETWORK THEORY</em> world premiere, Ensemble Voix Nouvelles. Royaumont, Paris Region. 
 date: 2017-08-08
 time:
 location:
