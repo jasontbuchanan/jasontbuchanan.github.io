@@ -3060,7 +3060,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 400px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
+    padding: 450px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
 }
 
 .module.module-divider-top,
@@ -3079,7 +3079,7 @@ body.off-canvas-sidebar-open .layout {
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
 background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/crazystavesdarkblue3.jpg);
-    background-blend-mode: normal;
+    background-blend-mode: lighten;
     background-position: center;
     background-repeat: repeat-y;
     background-size: 1200px;
