@@ -3144,7 +3144,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .module-page-title {
-    background-color: #000000; /* - - THIS IS HEADER BACKGROUND (title) such as WORKS AUDIO AND VIDEO CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #0b0d0f; /* - - THIS IS HEADER BACKGROUND (title) such as WORKS AUDIO AND VIDEO CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #111111; /* - - line underneath page title - I AM  CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
     padding: 0px 0 30px; /* - - I think first value is module hegiht  - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
