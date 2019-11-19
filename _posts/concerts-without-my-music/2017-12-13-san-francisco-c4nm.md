@@ -24,8 +24,10 @@ program:
     title: Tarr
   - composer: Victor Ibarra
     title: Química del agua
-thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
+thumbnail: updates/c4nm_280_opt.jpg
 ---
+
+Dec. 13, 2017: the [Switch~ Ensemble] San Francisco Center for New Music composer workshop with mentor composers Jason Thorpe Buchanan and Clay Mettens, concert at 8pm.
 
 More information and tickets available here: <a href="https://www.facebook.com/events/128894384477637/" target="blank">https://www.facebook.com/events/128894384477637/ </a>
 

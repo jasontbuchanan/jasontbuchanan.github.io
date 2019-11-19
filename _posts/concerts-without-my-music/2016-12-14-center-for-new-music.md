@@ -21,4 +21,7 @@ program:
     title: Ad Marginem des Versuchs
   - composer: Ben Isaacs
     title: allone
+thumbnail: updates/c4nm_280_opt.jpg
 ---
+
+Dec. 13, 2017: the [Switch~ Ensemble] San Francisco Center for New Music composer workshop with mentor composers Jason Thorpe Buchanan and Clay Mettens, concert at 8pm.
