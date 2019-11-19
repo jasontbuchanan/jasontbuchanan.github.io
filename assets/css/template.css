@@ -3772,8 +3772,8 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 
 .portfolio-item:hover .portfolio-caption {
     opacity: 1;*/
-    -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    -webkit-transform: translateY(-30%);
+            transform: translateY(-30%);
 }
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-caption {
