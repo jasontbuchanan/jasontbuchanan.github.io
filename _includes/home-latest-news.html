@@ -5,8 +5,7 @@
 		{% comment %} <span><strong>{{ post.title }}</strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>' }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
 			<li>
 				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
-			<span>	<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-3"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded float-left" style="width: 100%" alt=""></div><div class="col-9"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 20 }} </div></div></span>
-				</a>
+			<span>	<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-3"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded float-left" style="width: 100%" alt=""></div><div class="col-9"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 20 }} </div></div></a></span>
 			</li>
 		{% endfor %}
 	</ul>
