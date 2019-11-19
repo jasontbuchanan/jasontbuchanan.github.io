@@ -22,6 +22,7 @@ program:
     title: new work (2019)
   - composer: Caleb Fried
     title: walk over; hot coals (2019)
+headerImage: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 thumbnail: diels_filament-1000x500.jpg
 ---
 

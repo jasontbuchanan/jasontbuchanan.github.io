@@ -4,6 +4,7 @@ title: "UT Austin Residency"
 date: 2019-10-09
 categories: news
 author: "Jason Thorpe Buchanan"
+headerImage: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 ---
 
