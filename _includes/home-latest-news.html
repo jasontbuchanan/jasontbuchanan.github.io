@@ -6,12 +6,12 @@
 			<li>
 				<span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
 				<a href="{{ post.url }}">
-					{%- if post.thumbnailImage -%}
+<!--					{%- if post.thumbnailImage -%}
 					<span>		<img src="{{ site.images }}/{{ post.thumbnailImage }}" alt="" width="150" >
 					{% else %}
-						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="" width="150"></span><span>
+						<img src="{{ site.images }}/works-images/thumbnails/switch_misc_400x200.jpg" alt="" width="150"></span><span> -->
 					{%- endif -%}	<strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | truncatewords: 25 }}
-				</a></span>
+				</a> <!-- </span> -->
 			</li>
 		{% endfor %}
 	</ul>
