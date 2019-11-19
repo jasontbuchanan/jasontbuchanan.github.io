@@ -3736,7 +3736,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
     width: 100%;
     opacity:1;  /* - - CHANGED all text over image ! ! ! */
     z-index: 1;
-    top: 20%;
+    top: 60%;
     left: 0;
     text-align: center;
 }
