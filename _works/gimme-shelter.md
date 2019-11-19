@@ -5,7 +5,7 @@ composer:
 title: "gimme shelter"
 duration: 15 minutes
 yearComposed: 2015
-commissionedOrWrittenFor: Eklekto Percussion Geneva
+commissionedOrWrittenFor: Commissioned by Eklekto Percussion Geneva
 size: trio
 instrumentation:
   - 3 percussionists

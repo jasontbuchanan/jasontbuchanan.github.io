@@ -6,7 +6,7 @@ composer:
 title: "Asymptotic Flux: First Study in Entropy"
 duration:
 yearComposed: 2012
-commissionedOrWrittenFor: written
+commissionedOrWrittenFor: Commissioned by the Switch~ Ensemble and OSSIA
 size: quartet
 instrumentation:
   - bass clarinet

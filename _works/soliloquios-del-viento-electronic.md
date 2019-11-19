@@ -5,7 +5,7 @@ composer:
 title: "soliloquios del viento"
 duration: 14 minutes
 yearComposed: 2017
-commissionedOrWrittenFor: Royaumont
+commissionedOrWrittenFor: Commissioned by Royaumont, sextet version for Ensemble Interface
 size: sextet or septet
 instrumentation:
   - bass flute

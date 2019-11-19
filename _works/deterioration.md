@@ -5,7 +5,7 @@ composer:
 title: "de/ter| |ior.ation (in/ |minate| )"
 duration: 9 minutes
 yearComposed: 2015
-commissionedOrWrittenFor: Blue Water Chamber Orchestra as winner of Iron Composer 2014
+commissionedOrWrittenFor: Commissioned by the Blue Water Chamber Orchestra as winner of Iron Composer 2014
 size: chamber orchestra
 instrumentation:
   - 2.2.2.1-1.2.0.0-Timp+1 Perc-6.5.4.3.2

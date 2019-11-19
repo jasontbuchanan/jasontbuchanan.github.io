@@ -5,7 +5,7 @@ composer:
 title: "PANIC ARCHITECTURE"
 duration: 9 minutes
 yearComposed: 2017
-commissionedOrWrittenFor: Earle Brown Music Foundation & TIME SPANS Festival, Talea Ensemble
+commissionedOrWrittenFor: Commissioned by the Earle Brown Music Foundation & TIME SPANS Festival for the Talea Ensemble
 size: sinfonietta
 instrumentation:
   - 1.1.1.1-1.1.1.0-2 Perc, Pno, Hp. 1.1.1.1.1

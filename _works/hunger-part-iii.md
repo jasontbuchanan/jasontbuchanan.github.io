@@ -5,7 +5,7 @@ composer:
 title: "HUNGER (Part III)"
 duration:
 yearComposed: 2015
-commissionedOrWrittenFor: Darmstadt Contemporary Opera Workshop & The Industry, L.A.
+commissionedOrWrittenFor: Commissioned by Darmstadt Contemporary Opera Workshop & The Industry, L.A.
 size: octet, three singers,
 instrumentation:
   - 2 sopranos

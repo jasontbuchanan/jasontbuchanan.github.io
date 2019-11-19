@@ -6,7 +6,7 @@ composer:
 title: "surface, tension"
 duration: variable
 yearComposed: 2018
-commissionedOrWrittenFor: Embassy of Foreign Artists
+commissionedOrWrittenFor: Commissioned by the Embassy of Foreign Artists
 size: two performers
 instrumentation:
   - two performers

@@ -5,7 +5,7 @@ composer:
 title: "oggetti 1"
 duration: 4 minutes
 yearComposed: 2014
-commissionedOrWrittenFor: Chamber Music Campania (Italy) & Fiati 5 Wind Quintet
+commissionedOrWrittenFor: Commissioned by Chamber Music Campania (Italy) & Fiati 5 Wind Quintet
 size: quintet
 instrumentation:
   - alto flute

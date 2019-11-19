@@ -5,7 +5,7 @@ composer:
 title: "antistasis"
 duration: variable
 yearComposed: 2014
-commissionedOrWrittenFor: Tzlil Meudcan International Contemporary Music Festival & Ensemble Nikel
+commissionedOrWrittenFor: Commissioned by Tzlil Meudcan International Contemporary Music Festival for Ensemble Nikel
 size: trio
 instrumentation:
   - alto saxophone

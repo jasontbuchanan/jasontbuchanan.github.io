@@ -5,7 +5,7 @@ composer:
 title: "ACTOR-NETWORK THEORY"
 duration: 9 minutes
 yearComposed: 2017
-commissionedOrWrittenFor: Royaumont Ensemble Voix Nouvelles
+commissionedOrWrittenFor: Commissioned by Royaumont Ensemble Voix Nouvelles
 size: soprano, octet,
 instrumentation:
   - soprano
