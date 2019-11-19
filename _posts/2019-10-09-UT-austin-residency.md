@@ -11,8 +11,3 @@ photosFolder: UT-austin-Oct-2019/
 ---
 
 UT Austin Butler School of Music Residency October 2019. Will be teaching lessons and courses for composition and electronic music students.
-
-<!-- <img class="float-sm-right col-sm-4 col-lg-3 pr-0 pb-sm-5 pb-md-3" src="{{ site.images }}/vipa-images/Avaloch-June-28-03611.jpg"> -->
-
-
-<!-- {% include photos-portfolio-masonry.html folderName='uchicago/' %} -->
