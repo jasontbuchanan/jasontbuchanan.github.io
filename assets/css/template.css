@@ -3744,8 +3744,8 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-title {
     text-transform: none;
     letter-spacing: 2px;
-    line-height: 1.8;
-    font-size: 15px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
+    line-height: 2.0;
+    font-size: 16px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
     color: #fff;
     margin: 0;
 }
