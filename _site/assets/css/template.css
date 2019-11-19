@@ -3038,7 +3038,7 @@ body.off-canvas-sidebar-open .layout {
     .header.header-small .inner-nav > ul > li > a:focus,
     .header.header-light.header-small .inner-nav > ul > li > a:hover,
     .header.header-light.header-small .inner-nav > ul > li > a:focus {
-        opacity: .8;
+        opacity: .9;
     }
 }
 
@@ -3060,7 +3060,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 250px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
+    padding: 400px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
 }
 
 .module.module-divider-top,
