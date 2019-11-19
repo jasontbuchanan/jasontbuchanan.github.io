@@ -1,6 +1,7 @@
 ---
 layout: concert
-categories: switch
+categories: performance
+compCondTech: Conductor
 date: 2018-02-25
 time: "7:30 pm"
 location:
@@ -11,6 +12,7 @@ location:
   city: Annandale-on-Hudson
   state: NY
   zip: 12504
+
 program:
   - composer: Matt Sargent
     title: Unwound Path (2018)
