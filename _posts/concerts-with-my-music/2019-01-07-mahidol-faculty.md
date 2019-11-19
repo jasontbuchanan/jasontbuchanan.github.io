@@ -7,9 +7,9 @@ time:
 location:
   institution: College of Music, Mahidol University
   building:
-  venue:
+  venue: College of Music, Mahidol University
   address:
-  city:
+  city: Bangkok
   country: Thailand
 program:
   - composer: Jason Thorpe Buchanan
