@@ -3751,7 +3751,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .portfolio-subtitle {
-    font-size: 14px;
+    font-size: 15px;
   /*  opacity: .7; */ /* - - CHANGED 0. renders inst and commission invisible, 1. visible  - - - - - ! ! ! ! */
     color: #ddd; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
 }
