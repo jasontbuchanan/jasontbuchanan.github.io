@@ -219,7 +219,7 @@ h4,
 
 h5,
 .h5 {
-    font-weight: 600;
+    font-weight: 500;
     font-size: 13px;
     margin: 0 0 10px;
 }
@@ -3716,7 +3716,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 .portfolio-overlay {
     position: absolute;
     background: rgba(49, 49, 49, .95);
-    opacity: 0.55;
+    opacity: 0.9;
     z-index: 1;
     left: 0;
     top: 0;
@@ -3762,12 +3762,12 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-item:hover .portfolio-wrapper img {
-    -webkit-transform: scale(1.2);
-            transform: scale(1.2);
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1);
 }
 
 .portfolio-item:hover .portfolio-overlay {
-    opacity: 0.75;
+    opacity: 0.2;
 }
 
 .portfolio-item:hover .portfolio-caption {
