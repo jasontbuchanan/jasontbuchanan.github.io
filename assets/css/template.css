@@ -3056,7 +3056,7 @@ body.off-canvas-sidebar-open .layout {
 .module-sm,
 .module-header {
     background-color: #000000; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
-    background-position: 100%;
+    background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
