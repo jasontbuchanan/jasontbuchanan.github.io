@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-title: "de/ter| |ior.ation (in/ |minate| )"
+title: "de/ter|  |ior.ation"
 duration: 9 minutes
 yearComposed: 2015
 commissionedOrWrittenFor: Commissioned by the Blue Water Chamber Orchestra as winner of Iron Composer 2014

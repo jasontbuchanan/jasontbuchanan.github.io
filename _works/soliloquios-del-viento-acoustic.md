@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-title: "soliloquios del viento (acoustic version)"
+title: "soliloquios del viento"
 duration: 14 minutes
 yearComposed: 2016
 commissionedOrWrittenFor: Commissioned by Royaumont for the Talea Ensemble+EXAUDI
