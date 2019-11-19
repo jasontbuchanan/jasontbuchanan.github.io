@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-title: "...durat(A)ions 'broken landscape'"
+title: "...durat(A)ions broken landscape"
 duration: 12 minutes
 yearComposed: 2013
 commissionedOrWrittenFor: Commissioned by Iktus Percussion
