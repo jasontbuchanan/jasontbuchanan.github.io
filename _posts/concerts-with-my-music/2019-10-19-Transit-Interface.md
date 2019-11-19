@@ -10,7 +10,7 @@ location:
   venue:
   address:
   city: Leuven
-  country: Belgium
+country: Belgium
 program:
   - composer: Jason Thorpe Buchanan
     title: soliloquios del viento (2020)
