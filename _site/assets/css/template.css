@@ -3006,7 +3006,7 @@ body.off-canvas-sidebar-open .layout {
     .header.header-light .inner-brand,
     .header.header-small .inner-brand,
     .header.header-light.header-small .inner-brand {
-        color: #313131;
+        color: #212121;
     }
 
     .header .brand-dark,
@@ -3091,7 +3091,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .module-gray {
-    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #111111; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .flexslider,
