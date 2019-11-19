@@ -3097,7 +3097,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 0vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    min-height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
     height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
     padding: 0;
 }
