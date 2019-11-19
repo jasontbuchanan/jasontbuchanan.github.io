@@ -90,4 +90,3 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('soundcloud', Jekyll::SoundCloud)
-
