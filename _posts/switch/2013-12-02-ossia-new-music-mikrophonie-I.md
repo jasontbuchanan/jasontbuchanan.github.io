@@ -14,3 +14,5 @@ program:
   - composer: Karlheinz Stockhausen
     title: Mikrophonie I
 ---
+
+Performing as sound projectionist for Stockhausen's *Mikrophonie I*

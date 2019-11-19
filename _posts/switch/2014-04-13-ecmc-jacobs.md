@@ -21,3 +21,5 @@ program:
   - composer: Zach Sheets
     title: Seer
 ---
+
+Conducting Bryan Jacobs' *TsTs*.

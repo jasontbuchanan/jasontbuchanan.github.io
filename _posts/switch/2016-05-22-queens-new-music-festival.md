@@ -26,3 +26,5 @@ program:
     title: Star Me Kitten
 photosFolder: testing
 ---
+
+Conducting Chris Chandler's *Smoke and Mirrors* with [Switch~] and running electronics for Santiago Diez-Fischer's *Loop's Definition* and Alexander Schubert's *Star Me Kitten*.

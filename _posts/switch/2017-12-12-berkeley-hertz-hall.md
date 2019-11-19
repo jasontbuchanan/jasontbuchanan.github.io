@@ -27,6 +27,6 @@ program:
 thumbnail: mccormack-karst-survey-1000x500.jpg
 ---
 
-More information and tickets available here: <a href="https://www.facebook.com/events/263121080880704/" target="blank">https://www.facebook.com/events/263121080880704/ </a>
+Conducting Víctor Ibarra's <em>Química del agua</em> with [Switch~] at UC Berkeley. More information and tickets available here: <a href="https://www.facebook.com/events/263121080880704/" target="blank">https://www.facebook.com/events/263121080880704/ </a>
 
 <!-- should we have a separate field for ticket sales and time -->
