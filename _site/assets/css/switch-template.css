@@ -19,12 +19,12 @@ html {
 }
 
 body {
-    background-color: #313131;
+    background-color: #fff;
     font-family: "Roboto", Arial, serif;
     line-height: 1.85;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 15px;
-    color: #eee;
+    color: #999;
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
 }
@@ -70,9 +70,8 @@ body .layout {
 
 .layout {
     opacity: 0;
-    -webkit-transition: 1.2s opacity ease;
-            transition: 1.2s opacity ease;
-            /* - - - - - - - - - - - speed of change - - - - - - - - - - - - - - ! ! ! ! */
+    -webkit-transition: 1.7s opacity ease;
+            transition: 1.7s opacity ease;
 }
 
 .layout.fade-in {
@@ -121,9 +120,6 @@ body .layout {
     }
 }
 
-
-
-
 /*------------------------------------------------------------------
 [Typography]
 */
@@ -147,7 +143,7 @@ h3 > a,
 h4 > a,
 h5 > a,
 h6 > a {
-    color: #bfbfbf; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #313131;
 }
 
 h1 > a:hover,
@@ -193,8 +189,8 @@ h6,
 .h6 {
     font-family: "Poppins", Arial, serif;
     line-height: 1.2;
-    font-weight: 500;
-    color: #bfbfbf; /* - - CHECK ME - I AM  CHANGED from 313131 to bfbfbf  - - - - - - - - - - - - - - ! ! ! ! */
+    font-weight: 700;
+    color: #313131;
 }
 
 h1,
@@ -219,8 +215,8 @@ h4,
 
 h5,
 .h5 {
-    font-weight: 500;
-    font-size: 13px;
+    font-weight: 600;
+    font-size: 14px;
     margin: 0 0 10px;
 }
 
@@ -291,7 +287,7 @@ blockquote:hover {
 .lead {
     line-height: 1.8;
     font-weight: 400;
-    font-size: 18px; /* - - CHECK ME - I AM  CHANGED from 20 to 18  - - - - - - - - - - - - - - ! ! ! ! */
+    font-size: 20px;
 }
 
 pre {
@@ -304,7 +300,7 @@ pre {
     line-height: 1.8;
 }
 
-/*--------------------------IGNORE ----------------------------------------
+/*------------------------------------------------------------------
 [Alerts]
 */
 
@@ -317,7 +313,7 @@ pre {
     color: #fff;
 }
 
-/*--------------------------IGNORE ----------------------------------------
+/*------------------------------------------------------------------
 [Progress Bars]
 */
 
@@ -937,9 +933,8 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-bottom: 1px solid #eaeaea;
 }
 
-/* - - - - - - - - - - - CHECK ME - I AM CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .nav-tabs .nav-link {
-    background-color: #Be90d4; /* - - - - PURPLE - - - - */
+    background-color: #f7f7f7;
     border: 1px solid #eaeaea;
     border-right: 0;
     border-radius: 0;
@@ -956,11 +951,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     margin-right: 5px;
 }
 
-/* - - - - - - - - - - - CHECK ME - I AM CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     border-color: #eaeaea;
-    background-color: #E7903c; /* - - - - ORANGE - - - - */
+    background-color: #fff;
 }
 
 .nav-tabs .nav-link.active,
@@ -996,12 +990,9 @@ select.form-control-sm:not([size]):not([multiple]) {
 */
 
 .accordion .card {
-    border-color: #2b2d2f;
+    border-color: #eaeaea;
     border-radius: 0;
     border-bottom: 0;
-      background-color: #1b1d1f;
-      text-align: justify;
-
 }
 
 .accordion .card:last-child {
@@ -1015,36 +1006,29 @@ select.form-control-sm:not([size]):not([multiple]) {
 }
 
 .accordion .card .card-body {
-    border-bottom: 1px solid #2b2d2f;
-    color: #eee;
-    text-align: justify;
-      background-color: #1b1d1f;
-
+    border-bottom: 1px solid #eaeaea;
+    color: #999;
 }
 
 .accordion .card-header {
-    text-transform: none;
-    letter-spacing: 2px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
     font-weight: bold;
-    font-size: 20px;
-    background-color: #1b1d1f;
-    border-color: #2b2d2f;
-    padding: 4px 6px;
+    font-size: 12px;
+    background-color: #f7f7f7;
+    border-color: #eaeaea;
+    padding: 12px 18px;
 }
 
 .accordion .card-header a {
     position: relative;
     display: block;
-    color: #4a90e2;
-    -webkit-transition: all .3s ease-in-out;
-            transition: all .3s ease-in-out;
+    color: #999;
 }
 
 .accordion .card-header a:hover,
 .accordion .card-header a:focus {
-    color: #bfbfbf;
-    text-align: justify;
-
+    color: #111;
 }
 
 .accordion .card-header a:after {
@@ -1053,19 +1037,15 @@ select.form-control-sm:not([size]):not([multiple]) {
     top: 50%;
     right: 0;
     margin-top: -7px;
-    font-family: "Roboto";
-    font-size: 20px;
-    line-height: 0.3;
-    font-variant: normal;
-    text-align: justify;
-
+    font-family: "FontAwesome";
+    font-size: 14px;
+    line-height: 1;
 }
 
 .accordion .card-header a > i,
 .accordion .card-header a > span {
     margin-right: 5px;
 }
-
 
 /*------------------------------------------------------------------
 [Pagination]
@@ -1112,11 +1092,10 @@ select.form-control-sm:not([size]):not([multiple]) {
     border-radius: 50%;
 }
 
-/* - - - - - - - - - - - CHECK ME - I AM NOT CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .page-item.active .page-link {
     background-color: #fff;
     border-color: transparent;
-    color: #4a90e2; /* --- BLUE --- */
+    color: #4a90e2;
 }
 
 .page-link:focus,
@@ -1222,7 +1201,6 @@ select.form-control-sm:not([size]):not([multiple]) {
 [Pricing Tables]
 */
 
-/* - - - - - - - - - - - CHECK ME - I AM NOT CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .pricing-wrapper {
     background: #fff;
     border: 1px solid #f2f2f2;
@@ -1355,7 +1333,6 @@ select.form-control-sm:not([size]):not([multiple]) {
     width: 100%;
 }
 
-/* - - - - - - - - - - - CHECK ME - I AM CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
 .image-slider.owl-carousel .owl-prev,
 .image-slider.owl-carousel .owl-next {
     background: transparent;
@@ -1368,8 +1345,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     line-height: 70px;
     font-size: 36px;
     display: block;
-    color: #00f8f8;  /* - - CHECK ME - I AM CHANGED from WHITE to BLUE  - - - - - - - - - - - - - - ! ! ! ! */
-
+    color: #fff;
 }
 
 .image-slider.owl-carousel .owl-prev span:before,
@@ -1468,7 +1444,7 @@ select.form-control-sm:not([size]):not([multiple]) {
     text-align: center;
     font-size: 36px;
     display: block;
-    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fff;
     -webkit-transition: all .3s cubic-bezier(.3, .1, .58, 1);
             transition: all .3s cubic-bezier(.3, .1, .58, 1);
 }
@@ -1490,14 +1466,14 @@ select.form-control-sm:not([size]):not([multiple]) {
 .module-slides.dark-nav:hover a.prev:focus,
 .module-slides.dark-nav:hover a.next:focus,
 .module-slides.dark-nav .slides-navigation a {
-    color: #fff; /* - - CHECK ME - I AM CHANGED from GRAY to WHITE  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #313131;
 }
 
 .module-slides:hover a.prev:hover,
 .module-slides:hover a.next:hover,
 .module-slides:hover a.prev:focus,
 .module-slides:hover a.next:focus {
-    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLUE  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fff;
 }
 
 .module-slides:hover a.prev:hover {
@@ -1766,11 +1742,11 @@ select.form-control-sm:not([size]):not([multiple]) {
 */
 
 .pace .pace-progress {
-    background: #000000; /* - - CHECK ME - I AM CHANGED from WHITE to black  - - - - - - - - - - - - - - ! ! ! ! */
+    background: #4a90e2;
 }
 
 .page-loader {
-    background: #000000; /* - - CHECK ME - I AM CHANGED from WHITE to black  - - - - - - - - - - - - - - ! ! ! ! */
+    background: #fff;
     position: fixed;
     top: 0;
     bottom: 0;
@@ -1853,11 +1829,11 @@ body.off-canvas-sidebar-open .layout {
 .off-canvas-sidebar .h5,
 .off-canvas-sidebar h6,
 .off-canvas-sidebar .h6 {
-    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fff;
 }
 
 .off-canvas-sidebar a {
-    color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fff;
 }
 
 .off-canvas-sidebar a:hover,
@@ -1997,11 +1973,11 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .special-heading h5 {
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .special-heading h6 {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 /*------------------------------------------------------------------
@@ -2371,7 +2347,7 @@ body.off-canvas-sidebar-open .layout {
 }
 
 .header.header-small {
-    background: #0b0d0f; /* - - CHANGED THIS IS HEADER COLOR check also in JTB css- - - - - - - - - - - ! ! ! ! */
+    background: #fff;
     border-bottom: 1px solid #f2f2f2;
 }
 
@@ -2578,10 +2554,9 @@ body.off-canvas-sidebar-open .layout {
             transform: translateY(0);
 }
 
-
 .inner-nav .sub-menu,
 .inner-nav .mega-menu {
-    background-color: #fff; /* - - CHECK ME - I AM NOT CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #fff;
     position: absolute;
     min-width: 190px;
     left: -20px;
@@ -2719,7 +2694,7 @@ body.off-canvas-sidebar-open .layout {
 
 .header .inner-brand,
 .header.header-light.header-small .inner-brand {
-    color: #Be90d4; /* - - CHECK ME - I AM  CHANGED from GREY to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #313131;
 }
 
 .header .brand-dark,
@@ -2736,7 +2711,7 @@ body.off-canvas-sidebar-open .layout {
 .header .extra-nav > ul > li > a,
 .header.header-light.header-small .inner-nav > ul > li > a,
 .header.header-light.header-small .extra-nav > ul > li > a {
-    color: #F1f227; /* - - CHECK ME - I AM  CHANGED from GREY to YELLOW  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #303133;
 }
 
 .header .inner-nav > ul > li > a.active,
@@ -2804,7 +2779,7 @@ body.off-canvas-sidebar-open .layout {
 
 .header-sub-menu-dark .inner-nav .sub-menu,
 .header-sub-menu-dark .inner-nav .mega-menu {
-    background-color: #4a90e2; /* - - CHECK ME - I AM  CHANGED from GREY to BLUE  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #1b1d1f;
 }
 
 .header-sub-menu-dark .inner-nav .sub-menu li.mega-menu-col > a {
@@ -2819,7 +2794,7 @@ body.off-canvas-sidebar-open .layout {
 
 @media (max-width: 991px) {
     .header {
-        background-color: #Be90d4; /* - - CHECK ME - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+        background-color: #fff;
         padding: 0;
     }
 
@@ -2870,7 +2845,7 @@ body.off-canvas-sidebar-open .layout {
         line-height: 24px;
         font-weight: 600;
         font-size: 12px;
-        color: #fff; /* - - CHECK ME - I AM  NOT CHANGED from WHITE  - - - - - - - - - - - - - - ! ! ! ! */
+        color: #fff;
         padding: 8px 0;
     }
 
@@ -2923,7 +2898,7 @@ body.off-canvas-sidebar-open .layout {
 
     .inner-navigation {
         position: absolute;
-        background-color: #1b1d1f; /* - - CHECK ME - I AM not CHANGED from BLACK  - - - - - - - - - - - - - - ! ! ! ! */
+        background-color: #1b1d1f;
         max-height: 340px;
         width: 100%;
         left: 0;
@@ -3055,12 +3030,12 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm,
 .module-header {
-    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #f7f7f7;
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 250px 0; /* - - CHECK ME - I AM  CHANGED from 250 to 100  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 250px 0;
 }
 
 .module.module-divider-top,
@@ -3077,11 +3052,8 @@ body.off-canvas-sidebar-open .layout {
 
 .module,
 .module-sm {
-    background-color: #1a1c1e; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
-background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
-    background-blend-mode: overlay;
-    background-position: center;
-    padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #fff;
+    padding: 100px 0;
 }
 
 .module-sm {
@@ -3089,14 +3061,14 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .module-gray {
-    background-color: #212121; /* - - CHECK ME - I AM  CHANGED from WHITE to GRAY  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #f7f7f7;
 }
 
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 60vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
-    height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
+    min-height: 100vh;
+    height: 100vh;
     padding: 0;
 }
 
@@ -3130,27 +3102,27 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .header + .wrapper .module:first-child {
-    padding-top: 160px; /* - - CHECK ME - I AM  CHANGED from 160 to 140  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 160px;
 }
 
 .header + .wrapper .module-sm:first-child {
-    padding-top: 114px; /* - - CHECK ME - I AM  CHANGED from 114 to 100  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 114px;
 }
 
 .header + .wrapper section.maps-container:first-child {
-    padding-top: 81px; /* - - CHECK ME - I AM  NOT CHANGED from 81 to 81  - - - - - - - - - - - - - - ! ! ! ! */
+    padding-top: 81px;
 }
 
 .module-page-title {
-    background-color: #0b0d0f; /* - - THIS IS HEADER BACKGROUND (title) such as WORKS AUDIO AND VIDEO CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
-    border-bottom: 1px solid #111111; /* - - line underneath page title - I AM  CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-    padding: 0px 0 30px; /* - - I think first value is module hegiht  - I AM  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+    background-color: #f7f7f7;
+    border-bottom: 1px solid #f2f2f2;
+    padding: 111px 0 30px;
 }
 
 .module-page-title .h5 {
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    font-size: 14px; /* - - CHECK ME - I AM  CHANGED from 15 to 14  - - - - - - - - - - - - - - ! ! ! ! */
+    font-size: 15px;
     margin: 0;
 }
 
@@ -3224,7 +3196,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 .module-slides h4,
 .module-slides h5,
 .module-slides h6 {
-    color: #313131; /* - - CHECK ME - I AM NOT CHANGED but I think this is the grey something?  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #313131;
     margin: 0;
 }
 
@@ -3421,7 +3393,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 
 .bg-dark,
 .bg-gradient {
-    color: #313131; /* - - CHECK ME - I AM  CHANGED from WHITE to NEAR BLACK  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #fff;
 }
 
 .bg-dark h1,
@@ -3614,7 +3586,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 /*------------------------------------------------------------------
-[Portfolio filter] -- this is to filter works by instrumentation or size
+[Portfolio filter]
 */
 
 .row-portfolio-filter {
@@ -3631,20 +3603,19 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 
 .filters > li {
     display: inline-block;
-    margin: 15px 10px; /* - - CHECK ME - I AM  CHANGED from 20 to 15 and 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
-    line-height: 10px; /* - - CHECK ME - I AM  CHANGED from 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
+    margin: 20px 15px;
+    line-height: 20px;
 }
 
 .filters > li {
-    color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
     text-transform: uppercase;
     letter-spacing: 2px;
     font-size: 12px;
 }
 
 .filters > li a {
-    color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
-    opacity: .3; /* - - CHECK ME - I AM  CHANGED from .4 to .3  - - - - - - - - - - - - - - ! ! ! ! */
+    color: #111;
+    opacity: .4;
 }
 
 .filters > li a:hover,
@@ -3712,11 +3683,10 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
     overflow: hidden;
 }
 
-
 .portfolio-overlay {
     position: absolute;
     background: rgba(49, 49, 49, .95);
-    opacity: 0.55.; /* - - CHANGED 1 is grey overlay  - - - - - ! ! ! ! */
+    opacity: 0.55;
     z-index: 1;
     left: 0;
     top: 0;
@@ -3730,7 +3700,7 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
     position: absolute;
     /*padding: 25px;*/
     width: 100%;
-  /*  opacity:0.; */ /* - - CHANGED not using caption - - - - - ! ! ! ! */
+    /*opacity: 0;*/
     z-index: 1;
     top: 40%;
     left: 0;
@@ -3738,18 +3708,18 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-title {
-    text-transform: none;
+    text-transform: uppercase;
     letter-spacing: 2px;
     line-height: 1.8;
-    font-size: 15px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
+    font-size: 12px;
     color: #fff;
     margin: 0;
 }
 
 .portfolio-subtitle {
     font-size: 14px;
-  /*  opacity: .7; */ /* - - CHANGED 0. renders inst and commission invisible, 1. visible  - - - - - ! ! ! ! */
-    color: #ddd; /* - - CHECK ME - I AM  CHANGED from WHITE to OFF WHITE  - - - - - - - - - - - - - - ! ! ! ! */
+    /*opacity: .7;*/
+    color: #fff;
 }
 
 .portfolio-link {
@@ -3762,18 +3732,18 @@ background-image: url(assets/images/backgrounds/crazystavesdarkblue0.jpg);
 }
 
 .portfolio-item:hover .portfolio-wrapper img {
-    -webkit-transform: scale(1.1); /* - - CHECK ME - I AM  CHANGED was 1.2 - - - - - */
-            transform: scale(1.1);
+    -webkit-transform: scale(1.2);
+            transform: scale(1.2);
 }
 
 .portfolio-item:hover .portfolio-overlay {
-  /*  opacity: 0.75; */ /* - - CHECK ME - I AM  CHANGED try removing? - - - - - */
+    /*opacity: 0.75;*/
 }
 
 .portfolio-item:hover .portfolio-caption {
-  /*  opacity: 1; */ /* - - CHANGED lower makes text transparent on hover  - - - - - ! ! ! ! */
-    -webkit-transform: translateY(-30%); /* - - CHECK ME - I AM  CHANGED this was all commented out- - - - - */
-            transform: translateY(-30%);
+    /*opacity: 1;*/
+    /*-webkit-transform: translateY(-50%);*/
+            /*transform: translateY(-50%);*/
 }
 
 .row-portfolio[date-portfolio-type="standard"] .portfolio-caption {
@@ -4485,19 +4455,19 @@ a[rel~="gallery"]:hover {
 */
 
 .widget {
-    margin: 0 0 30px;
+    margin: 0 0 50px;
 }
 
 .widget .widget-title {
     border-bottom: 1px solid rgba(238, 238, 238, .9);
-    padding: 0 0 15px;
-    margin: 0 0 20px;
+    padding: 0 0 20px;
+    margin: 0 0 25px;
 }
 
 .widget .widget-title h5 {
     text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 14px;
+    letter-spacing: 1px;
+    font-size: 12px;
     margin: 0;
 }
 
@@ -4506,7 +4476,6 @@ a[rel~="gallery"]:hover {
     list-style: none;
     padding: 0;
     margin: 0;
-    font-size: 14px;
 }
 
 .widget ul li,
@@ -4514,8 +4483,6 @@ a[rel~="gallery"]:hover {
     margin-bottom: 10px;
     border-bottom: 1px solid rgba(238, 238, 238, .9);
     padding-bottom: 10px;
-    font-size: 14px;
-
 }
 
 .widget ul li:last-child,
@@ -4536,13 +4503,13 @@ a[rel~="gallery"]:hover {
 .widget select {
     width: 100%;
     box-shadow: none;
-    border-radius: 1px;
+    border-radius: 2px;
     border-width: 1px;
     border-color: #eee;
     font-family: "Poppins", Arial, serif;
     text-transform: uppercase;
     letter-spacing: .09375rem;
-    font-size: .61rem;
+    font-size: .625rem;
     padding: 1rem .9375rem;
 }
 
@@ -5189,7 +5156,7 @@ a[rel~="gallery"]:hover {
 
 .footer {
     position: relative;
-    background: #0b0d0f;
+    background: #1b1d1f;
     color: #bfbfbf;
 }
 
@@ -5219,7 +5186,7 @@ a[rel~="gallery"]:hover {
 }
 
 .footer .widget {
-    margin: 20px 0 20px; /* - - CHECK ME - I AM  CHANGED from 60 to 40  - - - - - - - - - - - - - - ! ! ! ! */
+    margin: 60px 0 50px;
 }
 
 .footer .copyright {
@@ -5232,5 +5199,5 @@ a[rel~="gallery"]:hover {
 
 .footer-copyright {
     border-top: 1px solid rgba(255, 255, 255, .05);
-    padding: 15px 0; /* - - CHECK ME - I AM  CHANGED from 20 to 15  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 20px 0;
 }
