@@ -302,13 +302,13 @@ footer aside .fa {
 }
 
 .module-sm {
-    padding: 30px 0;
+    padding: 0px 0;
 }
 
 .module-gray {
-    background-color: #bbbbbb;
+    background-color: #000000;
 }
 
 .pager-active {
-  background-color: #0b0d0f;
+  background-color: #000000;
 }
