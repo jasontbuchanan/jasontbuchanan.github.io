@@ -3079,11 +3079,11 @@ body.off-canvas-sidebar-open .layout {
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
 background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/crazystavesdarkblue3.jpg);
-    background-blend-mode: darken;
+    background-blend-mode:  screen;
     background-position: center;
     background-repeat: repeat-y;
-    background-size: 1200px;
-    padding: 0px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
+    background-size: 1400px;
+    padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-sm {
@@ -3633,7 +3633,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .filters > li {
     display: inline-block;
-    margin: 35px 20px; /* - - CHECK ME - I AM  CHANGED this is the space before filters for work and media lists   - - - - - - - - - - - - - - ! ! ! ! */
+    margin: 20px 20px; /* - - CHECK ME - I AM  CHANGED this is the space before filters for work and media lists   - - - - - - - - - - - - - - ! ! ! ! */
     line-height: 0px; /* - - CHECK ME - I AM  CHANGED from 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
