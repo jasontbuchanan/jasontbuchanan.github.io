@@ -5195,10 +5195,10 @@ a[rel~="gallery"]:hover {
     position: relative;
     background: #0a0b0f;
     color: #bfbfbf;
-    width: 100%; padding-left: 0px; padding-right: 0px;
+    width: 100%; padding-left: 7%; padding-right: 7%;
 }
 
-.footer_width{width: 100%; padding-left: 7%; padding-right: 7%;}
+.footer_width{width: 100%;}
 .no-padding{padding-left: 0px; padding-right: 0px;}
 
 .footer a {
