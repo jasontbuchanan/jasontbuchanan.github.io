@@ -4332,7 +4332,7 @@ a[rel~="gallery"]:hover {
     z-index: 1;
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
-    opacity: .85;
+    opacity: .9;
     -webkit-transition: .3s ease;
             transition: .3s ease;
 }

@@ -17,7 +17,7 @@ program:
     title: The End of Forgetting (2020)
   - composer:
     title:
-thumbnail:
+thumbnail: updates/hknme-289px.png
 ---
 
 The Hong Kong New Music Ensemble will give the premiere of *The End of Forgetting* for octet and electronics, a MATA commission, during the MATA Festival in NYC.

@@ -14,7 +14,7 @@ location:
 program:
   - composer: Jason Thorpe Buchanan
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
-
+thumbnail: updates/casey-grev_280.jpg
 ---
 
 Mar. 5, 2017: Hot Air Festival, San Francisco. SF Premiere of *Second Study for Alto Saxophone, Video, and Electronics: pulp* (2015), Casey Grev. (click for program notes & info)

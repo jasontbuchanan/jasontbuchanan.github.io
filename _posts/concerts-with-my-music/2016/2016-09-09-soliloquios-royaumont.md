@@ -1,0 +1,24 @@
+---
+layout: concert
+categories: performance
+date: 2016-09-09
+describe: "<em>soliloquios del viento</em> (2016) for six singers and eight instrumentalists, world premiere. Talea Ensemble + EXAUDI Vocal Ensemble."
+event: Royaumont Académie Voix Nouvelles
+location:
+  institution: Royaumont
+  building:
+  venue:
+  address:
+  city: Asnières-sur-Oise
+  country: France
+program:
+    title: "soliloquios del viento"
+thumbnail: updates/soliloquios-talea-450x253.jpg
+
+---
+
+Aug. 21-Sep.9, 2016: Royaumont Académie Voix Nouvelles, World Premiere of <em>soliloquios del viento</em> (2016) for six singers and eight instrumentalists, written for Talea Ensemble & Exaudi. Commissioned by Voix Nouvelles de la Fondation Royaumont, world premiere September 9, 2016. Royaumont Abbey, France. (program notes & info)
+
+http://www.jasonthorpebuchanan.com/music.php#soliloquios
+
+http://www.royaumont.com/fr/programme-voix-nouvelles/

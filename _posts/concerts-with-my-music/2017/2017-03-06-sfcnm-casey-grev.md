@@ -14,6 +14,8 @@ location:
 program:
   - composer: Jason Thorpe Buchanan
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
+thumbnail: updates/casey-grev_280.jpg
+
 
 ---
 

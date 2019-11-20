@@ -22,6 +22,8 @@ program:
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
   - composer: Eric Wubbels
     title: this is this is this is
+thumbnail: updates/pulp_1_240x160.png
+
 ---
 
 April 26, 2017: Second Study for Alto Saxophone, Electronics, and Video: pulp with Matt Evans and Chris Chandler at University of Richmond. Richmond, VA.

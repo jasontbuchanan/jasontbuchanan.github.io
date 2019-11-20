@@ -57,7 +57,7 @@ body .layout {
 }
 
 .layout {
-    opacity: 0.3;
+    opacity: 0.4;
     -webkit-transition: 1.0s opacity ease;
             transition: 1.0s opacity ease;
 }

@@ -1,7 +1,6 @@
 ---
 layout: page
 categories: blog
-image: jtb_mixer_1200x800.jpg
 headerImage: jtb_mixer_1200x800.jpg
 date: 2019-11-18
 manualDate: Nov. 18 2019

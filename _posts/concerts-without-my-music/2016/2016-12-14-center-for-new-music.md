@@ -22,7 +22,7 @@ program:
     title: Ad Marginem des Versuchs
   - composer: Ben Isaacs
     title: allone
-thumbnail: updates/c4nm_280_opt.jpg
+thumbnail: updates/switch-SF_280x149.jpg
 ---
 
-Dec. 13, 2017: the [Switch~ Ensemble] San Francisco Center for New Music
+Dec. 14-16, 2016: the [Switch~ Ensemble] plays San Francisco & Oakland Vernon Salon.
