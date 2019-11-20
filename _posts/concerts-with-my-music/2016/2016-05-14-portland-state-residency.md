@@ -19,6 +19,6 @@ thumbnail: updates/pulp-280x156.png
 
 ---
 
-May 14, 2016: Sean Fredenburg will perform Second Study for Alto Saxophone, Electronics, & Video: pulp at Portland State University
+May 14, 2016: Sean Fredenburg will perform *Second Study for Alto Saxophone, Electronics, & Video: pulp* at Portland State University
 
 https://www.pdx.edu/profile/sean-fredenburg

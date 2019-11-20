@@ -18,4 +18,4 @@ thumbnail: updates/mivos_neon_280.jpg
 
 ---
 
-Sep. 17, 2016: NEON Music Festival, guest composer, Asymptotic Flux: First Study in Entropy with the Mivos Quartet and clarinetist Madison Greenstone.
+Sep. 17, 2016: NEON Music Festival, guest composer, *Asymptotic Flux: First Study in Entropy* with the Mivos Quartet and clarinetist Madison Greenstone.

@@ -25,4 +25,4 @@ thumbnail: updates/pulp_1_240x160.png
 
 ---
 
-Sep. 25, 2016: Second Study for Alto Saxophone, Electronics, and Video: pulp with Matt Evans and Chris Chandler at Kent State University. [Switch~ Ensemble] Residency.
+Sep. 25, 2016: *Second Study for Alto Saxophone, Electronics, and Video: pulp* with Matt Evans and Chris Chandler at Kent State University. [Switch~ Ensemble] Residency.

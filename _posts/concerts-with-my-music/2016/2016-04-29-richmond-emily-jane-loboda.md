@@ -19,6 +19,6 @@ thumbnail: updates/emily-jane-loboda_280.jpg
 
 ---
 
-Apr. 24 & 29, 2016: Emily Jane Loboda will perform Second Study for Alto Saxophone, Electronics, and Video: pulp at University of North Carolina at Greensboro and at University of Richmond. Greensboro, NC & Richmond, VA
+Apr. 24 & 29, 2016: Emily Jane Loboda will perform *Second Study for Alto Saxophone, Electronics, and Video: pulp* at University of North Carolina at Greensboro and at University of Richmond. Greensboro, NC & Richmond, VA
 
 http://emilyloboda.weebly.com/

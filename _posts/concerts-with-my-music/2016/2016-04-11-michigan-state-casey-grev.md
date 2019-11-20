@@ -18,4 +18,4 @@ program:
 thumbnail: updates/casey-grev_280.jpg
 
 ---
-Apr. 11, 2016: Casey Grev will perform Second Study for Alto Saxophone, Electronics, and Video: pulp at Michigan State University. East Lansing, MI.
+Apr. 11, 2016: Casey Grev will perform *Second Study for Alto Saxophone, Electronics, and Video: pulp* at Michigan State University. East Lansing, MI.
