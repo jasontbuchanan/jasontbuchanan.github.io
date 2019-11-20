@@ -26,6 +26,8 @@ program:
 thumbnail: ibarra_berkeley_1000x500.jpg
 ---
 
-More information available here: <a href="https://www.facebook.com/events/2032962806984602/" target="blank">https://www.facebook.com/events/2032962806984602/ </a>
+More information available here: https://www.facebook.com/events/2032962806984602/
+
+https://www.facebook.com/events/2032962806984602/
 
 <!-- should we have a separate field for ticket sales and time -->

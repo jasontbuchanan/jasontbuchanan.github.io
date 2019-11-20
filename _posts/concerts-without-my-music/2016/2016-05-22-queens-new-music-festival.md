@@ -25,7 +25,11 @@ program:
     title: Things Fall Apart
   - composer: Alexander Schubert
     title: Star Me Kitten
-photosFolder: testing
+thumbnail: updates/switchensemble_light-cover_280.png
+photosFolder: avaloch
+
 ---
 
-Conducting Chris Chandler's *Smoke and Mirrors* with [Switch~] and running electronics for Santiago Diez-Fischer's *Loop's Definition* and Alexander Schubert's *Star Me Kitten*.
+May 22, 2016: Queens New Music Festival the [Switch~ Ensemble], artistic director & conductor. American premieres of Loop's Definition by Santiago Diez-Fischer, Star Me Kitten* by Alexander Schubert, Asche by Lisa Streich, and recent works by C.Chandler, C.Mettens, and A.Vine.
+
+http://queensnewmusicfestival.org/?p=779
