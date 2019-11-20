@@ -30,6 +30,8 @@
     padding: 40px 0; /* height of the bio and image, as well as list and portfolio vie filters */
 }
 
+.footer_full_width{width: 100%; padding-left: 0px; padding-right: 0px;}
+.no-padding{padding-left: 0px; padding-right: 0px;}
 /*
    BODY
 */
@@ -124,6 +126,7 @@ h2.single-portfolio-title {
 footer aside .fa {
   font-size: 14px;
   padding: 0rem 0.4rem;
+  width: 100%;
 }
 
 /*

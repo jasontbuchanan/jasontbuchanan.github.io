@@ -5195,7 +5195,11 @@ a[rel~="gallery"]:hover {
     position: relative;
     background: #0a0b0f;
     color: #bfbfbf;
+    width: 100%; padding-left: 0px; padding-right: 0px;
 }
+
+.footer_width{width: 100%; padding-left: 200px; padding-right: 200px;}
+.no-padding{padding-left: 0px; padding-right: 0px;}
 
 .footer a {
     color: #fff;
@@ -5224,6 +5228,8 @@ a[rel~="gallery"]:hover {
 
 .footer .widget {
     margin: 20px 0 20px; /* - - CHECK ME - I AM  CHANGED from 60 to 40  - - - - - - - - - - - - - - ! ! ! ! */
+    width: 100%; padding-left: 0px; padding-right: 0px;
+
 }
 
 .footer .copyright {
