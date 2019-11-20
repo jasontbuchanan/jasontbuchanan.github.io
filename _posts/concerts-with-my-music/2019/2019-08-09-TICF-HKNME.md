@@ -13,7 +13,8 @@ location:
   country: Thailand
 program:
   - composer: Jason Thorpe Buchanan
-    title: soliloquios del viento (2017)
+    title: soliloquios del viento
+    year: 2017
   - composer:
     title:
 thumbnail: updates/hknme-289px.png

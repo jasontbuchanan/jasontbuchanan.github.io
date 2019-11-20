@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: Conducting Victor Ibarra's <em>Química del agua</em>. Afternoon Composer workshop with mentor composers Jason Thorpe Buchanan and Clay Mettens. Switch~ Ensemble.
+describe: "Conducting Victor Ibarra's <em>Química del agua</em>. [Switch~ Ensemble] afternoon Composer workshop with mentors Jason Thorpe Buchanan and Clay Mettens."
 date: 2017-12-13
 time: "8:00 pm"
 location:

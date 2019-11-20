@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2017-05-12
-describe: Tech for Camci, Murray, Page, Rolock. Switch~ Ensemble. University of Chicago Residency, mentor composer.
+describe: "Tech for Camci, Murray, Page, Rolock. [Switch~ Ensemble] University of Chicago Residency, mentor composer."
 location:
   institution:
   building:
@@ -22,6 +22,9 @@ program:
     title: "Trio #4"
   - composer: Anna Walton
     title: Jökulsárlón
-thumbnail: camci_landscape_1000x500.jpg     
+thumbnail: updates/camci_landscape_400x200.jpg  
 photosFolder: uchicago/
 ---
+
+
+May 9-15, 2017: University of Chicago Residency with the [Switch~ Ensemble] performing new works by University of Chicago composers.

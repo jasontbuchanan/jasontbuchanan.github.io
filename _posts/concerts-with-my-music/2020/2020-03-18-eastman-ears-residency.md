@@ -14,9 +14,11 @@ location:
   zip: 14604
 program:
   - composer: Katharina Rosenberger
-    title: new work (2020)
-  - composer:
-    title:
+    title: new work
+    year: 2020
+  - composer: Jason Thorpe Buchanan
+    title: soliloquios del viento
+    year: 2017
 thumbnail: diels_filament-1000x500.jpg
 ---
 

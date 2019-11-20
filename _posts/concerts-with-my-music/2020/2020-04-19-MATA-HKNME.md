@@ -14,7 +14,8 @@ location:
   zip: 10018
 program:
   - composer: Jason Thorpe Buchanan
-    title: The End of Forgetting (2020)
+    title: The End of Forgetting
+    year: 2020
   - composer:
     title:
 thumbnail: updates/hknme-289px.png

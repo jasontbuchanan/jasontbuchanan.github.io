@@ -13,7 +13,8 @@ location:
   country: Thailand
 program:
   - composer: Jason Thorpe Buchanan
-    title: all-forgetting-is-retrieval (2018)
+    title: all-forgetting-is-retrieval
+    year: 2019
   - composer:
     title:
 thumbnail: updates/TNM-660@2x.png

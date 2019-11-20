@@ -12,7 +12,9 @@ location:
   city: Utrecht
 country: Netherlands
 program:
+  - composer: Jason Thorpe Buchanan
     title: "walkside, lost"
+    year: 2015
 thumbnail: updates/walksidelost_full1.jpg
 
 ---

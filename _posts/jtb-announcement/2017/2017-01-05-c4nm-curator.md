@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Curator, two-year term. San Francisco Center for New Music."
-date: 2017-11-29
+date: 2017-01-05
 categories: news
 headerImage:
 thumbnail: updates/c4nm_280_opt.jpg
 photosFolder:
 ---
-
-Jan. 5, 2017: Curator, two-year term. San Francisco Center for New Music.

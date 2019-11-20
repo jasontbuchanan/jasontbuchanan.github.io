@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2017-05-14
-describe: Conducting Joungbum Lee's <em>pa-an</em>, Tech for Garifzyanova, Young, Gradone, Myers. Switch~ Ensemble. University of Chicago Residency.
+describe: "Conducting Joungbum Lee's <em>pa-an</em>, Tech for Garifzyanova, Young, Gradone, Myers, [Switch~ Ensemble] University of Chicago Residency."
 location:
   institution:
   building:
@@ -22,6 +22,8 @@ program:
     title: pa-an
   - composer: Elvira Garifzyanova
     title: Aurora Borealis
-thumbnail: myers_aquinnah_1000x500px.jpg
+thumbnail: updates/myers_aquinnah_400x200.jpg
 photosFolder: uchicago/
 ---
+
+May 9-15, 2017: University of Chicago Residency with the [Switch~ Ensemble] performing new works by University of Chicago composers.

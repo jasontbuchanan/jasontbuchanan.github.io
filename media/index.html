@@ -17,9 +17,9 @@ moduleSize: small
 
       <!-- Media entry-->
       <div class="row mb-3">
-        <div class="col-md-8 py-3">
+        <div class="col-md-9 py-3">
           {%- if item.url contains 'youtube' or item.url contains 'vimeo' -%}
-            <div><iframe class="embed-responsive-item" src="{{ item.url }}" allowfullscreen width="700" height="388"></iframe></div>
+            <div><iframe class="embed-responsive-item" src="{{ item.url }}" allowfullscreen width="770" height="427"></iframe></div>
           {%- elsif item.url contains 'soundcloud' -%}
             {%- if item.url contains 'sets' -%}
               <div>{% include soundcloud_player.html type="playlists" trackID=item.ID %}</div>
@@ -30,25 +30,25 @@ moduleSize: small
             <a href="#"><img src="{{site.images}}/works-images/switch_misc_1000x500px.jpg" alt=""></a>
           {%- endif -%}
         </div>
-        <div class="col-md-4 py-3">
+        <div class="col-md-3 py-3">
           <div class="portfolio-details">
-            <p class="mb-1">
-              <span class="h4">Composer: </span>
+      <!--       <p class="mb-1">
+             <span class="h4">Composer: </span>
               <span class="text-secondary">{{ piece.composer.first }} {{ piece.composer.last }}</span>
-            </p>
+            </p> -->
             <p class="mb-1">
-              <span class="h4">Title: </span>
+              <span class="h4">Title:  </span>
               <span class="text-secondary">{{ piece.title }}</span>
             </p>
             {%- if piece.yearComposed -%}
               <p class="mb-1">
-                <span class="h4">Year Composed: </span>
+                <span class="h4">Year Composed:  </span>
                 <span class="text-secondary">{{ piece.yearComposed }}</span>
               </p>
             {%- endif -%}
             {%- if piece.instrumentation -%}
             <p class="mb-1">
-              <span class="h4">Instrumentation: </span>
+              <span class="h4">Instrumentation:  </span>
               <span class="text-secondary">
                 {%- for instrument in piece.instrumentation -%}
                   {%- if forloop.last == true -%}

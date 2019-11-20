@@ -13,7 +13,8 @@ location:
   country: Thailand
 program:
   - composer: Jason Thorpe Buchanan
-    title: surface, tension (2018)
+    title: surface, tension
+    year: 2018
   - composer: Jason Thorpe Buchanan
     title: Second Study for Alto Saxophone, Electronics, and Video pulp
 thumbnail: updates/mahidol-logo.jpg

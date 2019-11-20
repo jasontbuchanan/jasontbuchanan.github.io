@@ -12,7 +12,9 @@ location:
   city: Brooklyn
   state: NY
 program:
+  - composer: Jason Thorpe Buchanan
     title: "hunger fragments"
+    year: 2015
 thumbnail: updates/nyvirtuososingers_280.jpg
 
 ---

@@ -20,6 +20,7 @@ program:
     title: "in shadow, in shade"
   - composer: Jason Thorpe Buchanan
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
+    year: 2015
   - composer: Eric Wubbels
     title: this is this is this is
 thumbnail: updates/pulp_1_240x160.png

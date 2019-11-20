@@ -76,11 +76,11 @@ body .layout {
 }
 
 .layout.fade-in {
-    opacity: 0.5;
+    opacity: 0.;
 }
 
 .scroll-top {
-    background: #4a90e2;
+    background: #000;
     border-radius: 0px;
     position: fixed;
     bottom: 14px;
@@ -643,19 +643,20 @@ select.form-control-sm:not([size]):not([multiple]) {
 */
 
 .breadcrumb {
-    background-color: transparent;
+    background-color: #fff;
     font-size: 14px;
     padding: 0;
     margin: 0;
+    color: #ddd;
 }
 
 .breadcrumb-item > a {
-    color: #999;
+    color: #ddd;
 }
 
 .breadcrumb-item > a:hover,
 .breadcrumb-item > a:focus {
-    color: #4a90e2;
+    color: #6a90e2;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
@@ -665,7 +666,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 
 .breadcrumb > .active,
 .breadcrumb-item + .breadcrumb-item::before {
-    color: #999;
+    color: #ddd;
 }
 
 /*------------------------------------------------------------------
@@ -1766,7 +1767,7 @@ select.form-control-sm:not([size]):not([multiple]) {
 */
 
 .pace .pace-progress {
-    background: #000000; /* - - CHECK ME - I AM CHANGED from WHITE to black  - - - - - - - - - - - - - - ! ! ! ! */
+    background: #777; /* - - CHECK ME - I AM CHANGED from WHITE to black  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .page-loader {

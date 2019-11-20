@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guest lecturer & technical consultant/mentor composer, University of Chicago."
-date: 2017-11-29
+date: 2017-01-03
 categories: news
 headerImage:
 thumbnail: updates/switch-santos-still_280.png

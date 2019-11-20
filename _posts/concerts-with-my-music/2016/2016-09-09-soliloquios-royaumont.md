@@ -12,7 +12,9 @@ location:
   city: Asnières-sur-Oise
   country: France
 program:
+  - composer: Jason Thorpe Buchanan
     title: "soliloquios del viento"
+    year: 2016
 thumbnail: updates/soliloquios-talea-450x253.jpg
 
 ---

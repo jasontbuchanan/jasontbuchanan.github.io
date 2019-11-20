@@ -8,6 +8,4 @@ thumbnail: updates/stanford_280.png
 photosFolder:
 ---
 
-Nov.29, 2017: Stanford University CCRMA Colloquium Guest Composer Lecture.
-
 https://ccrma.stanford.edu/

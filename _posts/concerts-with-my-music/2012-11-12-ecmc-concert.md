@@ -17,6 +17,7 @@ program:
     title: Amok Koma
   - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"
+    year: 2012
   - composer: Sascha Lino Lemke
     title: Liebes-Lied
 ---

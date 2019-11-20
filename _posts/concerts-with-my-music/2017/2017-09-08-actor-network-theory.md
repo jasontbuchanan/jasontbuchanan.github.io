@@ -13,7 +13,8 @@ location:
   country: France
 program:
   - composer: Jason Thorpe Buchanan
-    title: ACTOR-NETWORK THEORY (2017)
+    title: ACTOR-NETWORK THEORY
+    year: 2017
   - composer:
     title:
 thumbnail: updates/royaumont_280.png

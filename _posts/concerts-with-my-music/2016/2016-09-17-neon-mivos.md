@@ -13,7 +13,9 @@ location:
   state: NV
   zip:
 program:
+  - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"
+    year: 2012
 thumbnail: updates/mivos_neon_280.jpg
 
 ---

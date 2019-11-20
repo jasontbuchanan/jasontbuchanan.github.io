@@ -14,6 +14,7 @@ location:
 program:
   - composer: Jason Thorpe Buchanan
     title: "de/ter|   |ior.ation"
+    year: 2015
 thumbnail: updates/deterioration_280.png
 
 ---

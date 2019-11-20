@@ -12,8 +12,12 @@ location:
   city: Utrecht
 country: Netherlands
 program:
+  - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"
+    year: 2012
+  - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: Second Study in Entropy"
+    year: 2013
 thumbnail: updates/insomnio_280.png
 
 ---
