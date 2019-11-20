@@ -2340,9 +2340,9 @@ body.off-canvas-sidebar-open .layout {
     background: transparent;
     position: fixed;
     z-index: 1040;
-    height: 81px;
+    height: 79px;
     width: 100%;
-    padding: 0 40px;
+    padding: 0 20px;
     left: 0;
     -webkit-transition: height .3s ease-out,
                         background .3s ease-out,
@@ -2616,7 +2616,7 @@ body.off-canvas-sidebar-open .layout {
 .inner-nav .sub-menu li a {
     position: relative;
     display: block;
-    padding: 8px 20px;
+    padding: 8px 20px;  /* - - CHECK ME - I AM  CHANGED  second number is distance from left for dropdown menu  - - - - - - - - - - - - - - ! ! ! ! */
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 500;
@@ -2826,7 +2826,7 @@ body.off-canvas-sidebar-open .layout {
     .header .container,
     .header .container-fluid {
         width: 100%;
-        padding: 0 30px;
+        padding: 0 0px;
     }
 
     .header.header-right .inner-nav,
@@ -2907,7 +2907,7 @@ body.off-canvas-sidebar-open .layout {
         position: absolute;
         right: 0;
         top: 50%;
-        margin-top: -8px;
+        margin-top: -10px;
         font: normal normal normal 14px/1 FontAwesome;
         font-size: 13px;
         content: "\f107";
@@ -2924,7 +2924,7 @@ body.off-canvas-sidebar-open .layout {
     .inner-navigation {
         position: absolute;
         background-color: #1b1d1f; /* - - CHECK ME - I AM not CHANGED from BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-        max-height: 340px;
+        max-height: 140px;
         width: 100%;
         left: 0;
         top: 100%;
@@ -2965,8 +2965,8 @@ body.off-canvas-sidebar-open .layout {
         background: transparent;
         background-image: none !important;
         display: none;
-        padding: 0 0 0 8px;
-        margin: 0;
+        padding: 0 0 0 20px;
+        margin: 20;
     }
 
     .inner-nav .sub-menu .menu-item-has-children.sub-menu-open > a,
@@ -3060,7 +3060,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 450px 0; /* - - CHANGED  - this is the height of the header image- - - ! ! ! ! */
+    padding: 350px 290px; /* - - CHANGED  - this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */
 }
 
 .module.module-divider-top,
@@ -3097,16 +3097,16 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
-    height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
-    padding: 0;
+    min-height: 0vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    height: 3vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
+    padding: 20;
 }
 
 .flexslider .container,
 .module-slides .container,
 .full-height .container {
     display: table;
-    height: 100%;
+    height: 50%;
     padding: 0;
 }
 
@@ -3633,7 +3633,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .filters > li {
     display: inline-block;
-    margin: 20px 20px; /* - - CHECK ME - I AM  CHANGED this is the space before filters for work and media lists   - - - - - - - - - - - - - - ! ! ! ! */
+    margin: 18px 18px; /* - - CHECK ME - I AM  CHANGED this is the space before filters for work and media lists   - - - - - - - - - - - - - - ! ! ! ! */
     line-height: 0px; /* - - CHECK ME - I AM  CHANGED from 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
