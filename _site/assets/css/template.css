@@ -5198,7 +5198,7 @@ a[rel~="gallery"]:hover {
     width: 100%; padding-left: 0px; padding-right: 0px;
 }
 
-.footer_width{width: 100%; padding-left: 200px; padding-right: 200px;}
+.footer_width{width: 100%; padding-left: 5%; padding-right: 5%;}
 .no-padding{padding-left: 0px; padding-right: 0px;}
 
 .footer a {
