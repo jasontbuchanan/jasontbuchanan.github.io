@@ -24,9 +24,9 @@ Honors include a Fulbright Fellowship in Hamburg, nomination for the Gaudeamus P
 <!-- new sentence -->
 He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, is director of the recently formed Academy for Young Composers at TICF (Thailand), and was course instructor in electronic music and composition, as well as assistant conductor for the Musica Nova Ensemble with <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at Eastman. He is widely sought internationally as a guest composer and lecturer at institutions such as Chamber Music Campania (Italy), the VIPA Festival (Spain), the University of Virginia, San Jose State University, the University of Nevada, Las Vegas, Queens New Music Festival, MATA, Hamilton College, Portland State University, University of Richmond, University of North Carolina at Greensboro, Michigan State Univerity, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.
 
-{% vimeo 245320082 %}
 
-
+<iframe class="embed-responsive-item mb-3" src="https://player.vimeo.com/video/245320082" allowfullscreen width="1300" height="736"></iframe>
+<br>
 <div class="accordion" id="myaccordion">
 
   <div class="card">

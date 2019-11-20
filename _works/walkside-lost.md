@@ -17,7 +17,7 @@ tags:
   - percussion
 media:
   - title: "walkside, lost (2015) by Jason Thorpe Buchanan"
-    url: https://vimeo.com/140159929
+    url: https://player.vimeo.com/video/140159929
 headerImage: works-images/walksidelost_full1.jpg
 thumbnailImage: works-images/thumbnails/walksidelost_1068x630.jpg
 ---

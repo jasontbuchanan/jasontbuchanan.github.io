@@ -15,7 +15,7 @@ tags:
   - acoustic
 media:
   - title: "antistasis (2015) by Jason Thorpe Buchanan"
-    url: https://youtu.be/S_tlkvKRIJc
+    url: https://www.youtube.com/embed/S_tlkvKRIJc
 headerImage: works-images/thumbnails/antistasis_655x316.jpg
 thumbnailImage: works-images/thumbnails/antistasis_1.jpg
 ---

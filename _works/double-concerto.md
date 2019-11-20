@@ -28,7 +28,7 @@ tags:
   - orchestra
 media:
   - title: "Double Concerto (2014) for Two Horns and Chamber Orchestra by Jason Thorpe Buchanan"
-    url: https://vimeo.com/110432545
+    url: https://player.vimeo.com/video/110432545
 headerImage: works-images/doubleconcerto_full.jpg
 thumbnailImage: works-images/doubleconcerto_full.jpg
 ---

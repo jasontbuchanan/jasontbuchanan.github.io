@@ -17,7 +17,7 @@ layout: page
 					<h2 class="text-left">Media</h2>
 					{% assign printHeader = nil %}
 				{%- endif -%}
-				<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen></iframe></div>
+				<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen width="1300" height="736"></iframe></div>
 			{%- elsif item.url contains 'soundcloud' -%}
 				{%- if printHeader == true -%}
 					<h2 class="text-left">Media</h2>
@@ -36,6 +36,7 @@ layout: page
 			{% endcomment %}
 			{%- endif -%}
 		{%- endfor -%}
+
 	</div>
 
 	        {{ content }}

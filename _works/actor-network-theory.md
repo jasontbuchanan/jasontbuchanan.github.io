@@ -25,7 +25,7 @@ tags:
   - electroacoustic
 media:
   - title: "ACTOR-NETWORK THEORY (2017, excerpts) by Jason Thorpe Buchanan"
-    url: https://vimeo.com/306331445
+    url: https://player.vimeo.com/video/306331445
 headerImage: works-images/
 thumbnailImage: works-images/thumbnails/actor-network-theory-royaumont-450x253.jpg
 ---

@@ -27,7 +27,7 @@ tags:
   - orchestra
 media:
   - title: "Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan"
-    url: https://vimeo.com/109624253
+    url: https://player.vimeo.com/video/109624253
 headerImage: works-imagesAF2_insomnio_1_full.jpg
 thumbnailImage: works-images/thumbnails/AF2_insomnio_1_full.jpg
 ---

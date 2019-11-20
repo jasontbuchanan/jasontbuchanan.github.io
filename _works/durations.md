@@ -15,7 +15,7 @@ tags:
   - chamber
 media:
   - title: "...durat(A)ions "broken landscape" (2013) for Iktus Percussion by Jason Thorpe Buchanan"
-    url: https://youtu.be/rGdumjQBYB8
+    url: https://www.youtube.com/embed/rGdumjQBYB8
 headerImage: works-images/thumbnails/durations-unlv-1.jpg
 thumbnailImage: works-images/thumbnails/durations-unlv-1.jpg
 ---

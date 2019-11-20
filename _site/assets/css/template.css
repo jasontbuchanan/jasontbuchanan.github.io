@@ -3078,11 +3078,11 @@ body.off-canvas-sidebar-open .layout {
 .module,
 .module-sm {
     background-color: #000000; /* - - THIS IS BACKGROUND COLOR FOR ABOUT, CONCERT, ETC - - - - - - - - - - - - - - ! ! ! ! */
-background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/crazystavesdarkblue3.jpg);
+background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/crazystavesdarkblue1400.jpg);
     background-blend-mode:  screen;
     background-position: center;
     background-repeat: repeat-y;
-    background-size: 1400px;
+    background-size: 1350px;
     padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -3720,7 +3720,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-overlay {
     position: absolute;
     background: rgba(49, 49, 49, .95);
-    opacity: 0.55; /* - - CHANGED 1 is grey overlay before hover - - - - - ! ! ! ! */
+    opacity: 0.52; /* - - CHANGED 1 is grey overlay before hover - - - - - ! ! ! ! */
     z-index: 1;
     left: 0;
     top: 0;

@@ -28,7 +28,7 @@ tags:
   - orchestra
 media:
   - title: "de/ter| |ior.ation (in/ |minate| ) for chamber orchestra (2015) by Jason Thorpe Buchanan"
-    url: https://vimeo.com/148583261
+    url: https://player.vimeo.com/video/148583261
 headerImage: works-images/deterioration_1_full.jpg
 thumbnailImage: works-images/deterioration_1_full.jpg
 ---
