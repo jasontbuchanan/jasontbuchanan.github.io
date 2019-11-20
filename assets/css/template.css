@@ -81,7 +81,7 @@ body .layout {
 
 .scroll-top {
     background: #4a90e2;
-    border-radius: 20px;
+    border-radius: 0px;
     position: fixed;
     bottom: 14px;
     right: 20px;
@@ -89,7 +89,7 @@ body .layout {
     width: 40px;
     z-index: 9;
     text-align: center;
-    line-height: 40px;
+    line-height: 20px;
     font-size: 15px;
     color: #fff;
     -webkit-transition: .5s all ease;
@@ -2342,7 +2342,7 @@ body.off-canvas-sidebar-open .layout {
     z-index: 1040;
     height: 79px;
     width: 100%;
-    padding: 0 20px;
+    padding: 0 30px; /* - - CHANGED menu padding from right - - - - - - - - - - ! ! ! ! */
     left: 0;
     -webkit-transition: height .3s ease-out,
                         background .3s ease-out,
@@ -2367,7 +2367,7 @@ body.off-canvas-sidebar-open .layout {
                 -webkit-transform .5s;
     box-shadow: none;
     font-family: "Poppins", Arial, serif;
-    border-bottom: 1px solid rgba(220, 220, 220, .2);
+    border-bottom: 0px solid rgba(220, 220, 220, .2);
 }
 
 .header.header-small {
@@ -2515,10 +2515,10 @@ body.off-canvas-sidebar-open .layout {
 .extra-nav > ul > li > a {
     display: block;
     text-transform: uppercase;
-    letter-spacing: .7px;
+    letter-spacing: 1.5px;/* - -CHANGED this is for menu text spacing  - - - - - - - - - - - - - - ! ! ! ! */
     line-height: 24px;
-    font-weight: 600;
-    font-size: 12px;
+    font-weight: 100;
+    font-size: 13px;
     height: 100%;
 }
 
@@ -2826,7 +2826,7 @@ body.off-canvas-sidebar-open .layout {
     .header .container,
     .header .container-fluid {
         width: 100%;
-        padding: 0 0px;
+        padding: 0 24px; /* - - CHECK ME - I AM  CHANGED second number controls distance of favicon and navsquare from edge - - - - - - - - - - - - - - ! ! ! ! */
     }
 
     .header.header-right .inner-nav,
@@ -2907,7 +2907,7 @@ body.off-canvas-sidebar-open .layout {
         position: absolute;
         right: 0;
         top: 50%;
-        margin-top: -10px;
+        margin-top: -8px;
         font: normal normal normal 14px/1 FontAwesome;
         font-size: 13px;
         content: "\f107";
@@ -2924,7 +2924,7 @@ body.off-canvas-sidebar-open .layout {
     .inner-navigation {
         position: absolute;
         background-color: #1b1d1f; /* - - CHECK ME - I AM not CHANGED from BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-        max-height: 140px;
+        max-height: 340px;
         width: 100%;
         left: 0;
         top: 100%;
@@ -2965,8 +2965,8 @@ body.off-canvas-sidebar-open .layout {
         background: transparent;
         background-image: none !important;
         display: none;
-        padding: 0 0 0 20px;
-        margin: 20;
+        padding: 0 0 0 8px;
+        margin: 0;
     }
 
     .inner-nav .sub-menu .menu-item-has-children.sub-menu-open > a,
@@ -3060,7 +3060,7 @@ body.off-canvas-sidebar-open .layout {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    padding: 350px 290px; /* - - CHANGED  - this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */
+    padding: 350px 240px; /* - - CHANGED  - this is the height of the header image-  second number is image position in relation to the bottom- - ! ! ! ! */
 }
 
 .module.module-divider-top,
@@ -3082,7 +3082,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
     background-blend-mode:  screen;
     background-position: center;
     background-repeat: repeat-y;
-    background-size: 1350px;
+    background-size: 1310px; /* - - CHANGED fbackground image width */
     padding: 70px 0; /* - - CHECK ME - I AM  CHANGED from 100 to 70 I think this is padding for background bio page and others  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -3097,16 +3097,16 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .flexslider,
 .module-slides,
 .full-height {
-    min-height: 0vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
-    height: 3vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
-    padding: 20;
+    min-height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 60  - - - - - - - - - - - - - - ! ! ! ! */
+    height: 100vh; /* - - WHAT IS THIS? CHECK ME - I AM  CHANGED from 100 to 80  - - - - I think this is the height of the navigation bar- - - - - - - - - - ! ! ! ! */
+    padding: 0;
 }
 
 .flexslider .container,
 .module-slides .container,
 .full-height .container {
     display: table;
-    height: 50%;
+    height: 100%;
     padding: 0;
 }
 
@@ -3115,7 +3115,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .full-height .container > .row {
     position: relative;
     display: table-cell;
-    vertical-align: top;
+    vertical-align: middle;
     height: 100%;
 }
 
@@ -3146,7 +3146,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .module-page-title {
     background-color: #0b0d0f; /* - - THIS IS HEADER BACKGROUND (title) such as WORKS AUDIO AND VIDEO CHANGED  - - - - - - - - - - - - - - ! ! ! ! */
     border-bottom: 1px solid #111111; /* - - line underneath page title - I AM  CHANGED from WHITE to BLACK  - - - - - - - - - - - - - - ! ! ! ! */
-    padding: 90px 0 90px; /* - - this is space before filters on media and works pages  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
+    padding: 111px 0 30px; /* - - this is space before filters on media and works pages  CHANGED from WHITE to PURPLE  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
 .module-page-title .h5 {
@@ -3277,17 +3277,17 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 @media (max-width: 992px) {
     .wrapper {
-        padding-top: 0px;  /* - -  CHANGED was 81 - - - - - - - - - - - - - - ! ! ! ! */
+        padding-top: 81px;  /* - CHANGED this CONTROLS DISTANCE of image FROM MENU - - - - - - ! ! ! ! */
     }
 
     .module-page-title {
-        padding: 0px 0;   /* - -  CHANGED was 30  - - - - - - - - - - - - - - ! ! ! ! */
+        padding: 30px 0;   /* - -  CHANGED was 30  - - - - - - - - - - - - - - ! ! ! ! */
     }
 
     .module-header {
         height: auto;
         min-height: auto;
-        padding: 10px 0;
+        padding: 40px 0;
     }
 
     .flexslider h1.h1,
@@ -3628,7 +3628,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
     text-align: center;
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin: -20;
 }
 
 .filters > li {
@@ -3736,7 +3736,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
     width: 100%;
     opacity:1;  /* - - CHANGED all text over image ! ! ! */
     z-index: 1;
-    top: 46%; /* - - CHANGED this is the height of the title text! */
+    top: 44%; /* - - CHANGED this is the height of the title text! */
     left: 0;
     text-align: center;
 }
@@ -3744,7 +3744,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-title {
     text-transform: none;
     letter-spacing: 1px;
-    line-height: 2.1;
+    line-height: 2.0;
     font-size: 18px; /* - - CHECK ME - I AM  CHANGED was 12 - - - - - */
     color: #fff;
     margin: 0;
@@ -3897,18 +3897,18 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 .portfolio-content p,
 .portfolio-content ul,
 .portfolio-content ol {
-    margin: 0 0 30px;
+    margin: 20px 0 30px;
 }
 
 .portfolio-sidebar {
-    padding-left: 30px;
+    padding-left: 25px;
 }
 
 .portfoli-details {
-    border-top: 1px solid rgba(238, 238, 238, .9);
-    border-bottom: 1px solid rgba(238, 238, 238, .9);
-    padding: 20px 0;
-    margin: 0 0 0;
+    border-top: 0px solid rgba(238, 238, 238, .9);
+    border-bottom: 0px solid rgba(238, 238, 238, .9);
+    padding: 20px 20px;
+    margin: 0 0 20;
 }
 
 .portfoli-details ul {
@@ -3917,7 +3917,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .portfoli-details.border-left {
     border: 0;
-    border-left: 1px solid rgba(238, 238, 238, .9);
+    border-left: 0px solid rgba(238, 238, 238, .9);
     padding: 0 0 0 30px;
 }
 
@@ -3927,22 +3927,22 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 }
 
 .portfoli-details > ul > li {
-    margin: 0 0 20px;
+    margin: 20px 0 20px;
 }
 
 .portfoli-details > ul > li:last-child {
-    margin: 0;
+    margin: 10;
 }
 
 .portfoli-details li > h5 {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 12px;
-    margin: 0 0 5px;
+    margin: 20px 0 20px;
 }
 
 h2.single-portfolio-title {
-    font-size: 30px;
+    font-size: 25px;
 }
 
 h3.single-portfolio-title {
@@ -3950,7 +3950,7 @@ h3.single-portfolio-title {
 }
 
 .project-details li {
-    padding: 0 0 5px;
+    padding: 20px 0 5px;
 }
 
 .portfolio-content > :last-child {
@@ -4295,7 +4295,7 @@ a[rel~="gallery"]:hover {
     margin-bottom: 0;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 700px) {
     .sidebar,
     .sidebar.sidebar-left {
         padding: 80px 0 0 0;
@@ -4349,7 +4349,7 @@ a[rel~="gallery"]:hover {
 .post-background .post-header {
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 20%;
     padding: 40px 30px;
     margin: 0;
     z-index: 2;
@@ -4365,7 +4365,7 @@ a[rel~="gallery"]:hover {
 }
 
 .post-background:hover:before {
-    opacity: .6;
+    opacity: .9;
 }
 
 @media (max-width: 992px) {
@@ -4489,19 +4489,19 @@ a[rel~="gallery"]:hover {
 */
 
 .widget {
-    margin: 0 0 30px;
+    margin: 0 0 10px;
 }
 
 .widget .widget-title {
     border-bottom: 1px solid rgba(238, 238, 238, .9);
     padding: 0 0 15px;
-    margin: 0 0 20px;
+    margin: 0 0 10px;
 }
 
 .widget .widget-title h5 {
     text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 14px;
+    letter-spacing: 2px; /* CHANGED this is spacing of text EVENTS and UPDATES */
+    font-size: 15px;
     margin: 0;
 }
 
@@ -4540,14 +4540,14 @@ a[rel~="gallery"]:hover {
 .widget select {
     width: 100%;
     box-shadow: none;
-    border-radius: 1px;
-    border-width: 1px;
+    border-radius: 0px;
+    border-width: 0px;
     border-color: #eee;
-    font-family: "Poppins", Arial, serif;
+    font-family: "Poppins", Arial, sans-serif;
     text-transform: uppercase;
     letter-spacing: .09375rem;
-    font-size: .61rem;
-    padding: 1rem .9375rem;
+    font-size: .62rem;
+    padding: .70rem .8375rem;
 }
 
 /* --- [ Search Widget ] --- */
@@ -4630,7 +4630,7 @@ a[rel~="gallery"]:hover {
     width: 100%;
 }
 
-/* --- [ Resent Works Widget ] --- */
+/* --- [ Recent Works Widget ] --- */
 
 .widget_recent_works > ul {
     margin: 0 -5px;
