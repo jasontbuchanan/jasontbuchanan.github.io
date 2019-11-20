@@ -6,8 +6,12 @@ describe: <em>pulp</em> (2015), world premiere. Matt Evans.
 event: World Saxophone Congress
 location:
   city: Strasbourg
-  country: FR
+  country: France
 program:
   - composer: Jason Thorpe Buchanan
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
+thumbnail: updates/pulp_280.jpg
+
 ---
+
+Jul. 13, 2015: World Premiere of Second Study for Alto Saxophone, Electronics, and Video: pulp with Matt Evans at the World Saxophone Congress in Strasbourg, France.

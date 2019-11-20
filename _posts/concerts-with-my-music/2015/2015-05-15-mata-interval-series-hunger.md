@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-05-15
-describe: <em>Hunger</em> (Part III, Scene I & 2, 2014-2015), staged premiere.
+describe: ""<em>Hunger</em> (Part III, Scene I & 2, 2014-2015), staged premiere, [Switch~ Ensemble].""
 event: MATA Interval 8 Series
 location:
   building: DiMenna Center
@@ -24,4 +24,10 @@ program:
     title: "Transcryptum: The map of tenderness for cello solo"
   - composer: Jason Thorpe Buchanan
     title: "HUNGER (Part III)"
+thumbnail: updates/mata_280.jpg
+
 ---
+
+May 15, 2015: the [Switch~ Ensemble] presents HUNGER (Part III) on the MATA Interval Series in New York City alongside the music of Wojtek Blecharz, Chris Chandler, Stylianos Dimou, Stefan Prins, and Zach Sheets in a concert of New Works for Ensemble & Multimedia. DiMenna Center, NYC.
+
+http://www.switchensemble.com/
