@@ -5228,7 +5228,6 @@ a[rel~="gallery"]:hover {
 
 .footer .widget {
     margin: 20px 0 20px; /* - - CHECK ME - I AM  CHANGED from 60 to 40  - - - - - - - - - - - - - - ! ! ! ! */
-    width: 100%; padding-left: 0px; padding-right: 0px;
 
 }
 
