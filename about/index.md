@@ -27,6 +27,7 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
 
 <iframe class="embed-responsive-item mb-3" src="https://player.vimeo.com/video/245320082" allowfullscreen width="1300" height="736"></iframe>
 <br>
+
 <div class="accordion" id="myaccordion">
 
   <div class="card">

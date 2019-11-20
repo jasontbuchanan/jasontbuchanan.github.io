@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-title: "...durat(A)ions broken landscape"
+title: "...durat(A)ions: 'broken landscape'"
 duration: 12 minutes
 yearComposed: 2013
 commissionedOrWrittenFor: Commissioned by Iktus Percussion
@@ -14,7 +14,7 @@ tags:
   - percussion
   - chamber
 media:
-  - title: "...durat(A)ions "broken landscape" (2013) for Iktus Percussion by Jason Thorpe Buchanan"
+  - title: "...durat(A)ions: 'broken landscape' (2013) for Iktus Percussion by Jason Thorpe Buchanan"
     url: https://www.youtube.com/embed/rGdumjQBYB8
 headerImage: works-images/thumbnails/durations-unlv-1.jpg
 thumbnailImage: works-images/thumbnails/durations-unlv-1.jpg
