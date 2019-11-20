@@ -2,7 +2,7 @@
 layout: concert
 categories: performance
 date: 2015-05-15
-describe: ""<em>Hunger</em> (Part III, Scene I & 2, 2014-2015), staged premiere, [Switch~ Ensemble].""
+describe: "<em>Hunger</em> (Part III, Scene I & 2, 2014-2015), staged premiere, [Switch~ Ensemble]."
 event: MATA Interval 8 Series
 location:
   building: DiMenna Center
