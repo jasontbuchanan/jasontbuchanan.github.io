@@ -17,7 +17,7 @@ layout: page
 					<h2 class="text-left">Media</h2>
 					{% assign printHeader = nil %}
 				{%- endif -%}
-				<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen></iframe></div>
+				<div class="mb-3"><iframe class="embed-responsive-item mb-3" src="{{ item.url }}" allowfullscreen width="1300" height="736"></iframe></div>
 			{%- elsif item.url contains 'soundcloud' -%}
 				{%- if printHeader == true -%}
 					<h2 class="text-left">Media</h2>
@@ -36,12 +36,16 @@ layout: page
 			{% endcomment %}
 			{%- endif -%}
 		{%- endfor -%}
-	</div>
 
-	        {{ content }}
+	</div>
+<h2 class="single-portfolio-title">PROGRAM NOTES:</h2>
+	      {{ content }}
+
 	<!-- Media end-->
 	{%- endif -%}
+
 	<div class="col-lg-8 order-2 order-md-1">
+		<br><br>
     <h2 class="single-portfolio-title">Performances of {{ page.title }}</h2>
     <div class="concert-program mb-3">
       {%- for performance in performancePosts -%}
@@ -51,8 +55,9 @@ layout: page
 						<div class="row">
 							{%- if performance.thumbnail -%}
 							<div class="col-sm-4">
-				        <a href="{{ performance.url }}"><img class="img-fluid mb-3 mb-md-0" src="{{ site.images }}/works-images/{{ performance.thumbnail }}" alt=""></a>
+				        <a href="{{ performance.url }}"><img class="img-fluid mb-3 mb-md-0" src="{{ site.images }}/{{ performance.thumbnail }}" alt=""></a>
 							</div>
+
 				      {%- endif -%}
 							<div class="col-sm-8 mb-3 location-details">
 								{{ performance.date | date: "%B %d, %Y" }} <br />
@@ -66,8 +71,8 @@ layout: page
 								{{ performance.location.city }}, {{ performance.location.state }} {{ performance.location.zip }}
 								{%- endif -%}
 							</div>
-
 						</div>
+							<br>
 					</div>
 					{% else %}
 					<!-- Piece Title: {{ piece.title }} -->
@@ -79,8 +84,9 @@ layout: page
     </div>
   </div>
 	<div class="col-lg-4 order-1 order-md-2 pb-4">
-		<div class="portfolio-details border-left">
-			<h2 class="text-left">About the work:</h2>
+			<br><br>
+		<div class="portfolio-details">
+			<h2 class="single-portfolio-title">About the work:</h2>
 			<ul>
 				<li>
 					<h5>Year Composed:</h5>
@@ -98,12 +104,12 @@ layout: page
 	          {%- endfor -%}
           </li>
         {%- endif -%}
-        {%- if page.composer.website -%}
-          <li>
-            <h5>Composer's Website:</h5>
+    <!--     {%- if page.composer.website -%}
+             <li>
+        <h5>Composer's Website:</h5>
             <a href="{{ page.composer.website }}">{{ page.composer.website }}</a>
           </li>
-        {%- endif -%}
+        {%- endif -%} -->
 				<li>
 				<li>
 					<h5>Share:</h5>

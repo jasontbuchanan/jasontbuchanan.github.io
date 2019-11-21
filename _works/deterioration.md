@@ -2,10 +2,10 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-title: "de/ter| |ior.ation (in/ |minate| )"
+title: "de/ter|  |ior.ation"
 duration: 9 minutes
 yearComposed: 2015
-commissionedOrWrittenFor: Blue Water Chamber Orchestra as winner of Iron Composer 2014
+commissionedOrWrittenFor: Commissioned by the Blue Water Chamber Orchestra as winner of Iron Composer 2014
 size: chamber orchestra
 instrumentation:
   - 2.2.2.1-1.2.0.0-Timp+1 Perc-6.5.4.3.2
@@ -28,7 +28,7 @@ tags:
   - orchestra
 media:
   - title: "de/ter| |ior.ation (in/ |minate| ) for chamber orchestra (2015) by Jason Thorpe Buchanan"
-    url: https://vimeo.com/148583261
+    url: https://player.vimeo.com/video/148583261
 headerImage: works-images/deterioration_1_full.jpg
 thumbnailImage: works-images/deterioration_1_full.jpg
 ---

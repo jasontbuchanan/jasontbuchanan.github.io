@@ -5,7 +5,7 @@ composer:
 title: "soliloquios del viento"
 duration: 14 minutes
 yearComposed: 2017
-commissionedOrWrittenFor: Royaumont
+commissionedOrWrittenFor: Commissioned by Royaumont, sextet version for Ensemble Interface
 size: sextet or septet
 instrumentation:
   - bass flute
@@ -22,7 +22,7 @@ tags:
   - electroacoustic
 media:
   - title: "soliloquios del viento (2017) by Jason Thorpe Buchanan"
-    url: https://vimeo.com/268371130
+    url: https://player.vimeo.com/video/268371130
 headerImage: works-images/soliloquios-interface-opt.jpg
 thumbnailImage: works-images/soliloquios-interface-opt.jpg
 ---

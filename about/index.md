@@ -1,7 +1,6 @@
 ---
 layout: page
 categories: blog
-image: jtb_mixer_1200x800.jpg
 headerImage: jtb_mixer_1200x800.jpg
 date: 2019-11-18
 manualDate: Nov. 18 2019
@@ -9,8 +8,7 @@ postDescription: About
 tags:
 background: black
 ---
-
-<img class="float-sm-left col-sm-6 col-lg-5 p4-0 pb-3" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
+<a data-fancybox data-type="iframe" href="http://www.google.com"> <img class="float-sm-left col-sm-5 col-lg-4 p4-0 pb-0" src="{{ site.images }}/jtb-photos/jtb-royaumont-420x600-web.jpg">
 Jason Thorpe Buchanan is an American composer, Artistic Director of <a href="http://www.switchensemble.com" target="blank"> the [Switch~ Ensemble]</a>, Department Chair and Lecturer in Composition, Theory, and Electronic Music at the <a href="https://www.music.mahidol.ac.th/en/" target="blank">College of Music, Mahidol University</a> in Thailand.
 
 <!-- new sentence -->
@@ -24,6 +22,78 @@ Honors include a Fulbright Fellowship in Hamburg, nomination for the Gaudeamus P
 
 <!-- new sentence -->
 He holds a Ph.D. from the Eastman School of Music, served for three years as Executive Director of the <a href="http://www.vipafestival.org" target="blank">VIPA Festival</a> (Spain), two years as a Curator for the <a href="http://centerfornewmusic.com/" target="blank">San Francisco Center for New Music</a>, is director of the recently formed Academy for Young Composers at TICF (Thailand), and was course instructor in electronic music and composition, as well as assistant conductor for the Musica Nova Ensemble with <a href="http://bradlubman.me/" target="blank">Brad Lubman</a> at Eastman. He is widely sought internationally as a guest composer and lecturer at institutions such as Chamber Music Campania (Italy), the VIPA Festival (Spain), the University of Virginia, San Jose State University, the University of Nevada, Las Vegas, Queens New Music Festival, MATA, Hamilton College, Portland State University, University of Richmond, University of North Carolina at Greensboro, Michigan State Univerity, the Bergen Center for Elektronisk Kunst (BEK) in Norway, the University of Chicago, and Stanford University.
+
+
+<iframe class="embed-responsive-item mb-3" src="https://player.vimeo.com/video/245320082" allowfullscreen width="1300" height="736"></iframe>
+<br>
+
+<!-- YANKED FROM JTB WEBSITE -->
+
+<a href="http://www.jasonthorpebuchanan.com/img/royaumont_1080x1080.jpg
+" data-fancybox="images" data-caption="Jason Thorpe Buchanan">
+<img src="http://www.jasonthorpebuchanan.com/jtb-royaumont-420x600-web.jpg" width="320" border="0" valign="top" title="Jason Thorpe Buchanan" /></a></div></div>
+
+
+<b>Mar. 8, 2017: Excerpts:</b> <em>Second Study for Alto Saxophone, Video, and Electronics: pulp</em> (2015), Casey Grev, San Francisco Center for New Music - March 6, 2017. <a href="http://www.jasonthorpebuchanan.com/music.php#pulp" target="blank">(click for program notes & info)</a>
+</div></div><div style="position:relative"><div style="left:419px;top:4005px;height:497px;width:900px;position: absolute;z-index: 4;" class=""> <iframe src="https://player.vimeo.com/video/207523271" width="900" height="497" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div>
+
+<span class="style717"><b>Asymptotic Flux: Second Study in Entropy</b> (2013), European Premiere: Insomnio Ensemble, Gaudeamus Muziekweek, Netherlands - Sep. 12, 2015. <a href="http://www.jasonthorpebuchanan.com/music.php#af2" target="blank">
+
+
+<span class="style717" align="left">View score:<br>
+<img src="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy_p1_thumb.jpg" style="float: center; margin: 0px 0px 0px 0px;" rel="doubleconcertoscore" align="center" valign="center" height="331" width="214" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_01.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_02.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_03.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_04.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_05.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_06.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_07.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_08.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_09.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_10.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_11.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_12.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_13.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_14.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_15.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_16.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_17.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_18.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_19.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_20.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_21.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_22.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_23.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_24.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_25.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_26.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_27.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_28.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_29.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_30.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_31.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_32.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_33.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_34.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_35.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+<img rel="doubleconcertoscore" style="display: none;" data-fancybox="images" href="http://www.jasonthorpebuchanan.com/img/AF2_score/AsymptoticFlux_SecondStudyInEntropy(2013)_Rev1_Nov.2014_Page_36.png" data-caption="Asymptotic Flux: Second Study in Entropy (2013) by Jason Thorpe Buchanan" />
+&nbsp;&nbsp;&nbsp;
+</span>
+</td>
+</tr></table>
+</div></div><div style="position:relative"><div style="left:677px;top:693px;height:49px;width:331px;position: absolute;z-index: 7;" class=""><table class='news_center_table' valign="top" height="40" align="center" cellpadding="2">
+<tr><td align="center" class="style50"><a data-fancybox data-type="iframe" href="http://www.jasonthorpebuchanan.com/JasonThorpeBuchanan_webCV_Aug.30.2019.pdf" target="blank">[Curriculum Vitae]</a> </td> <td width="60"></td> <td align="center" class="style50"><a data-fancybox data-type="iframe" href="http://www.jasonthorpebuchanan.com/ThorpeBuchanan_Portfolio.pdf" target="blank">[Media Portfolio]</a> </td>
+</tr><tr>
+<tr><td align="center" class="style45"> (updated Aug.30.19) </td> <td width="60"></td> <td align="center" class="style45"> (updated Jan.11.19) </td></center>
+</table></div></div>
+<span class="style717"><b>PANIC ARCHITECTURE</b> (2017) written for the Talea Ensemble. Commissioned by the Earle Brown Music Foundation. <br>TIME SPANS Festival, DiMenna Center, NYC - August 2, 2017.
+<center><span class="style71">1.1.1.1-1.1.1-2 Perc, Pno, Hp, 1.1.1.1.1-Elec.
+<br><a href="http://www.jasonthorpebuchanan.com/music.php#panicarchitecture" target="blank">(click for program notes & info)</a><br><br></span></center>
+</div></div><div style="position:relative"><div style="left:419px;top:5072px;height:497px;width:900px;position: absolute;z-index: 9;" class=""> <iframe src="https://player.vimeo.com/video/140159929" width="900" height="497" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div></div><div style="position:relative"><div style="left:157px;top:3107px;height:351px;width:214px;position: absolute;z-index: 10;" class=""><span class="style717" <br><align="left">View score:
+
+
+
+<!-- END SHIT TAKEN FROM JTB PAGE -->
 
 
 <div class="accordion" id="myaccordion">
@@ -94,6 +164,8 @@ He holds a Ph.D. from the Eastman School of Music, served for three years as Exe
       </div>
     </div>
   </div>
+
+
 
 <!--  <center> <a href="long-bio">long bio</a> -->
 

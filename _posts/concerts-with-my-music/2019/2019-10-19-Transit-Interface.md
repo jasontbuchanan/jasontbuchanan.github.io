@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: <em>Soliloquios del Viento</em> (2017), Ensemble Interface. Transit Festival. 
+describe: <em>Soliloquios del Viento</em> (2017), Ensemble Interface. Transit Festival.
 date: 2019-10-19
 time:
 location:
@@ -13,7 +13,8 @@ location:
   country: Belgium
 program:
   - composer: Jason Thorpe Buchanan
-    title: soliloquios del viento (2020)
+    title: soliloquios del Viento
+    year: 2017
   - composer:
     title:
 thumbnail: updates/transit-289px.png

@@ -5,7 +5,7 @@ composer:
 title: "all-forgetting-is-retrieval"
 duration: 8 minutes
 yearComposed: 2019
-commissionedOrWrittenFor: TACETi Ensemble & Thailand New Music & Arts Symposium
+commissionedOrWrittenFor: Commissioned by TACETi Ensemble & Thailand New Music & Arts Symposium
 size: septet, augmented conductor,
 instrumentation:
   - alto saxophone

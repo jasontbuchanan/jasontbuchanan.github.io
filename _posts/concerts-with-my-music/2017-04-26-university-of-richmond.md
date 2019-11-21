@@ -1,7 +1,7 @@
 ---
 layout: concert
 categories: performance
-describe: ****Matt Evans**** plays <em>pulp</em> (2015).
+describe: <em>pulp</em> (2015), Matt Evans.
 date: 2017-04-26
 location:
   institution: University of Richmond

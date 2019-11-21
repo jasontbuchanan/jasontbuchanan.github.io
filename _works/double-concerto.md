@@ -5,7 +5,7 @@ composer:
 title: "Double Concerto for Two Horns and Chamber Orchestra"
 duration: 8 minutes
 yearComposed: 2014
-commissionedOrWrittenFor: International Horn Society, Eastman Music Nova Ensemble, Jeff Nelsen, Mike Walker, Brad Lubman
+commissionedOrWrittenFor: Commissioned by the International Horn Society for the Eastman Music Nova Ensemble, Jeff Nelsen, Mike Walker, and Brad Lubman
 size: two horns and chamber orchestra
 instrumentation:
   - 1.1.2.1-4.1.1.0-3 Perc-1.1.1.1.1
@@ -28,7 +28,7 @@ tags:
   - orchestra
 media:
   - title: "Double Concerto (2014) for Two Horns and Chamber Orchestra by Jason Thorpe Buchanan"
-    url: https://vimeo.com/110432545
+    url: https://player.vimeo.com/video/110432545
 headerImage: works-images/doubleconcerto_full.jpg
 thumbnailImage: works-images/doubleconcerto_full.jpg
 ---

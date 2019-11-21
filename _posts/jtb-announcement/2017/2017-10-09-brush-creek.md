@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Artist-In-Residence, Embassy of Foreign Artists"
-date: 2018-03-06
+title: "Artist-In-Residence, Brush Creek Foundation for the Arts"
+date: 2017-10-09
 categories: news
 headerImage:
-thumbnail: updates/eofa_280.png
+thumbnail: updates/brushcreek_280.png
 photosFolder:
 ---
 
-Jan.8-June 28, 2018: Embassy of Foreign Artists Geneva, Switzerland.
-Awarded six months as Artist-In-Residence.
-
-http://www.jasonthorpebuchanan.com/www.eofa.ch
+Oct. 9-Nov. 3, 2017: Brush Creek Foundation for the Arts
+Artist Residency, Saratoga, Wyoming.

@@ -12,7 +12,8 @@ location:
   city: New York City
 program:
   - composer: Jason Thorpe Buchanan
-    title: PANIC ARCHITECTURE (2017)
+    title: PANIC ARCHITECTURE
+    year: 2017
   - composer:
     title:
 thumbnail: updates/talea_280x114.png
