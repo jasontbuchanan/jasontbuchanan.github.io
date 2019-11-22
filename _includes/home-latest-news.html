@@ -56,11 +56,10 @@
 <div class="row row-portfolio" data-columns="1"> <!--OLD  <div class="row latest-news"> -->
 	<div class="grid-sizer"></div>
 
-
 <!--	{% assign newsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %} -->
 	<ul>
 		{%- for post in newsPosts -%}
-		<div class="portfolio-item posts-item p-2 {% for item in post.content %}{{-item }} {% endfor %}{{ post.date -}}">
+		<div class="portfolio-item posts-item p-2 {% for item in post.date %}{{-item }} {% endfor %}{{ post.date -}}">
 
 
 
@@ -69,6 +68,21 @@
 				<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
 			<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | remove: '<a>' | remove: '</a>' | truncatewords: 30 }} </div></div></a>
 	<br>
+	<h5 class="portfolio-subtitle font-serif">
+		{{ post.date }} {% for tag in work.date %}{% endfor %}
+		{% comment %}
+		{%- for year in post.date -%}
+		{%- if forloop.last == true -%}
+		and {{ year -}}
+		{% else %}
+		{{ year | append: ', ' }}
+		{%- endif -%}
+		{%- endfor -%}
+		{% endcomment %}
+
+	</h5><br><br>
+
+
 			</li>
 		{% endfor %}
 	</ul>
