@@ -1,20 +1,4 @@
-<div class="row latest-news">
-	{% assign newsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
-	<ul>
-		{%- for post in newsPosts limit:50 -%}
 
-			{%- if post.content contains '2019' or post.date contains '2019' -%}
-
-		{% comment %} <span><strong>{{ post.title }}</strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>'  }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
-			<li>
-				<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
-			<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | remove: '<a>' | remove: '</a>' | truncatewords: 30 }} </div></div></a>
-	<br>
-			</li>
-			{% endif %}
-		{% endfor %}
-	</ul>
-</div>
 
 
 <!-- below is from portfolio sorter -->
@@ -26,8 +10,8 @@
 <!-- append current tag to tagString, strip all whitespace, but retain space between words -->
 {% capture listOfTags %}
 	{%- for post in site.posts -%}
-		{%- if post.content -%}
-			{%- for tag in post.content -%}
+		{%- if post.tags -%}
+			{%- for tag in post.tags -%}
 				{{ tagString | append: tag | append: ' ' }}
 			{%- endfor -%}
 		{% endif %}
@@ -42,8 +26,12 @@
 
 <!-- BREAK -->
 
-<div class="row latest-news-filter" >
-<div class="col-sm-12">
+<div class="row row-portfolio-filter">
+	<div class="col-sm-12">
+	<ul class="filters h5">
+		<li><a href="./home-latest-news.html" class="{%- unless page.url contains 'fwefsdv' -%}current{%- endunless -%}"></a></li>
+	<!--	<li><a href="./list-view.html" class="{%- if page.url contains 'list' -%}current{%- endif -%}">List View</a></li> -->
+	</ul>
 	<ul class="filters h6" id="filters">
 		<li><a class="current" href="#" data-filter="*">All</a></li>
 		<li><a href="#" data-filter=".2020">2020</a></li>
@@ -61,4 +49,27 @@
 		{% endcomment %}
 	</ul>
 </div>
+</div>
+
+
+
+<div class="row row-portfolio" data-columns="1"> <!--OLD  <div class="row latest-news"> -->
+	<div class="grid-sizer"></div>
+
+
+<!--	{% assign newsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %} -->
+	<ul>
+		{%- for post in newsPosts -%}
+		<div class="portfolio-item posts-item p-2 {% for item in post.content %}{{-item }} {% endfor %}{{ post.date -}}">
+
+
+
+		{% comment %} <span><strong>{{ post.title }} <!-- {% if post.date == nil %}{% else %}({{ post.date }}){% endif %} --> </strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>'  }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
+			<li>
+				<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
+			<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | remove: '<a>' | remove: '</a>' | truncatewords: 30 }} </div></div></a>
+	<br>
+			</li>
+		{% endfor %}
+	</ul>
 </div>
