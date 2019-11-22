@@ -1,6 +1,7 @@
 ---
 layout: concert
 categories: performance
+describe: Conducting Matt Sargent's <em>Unwound Path</em> (2018), Tech for Cheah and Davis, Switch~ Ensemble.
 date: 2018-03-06
 time: "7:30 pm"
 location:
@@ -25,6 +26,8 @@ program:
 thumbnail: ibarra_berkeley_1000x500.jpg
 ---
 
-More information available here: <a href="https://www.facebook.com/events/2032962806984602/" target="blank">https://www.facebook.com/events/2032962806984602/ </a>
+More information available here: https://www.facebook.com/events/2032962806984602/
+
+https://www.facebook.com/events/2032962806984602/
 
 <!-- should we have a separate field for ticket sales and time -->
