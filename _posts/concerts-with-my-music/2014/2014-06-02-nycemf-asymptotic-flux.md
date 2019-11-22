@@ -10,7 +10,8 @@ location:
   address:
   city: NYC
   state: NY
-program: 10002
+  zip: 10002
+program:
   - composer: Jason Thorpe Buchanan
     title: "Asymptotic Flux: First Study in Entropy"
     year: 2012

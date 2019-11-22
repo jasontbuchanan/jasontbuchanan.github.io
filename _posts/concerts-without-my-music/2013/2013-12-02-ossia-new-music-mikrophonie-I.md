@@ -2,7 +2,7 @@
 layout: concert
 categories: switch
 date: 2013-12-02
-describe: Sound projectionist for Stockhausen's <em>Mikrophonie I</em>, Switch~ Ensemble.
+describe: "Sound projectionist for Stockhausen's <em>Mikrophonie I</em>, Switch~ Ensemble."
 event: Ossia New Music Concert
 location:
   institution: Eastman School of Music
