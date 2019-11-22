@@ -7,5 +7,5 @@ headerImage:
 thumbnail: updates/
 photosFolder:
 tags:
-  - 2014
+  - older
 ---

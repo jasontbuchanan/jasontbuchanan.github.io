@@ -16,7 +16,8 @@ program:
     title: "walkside, lost"
     year: 2015
 thumbnail: updates/walksidelost_full1.jpg
-
+tags:
+  - 2015
 ---
 
 Sep. 13, 2015: World premiere of walkside, lost commissioned by Gaudeamus Muziekweek for Slagwerk Den Haag as a nominee for the 2015 Gaudeamus Prize. For percussion trio, electronics, and video processing. Utrecht, Netherlands.

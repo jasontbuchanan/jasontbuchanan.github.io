@@ -20,6 +20,9 @@ program:
     title: soliloquios del viento
     year: 2017
 thumbnail: diels_filament-1000x500.jpg
+tags:
+  - 2020
+  - new
 ---
 
 The [Switch~ Ensemble] is ensemble-in-residence for the Eastman Audio Research Studio at the Eastman School of Music.

@@ -24,6 +24,8 @@ program:
   - composer: Morton Feldman
     title: Intersection 4 (1952)
 thumbnail: updates/sargent-cornell-600px-1.png
+tags:
+  - 2018
 ---
 
 More information available here: <a href="https://www.facebook.com/events/159306914720574/" target="blank">https://www.facebook.com/events/159306914720574/ </a>

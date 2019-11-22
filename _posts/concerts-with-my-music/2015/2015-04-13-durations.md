@@ -16,7 +16,8 @@ program:
     title: "...durat(A)ions: 'broken landscape'"
     year: 2013
 thumbnail: updates/durations_280x116.png
-
+tags:
+  - 2015
 ---
 
 Apr. 13, 17, & 18, 2015: …durat(A)ions: "broken landscape" Guest Composer, NEXTET, University of Nevada, Las Vegas

@@ -15,7 +15,8 @@ program:
     title: "antistasis 1"
     year: 2014
 thumbnail: updates/antistasis_340x191.jpg
-
+tags:
+  - 2014
 ---
 
 Jul. 10, 2014: World premiere of antistasis, Ensemble Nikel, Tzlil Meudcan International New Music Festival – Tel Aviv, Israel.

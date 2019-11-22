@@ -15,7 +15,8 @@ program:
     title: "oggetti 1"
     year: 2014
 thumbnail: updates/oggetti_5.jpg
-
+tags:
+  - 2014
 ---
 
 Jun. 25, 2014: World premiere of oggetti I (Omaggio a Sciarrino), Fiati 5 Wind Quintet at Chamber Music Campania as composer-in-residence. Lucera, Italy.

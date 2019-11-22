@@ -7,7 +7,7 @@ headerImage:
 thumbnail: updates/ascap_we_create.jpg
 photosFolder:
 tags:
-  - 2014
+  - older
 ---
 
 Mar. 31, 2014: 2014 ASCAP Morton Gould Young Composer Award for Asymptotic Flux: Second Study in Entropy. New Music Box Article here.

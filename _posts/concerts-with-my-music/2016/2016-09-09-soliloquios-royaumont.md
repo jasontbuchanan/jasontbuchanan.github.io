@@ -16,7 +16,8 @@ program:
     title: "soliloquios del viento"
     year: 2016
 thumbnail: updates/soliloquios-talea-450x253.jpg
-
+tags:
+  - 2016
 ---
 
 Aug. 21-Sep.9, 2016: Royaumont Académie Voix Nouvelles, World Premiere of *soliloquios del viento* (2016) for six singers and eight instrumentalists, written for Talea Ensemble & Exaudi. Commissioned by Voix Nouvelles de la Fondation Royaumont, world premiere September 9, 2016. Royaumont Abbey, France. (program notes & info)

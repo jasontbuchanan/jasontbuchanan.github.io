@@ -18,6 +18,8 @@ program:
   - composer:
     title:
 thumbnail: updates/royaumont_280.png
+tags:
+  - 2017
 ---
 
 Sep. 8, 2017: Royaumont, Asnières-sur-Oise, Paris Region. New work *ACTOR-NETWORK THEORY* for the Ensemble Voix Nouvelles. Commissioned by Royaumont Fondation.

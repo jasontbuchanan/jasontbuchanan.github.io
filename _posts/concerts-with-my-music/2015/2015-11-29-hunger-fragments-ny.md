@@ -16,7 +16,8 @@ program:
     title: "hunger fragments"
     year: 2015
 thumbnail: updates/nyvirtuososingers_280.jpg
-
+tags:
+  - 2015
 ---
 
 Nov. 29, 2015: World premiere of hunger fragments for sixteen solo voices, commissioned by the NY Virtuoso Singers at National Sawdust, Brooklyn, NY

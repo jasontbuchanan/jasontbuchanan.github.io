@@ -18,6 +18,9 @@ program:
   - composer:
     title:
 thumbnail: updates/TNM-660@2x.png
+tags:
+  - 2019
+  - new
 ---
 
 Jul. 6-7, 2019, Bangkok: Thailand New Music and Arts Symposium. Guest Composer and Lecturer, *all-forgetting-is-retrieval* for septet, augmented conductor, and electronics premiered by TACETi Ensemble at the Bangkok Art and Culture Center (BACC).

@@ -16,7 +16,8 @@ program:
     title: "de/ter|   |ior.ation"
     year: 2015
 thumbnail: updates/deterioration_280.png
-
+tags:
+  - 2015
 ---
 
 May. 09, 2015: World Premiere of *de/ter|   |ior.ation* with the Blue Water Chamber Orchestra, commissioned as winner of Iron Composer 2015. Cleveland, OH

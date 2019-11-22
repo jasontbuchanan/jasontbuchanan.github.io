@@ -5,6 +5,7 @@ date: 2019-09-01
 categories: news
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 tags:
+  - new
   - 2019
 ---
 

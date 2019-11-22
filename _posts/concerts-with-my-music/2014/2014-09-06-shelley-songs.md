@@ -15,7 +15,8 @@ program:
     title: Six Shelley Songs
     year: 2008
 thumbnail: updates/
-
+tags:
+  - 2014
 ---
 
 Sep. 6, 2014: Selections from <em>Six Shelley Songs</em> Sirje Aleksandra Viise, soprano & Davorin Mori, piano. Berlin, DE.

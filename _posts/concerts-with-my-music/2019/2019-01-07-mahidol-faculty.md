@@ -18,6 +18,8 @@ program:
   - composer: Jason Thorpe Buchanan
     title: Second Study for Alto Saxophone, Electronics, and Video pulp
 thumbnail: updates/mahidol-logo.jpg
+tags:
+  - 2019
 ---
 
 Jan. 7, 2019: Composition Faculty Recital featuring *surface, tension* (2018) for two percussionists, electronics, & video processing environment and *Second Study for Alto Saxophone, Electronics, and Video: pulp* (2015) alongside works by Attakorn Sookjaeng, Arsid Ketjuntra, Jiradej Setabundhu, Pradit Saengkrai, and Piyawat Louilarpprasert. College of Music, Mahidol University, Thailand.

@@ -22,6 +22,8 @@ program:
     year:
 thumbnail: updates/doubleconcerto_350.jpg
 photosFolder:
+tags:
+  - 2014
 ---
 
 Mar. 21, 2014: *Double Concerto for Two Horns and Chamber Orchestra*, Eastman Musica Nova Ensemble – Brad Lubman, conductor Jeff Nelsen & Michael Walker, horn soloists.

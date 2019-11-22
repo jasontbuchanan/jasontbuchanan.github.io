@@ -28,6 +28,9 @@ program:
   - composer: Juraj Kojs
     title: new work (2020)
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
+tags:
+  - 2020
+  - new
 ---
 
 The [Switch~ Ensemble] is ensemble-in-residence for the Frost School of Music, alongside distinguished composer in residence George Lewis! We'll be performing a concert of new works by faculty and a reading session with student composers.

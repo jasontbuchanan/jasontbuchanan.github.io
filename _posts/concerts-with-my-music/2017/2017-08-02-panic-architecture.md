@@ -17,6 +17,8 @@ program:
   - composer:
     title:
 thumbnail: updates/talea_280x114.png
+tags:
+  - 2017
 ---
 
 Aug. 2, 2017: Time Spans Festival, New York City. New work *PANIC ARCHITECTURE* for the Talea Ensemble. Commissioned by the Earle Brown Music Foundation.

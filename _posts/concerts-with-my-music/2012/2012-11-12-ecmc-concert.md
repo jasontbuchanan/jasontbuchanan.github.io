@@ -20,4 +20,6 @@ program:
     year: 2012
   - composer: Sascha Lino Lemke
     title: Liebes-Lied
+    tags:
+      - 2012
 ---

@@ -16,4 +16,6 @@ program:
     year: 2009
 thumbnail: updates/
 photosFolder:
+tags:
+  - 2013
 ---

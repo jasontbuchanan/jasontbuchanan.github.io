@@ -16,7 +16,8 @@ program:
     title: "...durat(A)ions: 'broken landscape'"
     year: 2013
 thumbnail: updates/iktusquartet.jpg
-
+tags:
+  - 2013
 ---
 
 Oct. 04, 2013: durat(A)ions 'broken landscape', for Iktus Percussion at the Eastman School of Music. Rochester, NY. (poster)

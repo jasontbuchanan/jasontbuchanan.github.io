@@ -1,66 +1,25 @@
-
-<!-- create empty string to append tags -->
-{% assign tagString = '' %}
-<!-- capture the process of appending tags in a list -->
-<!-- append current tag to tagString, strip all whitespace, but retain space between words -->
-{% capture listOfTags %}
-	{%- for post in site.posts -%}
-		{%- if post.tags -%}
-			{%- for tag in post.tags -%}
-				{{ tagString | append: tag | append: ' ' }}
-			{%- endfor -%}
-		{% endif %}
-	{% endfor %}
-{% endcapture %}
-
 <!-- split the list of tags, remove duplicates, and sort by alpha -->
 {%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
 <!-- sort works by alpha -->
 {%- assign sortedNewsPosts = site.posts | sort: 'date' | reverse -%}
 
 
-<!-- portfolio -->
-<div class="row row-portfolio-filter" >
-<div class="col-sm-12">
-	<ul class="filters h6" id="filters">
-		<li><a class="current" href="#" data-filter="*">All</a></li>
-		<li><a href="#" data-filter=".red">red</a></li>
-		<li><a href="#" data-filter=".2019">2019</a></li>
-		<li><a href="#" data-filter=".2018">2018</a></li>
-		<li><a href="#" data-filter=".2017">2017</a></li>
-		<li><a href="#" data-filter=".2016">2016</a></li>
-			<li><a href="#" data-filter=".2015">2015</a></li>
-				<li><a href="#" data-filter=".2014">2014</a></li>
-					<li><a href="#" data-filter=".2013">2013</a></li>
-		{% comment %}
-		{%- for tag in tagArray -%}
-			<li><a href="#" data-filter=".{{ tag }}">{{ tag | capitalize }}</a></li>
-		{%- endfor -%}
-		{% endcomment %}
-	</ul>
-</div>
-</div>
 
-
-
-
-<div class="row row-portfolio" data-columns="2">
+<div class="row row-portfolio" data-columns="1">
 	<div class="grid-sizer"></div>
 
-<!--	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %} -->
+	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
 	<ul>
-		{%- for post in sortedNewsPosts <!-- limit:50 --> -%}
-		<div class="portfolio-item posts-item p-2 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}">
+		{%- for post in sortedNewsPosts -%}
+		<div class="portfolio-item posts-item p-8 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}" width="100%">
 
 
 		{% comment %} <span><strong>{{ post.title }}</strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>'  }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
 			<li>
 				<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
 			<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | remove: '<a>' | remove: '</a>' | truncatewords: 30 }} </div></div></a>
-	<br>
 
 			</li></div>
 		{% endfor %}
 	</ul>
-</div>
 </div>

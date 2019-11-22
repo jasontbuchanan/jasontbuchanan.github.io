@@ -23,7 +23,9 @@ program:
     title: Seer
 thumbnail: updates/TsTs-400.png
 photosFolder:
-
+tags:
+  - older
+  
 ---
 
 Conducting Bryan Jacobs' *TsTs*. the [Switch~ Ensemble]. Jason Thorpe Buchanan, conductor ECMC Concert. Rochester, NY

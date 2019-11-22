@@ -18,6 +18,9 @@ program:
   - composer:
     title:
 thumbnail: updates/hknme-289px.png
+tags:
+  - 2019
+  - new
 ---
 
 Aug. 9, 2019, Bangkok: Thailand International Composition Festival, Mahidol University, Thailand. *soliloquios del viento* performed by the Hong Kong New Music Ensemble.

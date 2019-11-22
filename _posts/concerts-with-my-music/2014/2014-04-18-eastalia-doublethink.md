@@ -10,7 +10,7 @@ location:
   address:
   city: Rochester
   state: NY
-program: 
+program:
   - composer: Jason Thorpe Buchanan
     title: "First Study for Alto Saxophone: doublethink"
     year: 2012
@@ -19,6 +19,8 @@ program:
     year:
 thumbnail: updates/smokeandmirrors-400-opt.png
 photosFolder:
+tags:
+  - 2014
 ---
 
 Apr.18.2014: First Study for Alto Saxophone: doublethink, Michel Bianchini, saxophone, East(a)lia, Eastman School of Music – Rochester, NY.

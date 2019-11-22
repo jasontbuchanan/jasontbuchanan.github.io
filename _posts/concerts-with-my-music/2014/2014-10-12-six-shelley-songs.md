@@ -6,4 +6,6 @@ categories: news
 headerImage:
 thumbnail: updates/gaudeamus.png
 photosFolder:
+tags:
+  - 2014
 ---

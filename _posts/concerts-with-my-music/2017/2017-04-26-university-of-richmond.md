@@ -24,6 +24,8 @@ program:
   - composer: Eric Wubbels
     title: this is this is this is
 thumbnail: updates/pulp_1_240x160.png
+tags:
+  - 2017
 
 ---
 

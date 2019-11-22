@@ -24,6 +24,8 @@ program:
   - composer: Tomas Henriques
     title: Circle (2000)
 thumbnail: ibarra_berkeley_1000x500.jpg
+tags:
+  - 2018
 ---
 
 More information available here: https://www.facebook.com/events/2032962806984602/

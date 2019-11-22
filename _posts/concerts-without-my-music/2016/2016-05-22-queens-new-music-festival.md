@@ -27,6 +27,8 @@ program:
     title: Star Me Kitten
 thumbnail: updates/switchensemble_light-cover_280.png
 photosFolder: avaloch
+tags:
+  - 2016
 
 ---
 

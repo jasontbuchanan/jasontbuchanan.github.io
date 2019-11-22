@@ -12,7 +12,8 @@ program:
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
     year: 2015
 thumbnail: updates/pulp_280.jpg
-
+tags:
+  - 2015
 ---
 
 Jul. 13, 2015: World Premiere of Second Study for Alto Saxophone, Electronics, and Video: pulp with Matt Evans at the World Saxophone Congress in Strasbourg, France.

@@ -7,7 +7,7 @@ headerImage:
 thumbnail: updates/
 photosFolder:
 tags:
-  - 2014
+  - older
 ---
 
 Jan. 23, 2014: Selected to write new works for Contemporary Opera Workshop at the Internationales Musikinstitut Darmstadt (August 2014).

@@ -24,6 +24,8 @@ program:
     title: Aurora Borealis
 thumbnail: updates/myers_aquinnah_400x200.jpg
 photosFolder: uchicago/
+tags:
+  - 2017
 ---
 
 May 9-15, 2017: University of Chicago Residency with the [Switch~ Ensemble] performing new works by University of Chicago composers.

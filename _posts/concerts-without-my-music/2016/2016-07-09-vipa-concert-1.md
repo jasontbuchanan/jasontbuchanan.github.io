@@ -28,6 +28,8 @@ program:
   - composer: Samuel Gillies
     title: Apologies, I Am Here Now
 thumbnail: updates/vipa_280.png
+tags:
+  - 2016
 ---
 
 July 6-16, 2016: VIPA Festival, executive director | the [Switch~ Ensemble], artistic director & conductor. Premieres of new works by participant composers M.Arrellin, J.Corren, B.Giang, S.Gillies, T.Gilmore, NamHoon "Matthew" Kim, T.Papatrechas, I.Santos, and A.Walton. World premiere of new commissions by James Bean and Timothy McCormack. National premiers of works by faculty composers Rand Steiger and Stefano Gervasoni. Valencia, Spain

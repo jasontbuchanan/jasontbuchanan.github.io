@@ -16,6 +16,8 @@ program:
     title: "Second Study for Alto Saxophone, Video, and Electronics: pulp"
     year: 2015
 thumbnail: updates/casey-grev_280.jpg
+tags:
+  - 2017
 ---
 
 Mar. 5, 2017: Hot Air Festival, San Francisco. SF Premiere of *Second Study for Alto Saxophone, Video, and Electronics: pulp* (2015), Casey Grev. (click for program notes & info)

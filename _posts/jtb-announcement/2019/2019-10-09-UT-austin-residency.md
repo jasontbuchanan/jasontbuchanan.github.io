@@ -7,6 +7,7 @@ headerImage: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 photosFolder: UT-austin-Oct-2019/
 tags:
+  - new
   - 2019
 ---
 UT Austin Butler School of Music Residency October 2019. Teaching lessons and courses for composition and electronic music students, working towards Telematic Performance collaboration between UT Austin and Mahidol University, supported by the UT Austin Global Classrooms Initiative.
