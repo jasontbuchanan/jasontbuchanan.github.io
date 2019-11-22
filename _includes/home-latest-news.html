@@ -30,7 +30,6 @@
 	<div class="col-sm-12">
 	<ul class="filters h5">
 		<li><a href="./home-latest-news.html" class="{%- unless page.url contains 'fwefsdv' -%}current{%- endunless -%}"></a></li>
-	<!--	<li><a href="./list-view.html" class="{%- if page.url contains 'list' -%}current{%- endif -%}">List View</a></li> -->
 	</ul>
 	<ul class="filters h6" id="filters">
 		<li><a class="current" href="#" data-filter="*">All</a></li>
@@ -69,7 +68,7 @@
 			<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | remove: '<a>' | remove: '</a>' | truncatewords: 30 }} </div></div></a>
 	<br>
 	<h5 class="portfolio-subtitle font-serif">
-		{{ post.date }} {% for tag in work.date %}{% endfor %}
+
 		{% comment %}
 		{%- for year in post.date -%}
 		{%- if forloop.last == true -%}
