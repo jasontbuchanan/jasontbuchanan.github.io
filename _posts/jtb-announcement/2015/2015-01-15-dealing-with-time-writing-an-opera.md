@@ -6,11 +6,14 @@ categories: news
 headerImage:
 thumbnail: updates/hunger-intro-video.jpg
 photosFolder:
+size: quartet
+yearComposed: 2015
 tags:
+  - red
   - 2015
 ---
 
-Original essay can be viewed here.
+Original essay can be viewed here. 2015
 
 http://theindustryla.org/blog/
 

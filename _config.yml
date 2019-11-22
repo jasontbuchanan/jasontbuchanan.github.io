@@ -27,7 +27,7 @@ images: "/assets/images"
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-paginate 
+  - jekyll-paginate
 
 # shows posts/concerts with a future date
 future: true
