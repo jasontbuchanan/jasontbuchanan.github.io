@@ -39,13 +39,6 @@
 	font-size: xx-large;}
 .style2 {font-weight: 500; font-size: 28px; font-family: "Baskerville", Times, serif; color: #555555; text-shadow: 2px 2px #000000; padding: 15px 5px solid #000; display: block;}
 
-#div_top_hypers {
-    background-color:#eeeeee;
-    display:inline;
-}
-#ul_top_hypers li{
-    display: inline;
-}
 
 /*
    BODY
