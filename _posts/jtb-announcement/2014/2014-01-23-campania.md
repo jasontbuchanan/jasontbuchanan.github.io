@@ -6,4 +6,6 @@ categories: news
 headerImage:
 thumbnail: updates/
 photosFolder:
+tags:
+  - 2014
 ---

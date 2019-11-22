@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/
 photosFolder:
+tags:
+  - 2014
 ---
 
 http://www.vipafestival.org/

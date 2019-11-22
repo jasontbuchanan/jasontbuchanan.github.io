@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/gaudeamus.png
 photosFolder:
+tags:
+  - 2014
 ---
 
 Oct. 21, 2014: Nominated for the 2015 Gaudeamus Prize, my works will be presented by Ensemble Insomnio, New European Ensemble, and Slagwerk Den Haag at Gaudeamus Muziekweek in September 2015. www.muziekweek.nl

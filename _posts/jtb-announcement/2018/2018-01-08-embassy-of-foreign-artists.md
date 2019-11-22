@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/eofa_280.png
 photosFolder:
+tags:
+  - 2018
 ---
 
 Jan.8-June 28, 2018: Embassy of Foreign Artists Geneva, Switzerland.

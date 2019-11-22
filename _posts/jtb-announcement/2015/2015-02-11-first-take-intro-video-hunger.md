@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/hunger-intro-video.jpg
 photosFolder:
+tags:
+  - 2015
 ---
 
 http://www.jasonthorpebuchanan.com/video---hunger.html

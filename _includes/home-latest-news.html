@@ -1,9 +1,4 @@
 
-
-
-<!-- below is from portfolio sorter -->
-
-
 <!-- create empty string to append tags -->
 {% assign tagString = '' %}
 <!-- capture the process of appending tags in a list -->
@@ -21,19 +16,15 @@
 <!-- split the list of tags, remove duplicates, and sort by alpha -->
 {%- assign tagArray = listOfTags | split: ' ' | uniq | sort -%}
 <!-- sort works by alpha -->
-{%- assign newsPosts = site.posts | sort: 'date' | reverse -%}
+{%- assign sortedNewsPosts = site.posts | sort: 'date' | reverse -%}
 
 
-<!-- BREAK -->
-
-<div class="row row-portfolio-filter">
-	<div class="col-sm-12">
-	<ul class="filters h5">
-		<li><a href="./home-latest-news.html" class="{%- unless page.url contains 'fwefsdv' -%}current{%- endunless -%}"></a></li>
-	</ul>
+<!-- portfolio -->
+<div class="row row-portfolio-filter" >
+<div class="col-sm-12">
 	<ul class="filters h6" id="filters">
 		<li><a class="current" href="#" data-filter="*">All</a></li>
-		<li><a href="#" data-filter=".2020">2020</a></li>
+		<li><a href="#" data-filter=".red">red</a></li>
 		<li><a href="#" data-filter=".2019">2019</a></li>
 		<li><a href="#" data-filter=".2018">2018</a></li>
 		<li><a href="#" data-filter=".2017">2017</a></li>
@@ -52,37 +43,24 @@
 
 
 
-<div class="row row-portfolio" data-columns="1"> <!--OLD  <div class="row latest-news"> -->
+
+<div class="row row-portfolio" data-columns="2">
 	<div class="grid-sizer"></div>
 
-<!--	{% assign newsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %} -->
+<!--	{% assign sortedNewsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %} -->
 	<ul>
-		{%- for post in newsPosts -%}
-		<div class="portfolio-item posts-item p-2 {% for item in post.date %}{{-item }} {% endfor %}{{ post.date -}}">
+		{%- for post in sortedNewsPosts <!-- limit:50 --> -%}
+		<div class="portfolio-item posts-item p-2 {% for item in post.tags %}{{-item }} {% endfor %}{{ post.date -}}">
 
 
-
-		{% comment %} <span><strong>{{ post.title }} <!-- {% if post.date == nil %}{% else %}({{ post.date }}){% endif %} --> </strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>'  }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
+		{% comment %} <span><strong>{{ post.title }}</strong>. {{ post.excerpt | remove: '<p>' | remove: '</p>'  }} <a href="{{ post.url }}"><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i></a></span> {% endcomment %}
 			<li>
 				<div class="post-date">{{ post.date | date: "%B %d, %Y" }}</div>
 			<a href="{{ post.url }}"><div class="row justify-content-start"><div class="col-4"><img src="{{ site.images }}/{{ post.thumbnail }}" class="rounded media-left img-fluid" alt=""></div><div class="media-body col-8"><strong>{{ post.title }}</strong>. {{ post.content | remove: '<p>' | remove: '</p>' | remove: '<a>' | remove: '</a>' | truncatewords: 30 }} </div></div></a>
 	<br>
-	<h5 class="portfolio-subtitle font-serif">
 
-		{% comment %}
-		{%- for year in post.date -%}
-		{%- if forloop.last == true -%}
-		and {{ year -}}
-		{% else %}
-		{{ year | append: ', ' }}
-		{%- endif -%}
-		{%- endfor -%}
-		{% endcomment %}
-
-	</h5><br><br>
-
-
-			</li>
+			</li></div>
 		{% endfor %}
 	</ul>
+</div>
 </div>

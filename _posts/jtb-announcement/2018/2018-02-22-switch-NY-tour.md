@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/cornell.jpg
 photosFolder:
+tags:
+  - 2018
 ---
 
 Feb. 22 - Mar. 5, 2018: the [Switch~ Ensemble] New York State Tour.

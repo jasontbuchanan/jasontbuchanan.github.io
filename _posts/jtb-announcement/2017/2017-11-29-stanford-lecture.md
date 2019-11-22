@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/stanford_280.png
 photosFolder:
+tags:
+  - 2017
 ---
 
 https://ccrma.stanford.edu/

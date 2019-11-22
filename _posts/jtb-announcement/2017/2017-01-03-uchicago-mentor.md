@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/switch-santos-still_280.png
 photosFolder:
+tags:
+  - 2017
 ---
 
 Jan. 3-5, 2017: Guest lecturer & technical consultant/mentor composer at the University of Chicago. [Switch~ Ensemble] Residency.

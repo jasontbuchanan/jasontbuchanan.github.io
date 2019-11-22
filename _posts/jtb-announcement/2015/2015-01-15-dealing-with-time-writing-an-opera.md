@@ -7,9 +7,7 @@ headerImage:
 thumbnail: updates/hunger-intro-video.jpg
 photosFolder:
 size: quartet
-yearComposed: 2015
 tags:
-  - red
   - 2015
 ---
 

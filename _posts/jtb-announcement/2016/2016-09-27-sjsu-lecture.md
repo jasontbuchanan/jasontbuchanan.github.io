@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/jtb-portland-lecture_280-45.jpg
 photosFolder:
+tags:
+  - 2016
 ---
 
 Sep. 27, 2016: Guest lecture, San Jose State University.

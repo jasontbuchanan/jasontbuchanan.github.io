@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/bek_talk_280.jpg
 photosFolder:
+tags:
+  - 2015
 ---
 
 Oct. 14, 2015: Guest lecturer at Bergen senter for Elektronisk Kunst (BEK), Norway.

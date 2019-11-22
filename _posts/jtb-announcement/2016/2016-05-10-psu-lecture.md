@@ -6,6 +6,8 @@ categories: news
 headerImage:
 thumbnail: updates/jtb-portland-lecture_280-45.jpg
 photosFolder:
+tags:
+  - 2016
 ---
 
 May 10, 2016: Guest Lecturer, Portland State University, Composition & Saxophone seminars. Portland, OR
