@@ -1,4 +1,4 @@
-<div class="row latest-news row-portfolio">
+<div class="row latest-news">
 	{% assign newsPosts = site.posts | where_exp:"item", "item.categories contains 'news'" %}
 	<ul>
 		{%- for post in newsPosts limit:50 -%}
