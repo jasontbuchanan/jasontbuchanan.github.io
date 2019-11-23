@@ -28,6 +28,7 @@ program:
   - composer: Timothy McCormack
     title: karst survey
 thumbnail: updates/vipa_280.png
+photosFolder: vipa
 tags:
   - 2016
   - switch

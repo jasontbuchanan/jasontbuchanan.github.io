@@ -16,6 +16,7 @@ program:
     title: "soliloquios del viento"
     year: 2016
 thumbnail: updates/soliloquios-talea-450x253.jpg
+photosFolder: soliloquios-del-viento
 tags:
   - 2016
 ---

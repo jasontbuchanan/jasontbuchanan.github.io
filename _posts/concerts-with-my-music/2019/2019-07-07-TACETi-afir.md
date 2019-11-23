@@ -18,6 +18,7 @@ program:
   - composer:
     title:
 thumbnail: updates/TNM-660@2x.png
+photosFolder: all-forgetting-is-retrieval
 tags:
   - 2019
   - new

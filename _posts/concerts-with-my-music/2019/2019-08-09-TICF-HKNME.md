@@ -18,6 +18,7 @@ program:
   - composer:
     title:
 thumbnail: updates/hknme-289px.png
+photosFolder: ticf
 tags:
   - 2019
   - new

@@ -26,6 +26,7 @@ program:
     title: "HUNGER (Part III)"
     year: 2015
 thumbnail: updates/mata_280.jpg
+photosFolder: mata
 tags:
   - 2015
   - switch

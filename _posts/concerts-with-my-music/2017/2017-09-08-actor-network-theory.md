@@ -18,6 +18,7 @@ program:
   - composer:
     title:
 thumbnail: updates/royaumont_280.png
+photosFolder: actor-network-theory
 tags:
   - 2017
 ---

@@ -5,7 +5,7 @@ date: 2019-10-09
 categories: news
 headerImage: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
-photosFolder: UT-austin-Oct-2019/
+photosFolder: UT-austin/
 tags:
   - new
   - 2019

@@ -5,6 +5,7 @@ date: 2019-10-09
 categories: news
 headerImage: updates/ticf-academy-2000px@2x.png
 thumbnail: updates/ticf-academy-2000px@2x.png
+photosFolder: ticf
 tags:
   - new
   - 2019

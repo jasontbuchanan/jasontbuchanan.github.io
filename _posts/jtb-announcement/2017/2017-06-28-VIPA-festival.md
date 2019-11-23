@@ -5,6 +5,7 @@ describe: 2017 VIPA Festival Executive Director and Faculty member. <em>soliloqu
 title: "2017 VIPA Festival Executive Director and Faculty member. Valencia International Performance Academy & Festival."
 date: 2017-06-28
 thumbnail: updates/vipa2017_360x151.png
+photosFolder: vipa
 tags:
   - 2017
 ---

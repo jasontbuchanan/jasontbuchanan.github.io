@@ -5,7 +5,7 @@ date: 2018-04-06
 categories: news
 headerImage:
 thumbnail: updates/mahidol-logo.jpg
-photosFolder:
+photosFolder: mahidol
 tags:
   - 2018
   - lecture

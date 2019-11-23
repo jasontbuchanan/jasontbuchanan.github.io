@@ -5,7 +5,7 @@ date: 2015-12-09
 categories: news
 headerImage:
 thumbnail: updates/hunger-intro-video.jpg
-photosFolder:
+photosFolder: mata
 tags:
   - older
 ---

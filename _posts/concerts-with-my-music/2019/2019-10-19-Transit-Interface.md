@@ -18,6 +18,7 @@ program:
   - composer:
     title:
 thumbnail: updates/transit-289px.png
+photosFolder: soliloquios-del-viento
 tags:
   - 2019
   - new

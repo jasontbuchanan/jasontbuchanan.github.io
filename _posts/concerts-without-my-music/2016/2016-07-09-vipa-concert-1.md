@@ -28,6 +28,7 @@ program:
   - composer: Samuel Gillies
     title: Apologies, I Am Here Now
 thumbnail: updates/vipa_280.png
+photosFolder: vipa
 tags:
   - 2016
   - switch

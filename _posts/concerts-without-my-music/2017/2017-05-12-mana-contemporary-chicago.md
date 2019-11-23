@@ -23,7 +23,7 @@ program:
   - composer: Anna Walton
     title: Jökulsárlón
 thumbnail: updates/camci_landscape_400x200.jpg  
-photosFolder: uchicago/
+photosFolder: uchicago
 tags:
   - 2017
   - switch

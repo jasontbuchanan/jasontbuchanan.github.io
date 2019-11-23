@@ -5,6 +5,7 @@ date: 2019-08-31
 categories: news
 author: "Jason Thorpe Buchanan"
 thumbnailImage: assets/images/works-images/thumbnails/gimmeshelter_1_250x167.jpg
+photosFolder: harvard
 tags:
   - 2019
   - switch
