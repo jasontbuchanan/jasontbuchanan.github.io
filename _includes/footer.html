@@ -21,7 +21,7 @@
 
           <!-- portfolio -->
           <div class="row row-portfolio-filter">
-          <div class="col-lg-12">
+          <div class="col-sm-12">
           	<ul class="filters" id="filters">
           		<li><a class="current" data-filter=".new">New</a></li>
               <li><a href="#" data-filter=".2019">2019</a></li>
@@ -36,7 +36,7 @@
 
           		{% comment %}
           		{%- for tag in tagArray -%}
-          			<li width="400"><a href="#" data-filter=".{{ tag }}">{{ tag | capitalize }}</a></li>
+          			<li><a href="#" data-filter=".{{ tag }}">{{ tag | capitalize }}</a></li>
           		{%- endfor -%}
           		{% endcomment %}
           	</ul>
