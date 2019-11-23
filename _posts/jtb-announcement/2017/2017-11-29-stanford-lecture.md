@@ -8,6 +8,7 @@ thumbnail: updates/stanford_280.png
 photosFolder:
 tags:
   - 2017
+  - lecture
 ---
 
 https://ccrma.stanford.edu/

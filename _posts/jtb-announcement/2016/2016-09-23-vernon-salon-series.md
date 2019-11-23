@@ -8,6 +8,7 @@ thumbnail: updates/jtb-portland-lecture_280-45.jpg
 photosFolder:
 tags:
   - 2016
+  - lecture
 ---
 
 Sep. 23, 2016: Guest composer talk, Vernon Salon, Oakland.

@@ -1,6 +1,6 @@
 ---
 layout: concert
-categories: switch
+categories: performance
 date: 2019-10-05
 time: 8:00pm
 location:
@@ -26,6 +26,7 @@ headerImage: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 thumbnail: diels_filament-1000x500.jpg
 tags:
   - 2019
+  - switch
 ---
 
 The [Switch~ Ensemble] is ensemble-in-residence for the Harvard Group for New Music at Harvard University for the annual Thelma E. Goldberg Concert September 29 through October 5, 2019.

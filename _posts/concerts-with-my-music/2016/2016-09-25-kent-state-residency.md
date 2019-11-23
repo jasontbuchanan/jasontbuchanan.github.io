@@ -25,6 +25,8 @@ program:
 thumbnail: updates/pulp_1_240x160.png
 tags:
   - 2016
+  - switch
+
 
 ---
 

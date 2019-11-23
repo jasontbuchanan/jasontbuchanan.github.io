@@ -26,6 +26,8 @@ program:
 thumbnail: updates/sargent-cornell-600px-1.png
 tags:
   - 2018
+  - switch
+  - conducting
 ---
 
 More information available here: <a href="https://www.facebook.com/events/159306914720574/" target="blank">https://www.facebook.com/events/159306914720574/ </a>

@@ -29,6 +29,8 @@ thumbnail: updates/switchensemble_light-cover_280.png
 photosFolder: avaloch
 tags:
   - 2016
+  - switch
+  - conducting
 
 ---
 

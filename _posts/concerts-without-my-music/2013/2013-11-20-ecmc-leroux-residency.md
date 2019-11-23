@@ -20,6 +20,8 @@ program:
 thumbnail: updates/voirex-400-opt.png    
 tags:
   - older
+  - switch
+  - conducting
 ---
 
 Nov. 20, 2013: Voi(rex) by Philippe Leroux, Smoke and Mirrors by Christopher Chandler the [Switch~ Ensemble] – Jason Thorpe Buchanan, conductor. ECMC Concert with guest Philippe Leroux – Rochester, NY (poster)

@@ -7,6 +7,7 @@ author: "Jason Thorpe Buchanan"
 thumbnail: works-images/thumbnails/gimmeshelter_1_250x167.jpg
 tags:
   - 2017
+  - switch
 ---
 
 [Switch~] is happy to announce a call for scores and proposals to participate in a workshop at the San Francisco Center for New Music on December 13th, 2017 at 2pm. Instrumentation: (Pierrot quintet) flute/bass flute/picc, clarinet/bass clarinet, violin, cello, piano. See more details and apply now at: <a href="https://goo.gl/forms/x1N0RmxJm6pGXcKg2" target="blank">https://goo.gl/forms/x1N0RmxJm6pGXcKg2 </a>

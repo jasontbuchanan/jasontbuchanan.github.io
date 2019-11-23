@@ -28,6 +28,8 @@ program:
 thumbnail: updates/ibarra_berkeley_400x200.jpg
 tags:
   - 2017
+  - switch
+  - conducting
 ---
 
 Conducting Víctor Ibarra's <em>Química del agua</em> with [Switch~] at UC Berkeley. More information and tickets available here: <a href="https://www.facebook.com/events/263121080880704/" target="blank">https://www.facebook.com/events/263121080880704/ </a>

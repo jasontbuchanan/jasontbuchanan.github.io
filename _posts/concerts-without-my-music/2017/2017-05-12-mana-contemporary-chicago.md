@@ -26,6 +26,7 @@ thumbnail: updates/camci_landscape_400x200.jpg
 photosFolder: uchicago/
 tags:
   - 2017
+  - switch
 ---
 
 

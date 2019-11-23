@@ -26,6 +26,8 @@ program:
 thumbnail: ibarra_berkeley_1000x500.jpg
 tags:
   - 2018
+  - switch
+  - conducting
 ---
 
 More information available here: https://www.facebook.com/events/2032962806984602/

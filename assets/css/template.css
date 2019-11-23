@@ -3634,7 +3634,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
 
 .filters > li {
     display: inline-block;
-    margin: 17px 17px; /* - - CHECK ME - I AM  CHANGED this is the space before filters for work and media lists   - - - - - - - - - - - - - - ! ! ! ! */
+    margin: 18px 18px; /* - - CHECK ME - I AM  CHANGED this is the space before filters for work and media lists   - - - - - - - - - - - - - - ! ! ! ! */
     line-height: 0px; /* - - CHECK ME - I AM  CHANGED from 15 to 10  - - - - - - - - - - - - - - ! ! ! ! */
 }
 
@@ -3642,7 +3642,7 @@ background-image: url(http://jasontbuchanan.github.io/assets/images/backgrounds/
     color: #eeeeee; /* - - CHECK ME - I AM  CHANGED from black to off white  - - - - - - - - - - - - - - ! ! ! ! */
     text-transform: uppercase;
     letter-spacing: 1.3px;
-    font-size: 10px;
+    font-size: 14px;
 }
 
 .filters > li a {

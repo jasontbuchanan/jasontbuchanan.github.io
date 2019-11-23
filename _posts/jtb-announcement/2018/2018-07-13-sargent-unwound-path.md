@@ -8,6 +8,8 @@ thumbnail: updates/sargent-cornell-600px-1@2x.png
 photosFolder:
 tags:
   - 2018
+  - conducting
+  - switch
 ---
 New video recording of Matt Sargent's Unwound Path (2018) at Cornell University with the [Switch~ Ensemble], Jason Thorpe Buchanan, conductor & A/V recording.
 

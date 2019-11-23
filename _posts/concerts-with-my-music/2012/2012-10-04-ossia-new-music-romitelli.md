@@ -20,4 +20,7 @@ program:
     year: 2012
 tags:
   - 2012
+  - switch
+  - older
+  - conducting
 ---

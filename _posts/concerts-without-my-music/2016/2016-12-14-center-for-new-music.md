@@ -25,6 +25,7 @@ program:
 thumbnail: updates/switch-SF_280x149.jpg
 tags:
   - 2016
+  - switch
 ---
 
 Dec. 14-16, 2016: the [Switch~ Ensemble] plays San Francisco & Oakland Vernon Salon.

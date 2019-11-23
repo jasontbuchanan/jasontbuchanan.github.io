@@ -16,6 +16,8 @@ program:
     title: Mikrophonie I
 tags:
   - older
+  - switch
+  - conducting
 ---
 
 Performing as sound projectionist for Stockhausen's *Mikrophonie I*

@@ -8,6 +8,7 @@ thumbnail: updates/jtb-lecture_430.jpg
 photosFolder:
 tags:
   - 2015
+  - lecture
 ---
 
 Apr. 15, 2015: Guest Lecturer, University of Nevada, Las Vegas.

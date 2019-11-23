@@ -6,6 +6,7 @@ categories: news
 author: "Chris Chandler"
 tags:
   - 2017
+  - switch
 ---
 
-We are thrilled to have been awarded a $4500 grant from New Music USA to support our Spring 2018 tour.
+[Switch~] is thrilled to have been awarded a $4500 grant from New Music USA to support our Spring 2018 tour.

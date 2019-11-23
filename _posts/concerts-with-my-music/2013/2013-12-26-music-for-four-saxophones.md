@@ -18,4 +18,5 @@ thumbnail: updates/
 photosFolder:
 tags:
   - 2013
+  - older
 ---

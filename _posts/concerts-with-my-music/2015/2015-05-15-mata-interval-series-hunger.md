@@ -28,6 +28,8 @@ program:
 thumbnail: updates/mata_280.jpg
 tags:
   - 2015
+  - switch
+
 ---
 
 May 15, 2015: the [Switch~ Ensemble] presents *HUNGER (Part III)* on the MATA Interval Series in New York City alongside the music of Wojtek Blecharz, Chris Chandler, Stylianos Dimou, Stefan Prins, and Zach Sheets in a concert of New Works for Ensemble & Multimedia. DiMenna Center, NYC.
