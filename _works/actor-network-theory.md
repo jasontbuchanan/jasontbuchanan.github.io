@@ -26,7 +26,8 @@ tags:
 media:
   - title: "ACTOR-NETWORK THEORY (2017, excerpts) by Jason Thorpe Buchanan"
     url: https://player.vimeo.com/video/306331445
-headerImage: works-images/
+score: score_actor-network-theory.html
+headerImage: works-images/actor-network-theory.jpg
 thumbnailImage: works-images/thumbnails/actor-network-theory-royaumont-450x253.jpg
 ---
 

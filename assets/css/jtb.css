@@ -40,7 +40,10 @@
 .style2 {font-weight: 500; font-size: 28px; font-family: "Baskerville", Times, serif; color: #555555; text-shadow: 2px 2px #000000; padding: 15px 5px solid #000; display: block;}
 
 
-
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
 
 /*
    BODY

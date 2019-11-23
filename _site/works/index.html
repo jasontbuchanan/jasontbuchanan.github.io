@@ -44,6 +44,77 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
 
+
+<!-- THIS IS FOR SCORES -->
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" />
+
+<script type="text/javascript">
+
+function toggle_text(shown, hidden) {
+       var e = document.getElementById(shown);
+       var f = document.getElementById(hidden);
+    if(e.style.display == 'inline') {
+                  e.style.display = 'none';
+                  f.style.display = 'inline';
+      }
+      else {
+                  e.style.display = 'inline';
+                  f.style.display = 'none';
+      }
+}
+</script>
+
+ <script language="javascript">
+<!--
+function getItem(id)
+    {
+        var itm = false;
+        if(document.getElementById)
+            itm = document.getElementById(id);
+        else if(document.all)
+            itm = document.all[id];
+        else if(document.layers)
+            itm = document.layers[id];
+        return itm;
+    }
+    function toggleItem(id)
+    {
+        itm = getItem(id);
+        if(!itm)
+            return false;
+        if(itm.style.display == 'none')
+            itm.style.display = '';
+        else
+            itm.style.display = 'none';
+        return false;
+    }
+//-->
+</script>
+
+<style type="text/css">
+
+img {vertical-align: text-top;}
+
+.fancybox-slide--iframe .fancybox-content {
+    width  : 1000px;
+    height : 90%;
+    max-width  : 1000px;
+    max-height : 90%;
+    margin: 0;
+}
+
+div.nav a { padding: 10px; vertical-align: sub; }
+
+</style>
+
+
+<script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+<script src="/assets/js/lightbox-plus-jquery.min.js"></script>
+
 		<link rel="stylesheet" href="/assets/css/jtb.css">
 	</head>
 	<body>
@@ -127,7 +198,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by TACETi Ensemble & Thailand New Music & Arts Symposium</h6>
         </div>
-        <a class="portfolio-link" href="/works/all-forgetting-is-retrieval"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/all-forgetting-is-retrieval" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics video percussion two performers">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/surface-still-thumb-350.jpg" alt="">
@@ -142,7 +213,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by the Embassy of Foreign Artists</h6>
         </div>
-        <a class="portfolio-link" href="/works/surface-tension"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/surface-tension" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics chamber electroacoustic sextet or septet">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/soliloquios-interface-opt.jpg" alt="">
@@ -157,7 +228,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Royaumont, sextet version for Ensemble Interface</h6>
         </div>
-        <a class="portfolio-link" href="/works/soliloquios-del-viento-electronic"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/soliloquios-del-viento-electronic" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics chamber voices electroacoustic soprano, octet,">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/actor-network-theory-royaumont-450x253.jpg" alt="">
@@ -172,7 +243,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Royaumont Ensemble Voix Nouvelles</h6>
         </div>
-        <a class="portfolio-link" href="/works/actor-network-theory"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/actor-network-theory" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics orchestra electroacoustic sinfonietta">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/panicarchitecture-talea-450x253.jpg" alt="">
@@ -187,7 +258,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by the Earle Brown Music Foundation & TIME SPANS Festival for Talea</h6>
         </div>
-        <a class="portfolio-link" href="/works/panic-architecture"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/panic-architecture" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 chamber acoustic octet and six singers">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/soliloquios-talea.jpg" alt="">
@@ -202,7 +273,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Royaumont for the Talea Ensemble+EXAUDI</h6>
         </div>
-        <a class="portfolio-link" href="/works/soliloquios-del-viento-acoustic"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/soliloquios-del-viento-acoustic" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics video solo solo">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/pulp_1_full.jpg" alt="">
@@ -217,7 +288,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Matt Evans, Casey Grev, Emily Loboda, Marta Tiesenga, & Sean Fredenburg</h6>
         </div>
-        <a class="portfolio-link" href="/works/second-study-for-alto-sax-pulp"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/second-study-for-alto-sax-pulp" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics video conducted voices octet, three singers,">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/hunger_1_full.jpg" alt="">
@@ -232,7 +303,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Darmstadt Contemporary Opera Workshop & The Industry, L.A.</h6>
         </div>
-        <a class="portfolio-link" href="/works/hunger-part-iii"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/hunger-part-iii" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic voices sixteen voices">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/nyvirtuososingers.jpg" alt="">
@@ -247,7 +318,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by The New York Virtuoso singers</h6>
         </div>
-        <a class="portfolio-link" href="/works/hunger-fragments"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/hunger-fragments" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics video percussion trio">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/gimmeshelter_2_1200x750.jpg" alt="">
@@ -262,7 +333,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Eklekto Percussion Geneva</h6>
         </div>
-        <a class="portfolio-link" href="/works/gimme-shelter"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/gimme-shelter" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic orchestra chamber orchestra">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/deterioration_1_full.jpg" alt="">
@@ -277,7 +348,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by the Blue Water Chamber Orchestra as winner of Iron Composer 2014</h6>
         </div>
-        <a class="portfolio-link" href="/works/deterioration"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/deterioration" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics video percussion trio">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/walksidelost_1068x630.jpg" alt="">
@@ -292,7 +363,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Gaudeamus Muziekweek</h6>
         </div>
-        <a class="portfolio-link" href="/works/walkside-lost"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/walkside-lost" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic orchestra two horns and chamber orchestra">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/doubleconcerto_full.jpg" alt="">
@@ -307,7 +378,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by the International Horn Society for the Eastman Music Nova Ensemble, Jeff Nelsen, Mike Walker, and Brad Lubman</h6>
         </div>
-        <a class="portfolio-link" href="/works/double-concerto"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/double-concerto" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic quintet">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/oggetti_5.jpg" alt="">
@@ -322,7 +393,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Chamber Music Campania (Italy) & Fiati 5 Wind Quintet</h6>
         </div>
-        <a class="portfolio-link" href="/works/oggetti1"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/oggetti1" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic trio">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/antistasis_1.jpg" alt="">
@@ -337,7 +408,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Tzlil Meudcan International Contemporary Music Festival for Ensemble Nikel</h6>
         </div>
-        <a class="portfolio-link" href="/works/antistasis"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/antistasis" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic orchestra sinfonietta">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/AF2_insomnio_1_full.jpg" alt="">
@@ -352,7 +423,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by the Mizzou International Composers Festival for Alarm Will Sound</h6>
         </div>
-        <a class="portfolio-link" href="/works/asymptotic-flux-second-study"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/asymptotic-flux-second-study" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic percussion chamber percussion quartet">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/durations-unlv-1.jpg" alt="">
@@ -367,7 +438,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by Iktus Percussion</h6>
         </div>
-        <a class="portfolio-link" href="/works/durations"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/durations" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 electronics video chamber quartet">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/thorpebuchanan_asymptoticflux_1000x500px.jpg" alt="">
@@ -382,7 +453,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by the Switch~ Ensemble and OSSIA</h6>
         </div>
-        <a class="portfolio-link" href="/works/asymptotic-flux-first-study"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/asymptotic-flux-first-study" target="_blank"></a>
 			</div>
     </div><div class="portfolio-item works-item p-2 acoustic solo solo">
 			<div class="portfolio-wrapper"><img src="/assets/images/works-images/thumbnails/doublethink_350.jpg" alt="">
@@ -397,7 +468,7 @@
           </h5><br><br>
       <h6 class="portfolio-subtitle font-serif">Commissioned by the Michael Rene Torres for the 2012 North American Saxophone Alliance Conference</h6>
         </div>
-        <a class="portfolio-link" href="/works/first-study-for-alto-saxophone-doublethink"></a>
+        <a data-fancybox data-type="iframe" class="portfolio-link" href="/works/first-study-for-alto-saxophone-doublethink" target="_blank"></a>
 			</div>
     </div></div>
 	<!-- Portfolio end-->
@@ -1241,7 +1312,6 @@ http://www.newmusicbox.org/articles/2014-ascap-morton-gould-young-composer-award
       <div class="row">
         <div class="col-md-12">
           <div class="text-center"><span class="copyright">Jason Thorpe Buchanan</span></div>
-          <script src="/assets/js/lightbox-plus-jquery.min.js"></script>
         </div>
       </div>
     </div>
@@ -1266,6 +1336,36 @@ http://www.newmusicbox.org/articles/2014-ascap-morton-gould-young-composer-award
 <script src="/assets/js/audiojs/audio.min.js"></script>
 <script src="/assets/js/switch.js"></script>
 <script src="//code.jquery.com/jquery-3.3.1.min.js" type="18818c4fd68f7f60b1dc13ee-text/javascript"></script>
+
+<!-- this is for scores -->
+
+<script language="javascript"><!--
+function getItem(id)
+{var itm=false;if(document.getElementById)
+itm=document.getElementById(id);else if(document.all)
+itm=document.all[id];else if(document.layers)
+itm=document.layers[id];return itm;}
+function toggleItem(id)
+{itm=getItem(id);if(!itm)
+return false;if(itm.style.display=='none')
+itm.style.display='';else
+itm.style.display='none';return false;}</script><script src="http://www.google.com/jsapi?key=ABQIAAAA1XbMiDxx_BTCY2_FkPh06RRaGTYH6UMl8mADNa0YKuWNNa8VNxQEerTAUcfkyrr6OwBovxn7TDAH5Q"></script>
+
+<!-- <script style="-moz-outline-color: invert; -moz-outline-style: none; -moz-outline-width: medium;"language="javascript1.4"type="text/javascript"></script> -->
+
+<script language="javascript"><!--
+function getItem(id)
+{var itm=false;if(document.getElementById)
+itm=document.getElementById(id);else if(document.all)
+itm=document.all[id];else if(document.layers)
+itm=document.layers[id];return itm;}
+function toggleItem(id)
+{itm=getItem(id);if(!itm)
+return false;if(itm.style.display=='none')
+itm.style.display='';else
+itm.style.display='none';return false;}</script><script src="http://www.google.com/jsapi?key=ABQIAAAA1XbMiDxx_BTCY2_FkPh06RRaGTYH6UMl8mADNa0YKuWNNa8VNxQEerTAUcfkyrr6OwBovxn7TDAH5Q"></script>
+
+<script style="-moz-outline-color: invert; -moz-outline-style: none; -moz-outline-width: medium;"language="javascript1.4"type="text/javascript"></script>
 
 		<!-- Scripts end-->
 

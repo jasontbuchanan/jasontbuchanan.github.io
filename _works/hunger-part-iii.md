@@ -32,6 +32,8 @@ media:
     ID: 160763124
 headerImage: works-images/thorpebuchanan_hungerpart3_1000x500px.jpg
 thumbnailImage: works-images/thumbnails/hunger_1_full.jpg
+photosFolder: hunger
+
 ---
 
 CREATION & BRIEF SYNOPSIS:
