@@ -23,7 +23,7 @@ program:
     title: Unwound Path (2018)
   - composer: Jihyun Kim
     title: Once Upon a Time... (2018)
-thumbnail: ibarra_berkeley_1000x500.jpg
+thumbnail: updates/ibarra_berkeley_250x125.jpg
 tags:
   - 2018
   - switch
