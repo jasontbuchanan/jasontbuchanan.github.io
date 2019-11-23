@@ -22,6 +22,8 @@ media:
     url: https://player.vimeo.com/video/306876693
 headerImage: works-images/thorpebuchanan_asymptoticflux_1000x500px.jpg
 thumbnailImage: works-images/thumbnails/surface-still-thumb-350.jpg
+photosFolder: surface-tension
+
 ---
 
 <em>surface, tension</em> for two performers, electronics, and live video processing is the third installment in a cycle of works for ensemble and immersive processing environment. During the performance of each work in the cycle, reservoirs of media files are created, retrieved, re-organized, and composited against one another, creating temporal, aural, and visual dissonances between past and present actions—events unfolding on stage and in media generated in real-time. The commingling of fluctuating chronologies creates temporal instability, challenges the mutability of memory, and proposes an alternative, speculative engagement with bodily-lived time...

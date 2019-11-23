@@ -8,7 +8,7 @@
           <!-- capture the process of appending tags in a list -->
           <!-- append current tag to tagString, strip all whitespace, but retain space between words -->
           {% capture listOfTags %}
-          	{%- for post in site.posts -%}
+          	{%- for post in site.posts  -%}
           		{%- if post.tags -%}
           			{%- for tag in post.tags -%}
           				{{ tagString | append: tag | append: ' ' }}

@@ -2,7 +2,7 @@
 composer:
   first: Jason
   last: Thorpe Buchanan
-title: "Asymptotic Flux Second Study in Entropy"
+title: "Asymptotic Flux: Second Study in Entropy"
 duration: 9 minutes
 yearComposed: 2013
 commissionedOrWrittenFor: Commissioned by the Mizzou International Composers Festival for Alarm Will Sound
